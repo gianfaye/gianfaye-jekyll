@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Hello World (Locally)"
-description: ""
+description: "Lorem ipsum dolor sit amet"
 category: 
-tags: []
+tags: [music, tech]
 ---
 {% include JB/setup %}
