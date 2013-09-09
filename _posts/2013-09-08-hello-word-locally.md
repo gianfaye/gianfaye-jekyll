@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet.
 
 <img src="http://pulpmagazinelive.com/images/blog/pss13-coverage-main.jpg"/>
 
-**This is a sample audio embed**
+**This is a sample audio embed - smile**
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F38439689">Sample audio embed</iframe>
 
