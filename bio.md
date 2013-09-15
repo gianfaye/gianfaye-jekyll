@@ -28,7 +28,7 @@ Around 2009 I started up a blog, [Loading-Info](http://the.loading-info.net), wh
 
 ##Lack of Talent 
 
-Once day I wanted to learn how to play the cello but ended up practicing with a viola since it's more affordable and they're both C G D A. After my acoustic viola died, I bought an electric violin for which I still suck at playing. I had bands in the past where I messed with the eletric guitar and making the guitar fanatics' ears bleed because of the horrible notes I produce.
+One day I wanted to learn how to play the cello but ended up practicing with a viola since it's more affordable and they're both C G D A. After my acoustic viola died, I bought an electric violin for which I still suck at playing. I had bands in the past where I messed with the eletric guitar and making the guitar fanatics' ears bleed because of the horrible notes I produce.
 
 ##Interests
 
