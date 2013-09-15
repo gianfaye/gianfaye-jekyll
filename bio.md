@@ -32,7 +32,7 @@ Once day I wanted to learn how to play the cello but ended up practicing with a 
 
 ##Interests
 
-Aside from web technologies, I am fond of astronomy, Star Wars, Doctor Who, The Big Bang Theory, Hannibal, Seth Godin, Japan, MOOC, polymaths, GTA, gyrocopters, Marilyn Manson, Apocalyptica, MCR, some post-hardcore to black metal bands, Maksim Mrvica, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. I have 3 cats and a red-eared slider.
+Aside from web technologies, I am fond of astronomy, Star Wars, Doctor Who, The Big Bang Theory, Hannibal, Seth Godin, Japan, MOOC, polymaths like Leonardo da Vinci, GTA, gyrocopters, Marilyn Manson, Apocalyptica, MCR, some post-hardcore to black metal bands, Maksim Mrvica, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. I have 3 cats and a red-eared slider.
 
 
 Now that I've said shameless things about me just so you have any idea who you're dealing with, please close this page and go back to the [home page](/).
