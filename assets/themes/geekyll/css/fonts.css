@@ -1,0 +1,33 @@
+
+@font-face {
+	font-family: 'VoyagerRegular';
+	src: url('../fonts/voyager-grotesque/vger-regular.eot');
+	src: local('?'),
+			 url('../fonts/voyager-grotesque/vger-regular.woff') format('woff'),
+			 url('../fonts/voyager-grotesque/vger-regular.ttf') format('truetype'),
+			 url('../fonts/voyager-grotesque/vger-regular.svg#webfont') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VoyagerLight';
+	src: url('../fonts/voyager-grotesque/vger-light.eot');
+	src: local('?'),
+			 url('../fonts/voyager-grotesque/vger-light.woff') format('woff'),
+			 url('../fonts/voyager-grotesque/vger-light.ttf') format('truetype'),
+			 url('../fonts/voyager-grotesque/vger-light.svg#webfont') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'VoyagerBold';
+	src: url('../fonts/voyager-grotesque/vger-bold.eot');
+	src: local('?'),
+			 url('../fonts/voyager-grotesque/vger-bold.woff') format('woff'),
+			 url('../fonts/voyager-grotesque/vger-bold.ttf') format('truetype'),
+			 url('../fonts/voyager-grotesque/vger-bold.svg#webfont') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

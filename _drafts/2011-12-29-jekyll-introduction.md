@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+tagline: 
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
@@ -225,6 +225,8 @@ The page variable holds accessible data for the given page or post being rendere
 
 **Create a Template**  
 Templates are created by properly formatting a file and placing it in the `_layouts` directory.
+
+>There's a thin line between entertainment and exploitation.
 
 **Formatting**  
 Templates should be coded in HTML and contain YAML Front Matter. 

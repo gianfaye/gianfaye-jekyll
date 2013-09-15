@@ -1,0 +1,914 @@
+/* 
+
+  Main stylesheet for www.gianfaye.com
+  by Gian Faye Paguirigan
+  www.gianfaye.com | hello@gianfaye.com
+
+*/
+
+html { 
+	background: #fff;
+	
+	-webkit-font-smoothing: antialiased; 
+}
+
+h1, h2, h3, h4, h5, h6 { 
+	-webkit-font-smoothing: antialiased; 
+  font-family: 'VoyagerLight', Monaco, monospace;
+  font-weight: normal;
+}
+
+li{list-style-type: none;}
+
+body{
+	margin: 0 auto;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+body p,span,li{
+  color: #333333;
+  font-family: 'Amethysta', serif;
+}
+
+body a{
+  text-decoration: none;
+  color: #f65d2e;
+}
+
+#sidebar{
+	width: 30%;
+	float: left;
+}
+
+#panel{
+	width: 75%;
+	position: relative;
+	margin:	0 auto;
+}
+
+	header{
+		width: 50%;
+		max-width: 950px;
+		background-repeat: no-repeat;
+		background-size: contain;
+		position: relative;
+		text-align: center;
+		margin: 0 auto;
+		padding: 2%;
+		background: #FFF;
+
+		-webkit-transition: all 0.5s ease-out;
+		-moz-transition: all 0.5s ease-out;
+		-ms-transition: all 0.5s ease-out;
+		-o-transition: all 0.5s ease-out;
+		transition: all 0.5s ease-out;
+	}
+
+		.brsix{display:none;}
+		
+		header a{
+        text-decoration: none;
+		}
+
+		header a:hover{
+		}
+
+		header h1{
+			font-family: 'VoyagerLight', Monaco, monospace;
+			font-size: 14px;
+			color: #646464;
+			line-height: 87%;
+			letter-spacing: 6px;
+			text-transform: lowercase;
+		}
+
+		header a h2{
+			font-family: 'VoyagerLight', Monaco, monospace;
+			font-size: 38px;
+			color: #f65d2e;
+			margin: 0 auto;
+      padding: 5px;
+		}
+
+    header a h2 span{
+      font-family: 'VoyagerLight', Monaco, monospace;
+      color: #f65d2e;
+      font-weight: normal;
+    }
+
+		header span.idig{
+			color: #FFF;
+			font-size: 12px;
+			font-family: 'VoyagerLight', Monaco, monospace;
+			letter-spacing: 3px;
+			background: rgb(194, 39, 0);
+			padding: 5px;
+			text-transform: uppercase;
+			text-shadow: 1px 1px 0 #000;
+		}
+
+		#ui{
+			font-size: 32px; 
+			padding-bottom: 2px; 
+			border-bottom: 1px solid; 
+			vertical-align: top;
+		}
+	#subheader{
+		position: relative;
+		width: 25%;
+		height: 100%;
+		float: left;
+		padding: 3% 1%;
+		margin: 3% 2%;
+		background: rgba(0,0,0,0.5);
+		border: dashed 1px #000;
+	}
+
+	#view-panel{
+		width: 100%;
+		position: absolute;
+		float: right;
+	}
+/*
+	@-webkit-keyframes fadeIn {
+		from { width: 50%; height: 50%; opacity: 0; }
+		to { width: 100%; height: 100%; opacity: 1; }
+}
+
+	@-moz-keyframes fadeIn {
+		from { width: 50%; height: 50%; opacity: 0; }
+		to { width: 100%; height: 100%; opacity: 1; }
+	}
+
+	@-o-keyframes fadeIn {
+		from { width: 50%; height: 50%; opacity: 0; }
+		to { width: 100%; height: 100%; opacity: 1; }
+	}
+
+	@keyframes fadeIn {
+		from { width: 50%; height: 50%; opacity: 0; }
+		to { width: 100%; height: 100%; opacity: 1; }
+	}
+	*/
+	
+	
+		#window{
+		}
+			.window-spec{
+				width: 97.5%;
+				max-width: 900px;
+				top: 5em;
+				background: rgba(9, 9, 9, 1);
+				border: 1px solid black;
+				position: fixed;
+				right: 10.5%;
+				z-index: 1500;
+			}
+		
+			#window-web{
+				-webkit-animation: fadeIn 0.2s;
+				-moz-animation: fadeIn 0.2s;
+				-ms-animation: fadeIn 0.2s;
+				-o-animation: fadeIn 0.2s;
+				animation: fadeIn 0.2s;
+				display: none;
+			}
+		
+			#window-mobile{
+				-webkit-animation: fadeIn 0.2s;
+				-moz-animation: fadeIn 0.2s;
+				-ms-animation: fadeIn 0.2s;
+				-o-animation: fadeIn 0.2s;
+				animation: fadeIn 0.2s;
+				display: none;
+			}
+		
+			#window-print{
+				-webkit-animation: fadeIn 0.2s;
+				-moz-animation: fadeIn 0.2s;
+				-ms-animation: fadeIn 0.2s;
+				-o-animation: fadeIn 0.2s;
+				animation: fadeIn 0.2s;
+				display: none;
+			}
+			
+				.window-info{
+					float: left;
+					position: relative;
+					width: 40%;
+					padding: 5%;
+				}
+					
+					.window-info li{
+						padding-top: 3%;
+						padding-left: 3%;
+					}
+					
+					.window-info h4{
+						color: #FFF;
+						font-family: 'VoyagerBold', Monaco, monospace;
+						font-size: 24px;
+					}
+					
+					.window-info h5{
+						color: #f65d2e;
+						font-family: 'VoyagerLight', Monaco, monospace;
+						font-size: 14px;
+						letter-spacing: 4px;
+						line-height: 120%;
+					}
+					
+					.window-info p{
+						color: #FFF;
+						font-family: 'VoyagerLight', Monaco, monospace;
+						font-size: 12px;
+						letter-spacing: 4px;
+						line-height: 120%;
+					}
+			
+				.window-imgs{
+					float: left;
+					position: relative;
+					width: 40%;
+					padding-top: 7%;
+					padding-bottom: 5%;
+				}
+			
+					.window-imgs h6{
+						color: #FFF;
+						font-family: 'VoyagerLight', Monaco, monospace;
+						font-size: 14px;
+						letter-spacing: 4px;
+						line-height: 120%;
+						padding-bottom: 15px;
+					}
+					
+					.window-imgs span{
+						color: #999;
+					}
+					
+					.window-img{
+						float: left;
+						position: relative;
+						width: 40%;
+						margin: 5%;
+						height: 100px;
+						background: url('../images/bg_blank-project.png');
+						background-position: center;
+						overflow: hidden;
+					}
+					
+					.window-img img{
+						max-width: 100%; 
+					}
+
+					@media screen and (max-width: 750px){
+					
+						.window-imgs{
+							padding-bottom: 5%;
+						}
+				
+						.window-img{
+							clear: both;
+							width: 80%;
+						}
+					}
+		
+		#window-panel{
+			position: fixed;
+			right: 10%;
+			top: 60px;
+			z-index: 2000;
+		}
+		
+		#window-panel-label{
+			width: 60px;
+			height: 20px;
+			background: url(../images/window-panel-label.png);
+			margin-right: 5px;
+		}
+		
+		#window-panel-category{
+			position: absolute;
+			width: 215px;
+			height: 180px;
+			background: url(../images/category.png);
+			right: 60px;
+			top: 35px;
+			z-index: 0;
+		}
+		
+		.button-open, .button-close{
+			width: 30px;
+			height: 30px;
+			margin: 10px;
+			margin-left: 15px;
+		}
+		
+		.button-open{
+			background: url(../images/panel-icons.png);
+			background-position: left;
+		}
+		
+		.button-close{
+			background: url(../images/panel-icons.png);
+			background-position: right;
+		}
+
+	#main{
+		width: 75%;
+		clear: both;
+		margin: 0 auto;
+		position: relative;
+		background: #FFF;
+		z-index: 99999 !important;
+	}
+	
+	#menu{
+		position: relative;
+		width: 585px;
+		height: 20px;
+		background: #FFF;
+		margin: 0 auto;
+		z-index: 99999;
+
+		-webkit-transition: all 0.5s ease-out;
+		-moz-transition: all 0.5s ease-out;
+		-ms-transition: all 0.5s ease-out;
+		-o-transition: all 0.5s ease-out;
+		transition: all 0.5s ease-out;
+	}
+
+    #menu ul{
+      list-style-type: none;
+    }
+
+
+		.menu-fixed{
+			position: fixed;
+			top: 10px;
+		}
+		.menu-relative{
+			position: relative;
+		}
+	
+	nav a{
+		color: #000;
+		width: 90%;
+		font-family: 'VoyagerRegular', Monaco, monospace;
+		font-size: 12px;
+		padding: 10px;
+		letter-spacing: 4px;
+    text-decoration: none;
+	}
+	
+	nav a span{
+		color: #f65d2e;
+	}
+	
+	nav a:hover{
+		color: #999;
+	}
+	
+	nav ul{
+	
+	}
+	
+	nav li{
+		float: left;
+	}
+    
+  .content{
+    padding: 2% 0 2% 0;
+    min-height: 300px;
+  }
+    
+  .content h1, .content h2, .content h3, .content h4, .content h5, .content h6{
+      font-family: 'VoyagerRegular', Monaco, monospace;
+      font-weight: normal;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      line-height: 150%;
+      padding-left: 17px;
+      margin-left: -17px;
+      margin-top: 20px;
+  }
+    
+  .content h1{
+      border-left: 5px solid #eee;
+  }
+  .content h2{
+      border-left: 4px solid #eee;
+      margin-left: -17px;
+  }
+  .content h3{
+      border-left: 2px solid #eee;
+      font-style: italic;
+  }
+
+  .content p{
+      line-height: 200%;
+      font-size: 1em;
+      color: #3A3A3A;
+      margin-top: 10px;
+      margin-left: 5px;
+  }
+
+    .content li{
+        list-style-type: square;
+        margin-left: 3%;
+        line-height: 180%;
+        font-size: 0.8em;
+    }
+
+    .posts{
+      padding: 5%;
+    }
+
+    .posts li{
+      list-style-type: none;
+      line-height: 100%;
+      margin-bottom: 25px;
+    }
+
+    .posts li span{
+      font-family: 'VoyagerRegular', Monaco, monospace;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      font-size: 0.8em;
+      border-top: 1px dotted #999;
+      padding-top: 5px;
+      line-height: 120%;
+      margin-top: 5px;
+    }
+
+    .posts li a{
+      font-family: 'VoyagerLight', Monaco, monospace;
+      font-size: 2em;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      font-style: italic;
+      background: #FFF;
+      display: inherit;
+    }
+
+    .page-header h1{
+      border-left: 3px solid #eee;
+      padding-left: 16px;
+    }
+
+    #about p{
+      color: #70706F;
+      font-size: 12px;
+      font-family: "Lucida Console", Monaco, monospace;
+      padding: 2%;
+      line-height: 170%;
+      border: 1px dotted #999;
+      margin-top: 25px;
+      text-align: center;
+    }
+
+    #about a span{
+      color: #f65d2e;
+      font-size: 1.5em;
+      font-family: 'VoyagerLight', Monaco, monospace;
+      padding-bottom: 3px;
+    }
+		
+		#projects{
+			position: relative;
+			float: left;
+			width: 100%;
+		}
+		
+		.project-item{
+			float: left;
+			position: relative;
+			margin: 2.5%;
+			padding: 25px;
+			max-height: 325px;
+			overflow: hidden;
+			border-bottom: 1px dashed #000;
+			-webkit-transition: all 0.5s ease-out;
+			-moz-transition: all 0.5s ease-out;
+			-ms-transition: all 0.5s ease-out;
+			-o-transition: all 0.5s ease-out;
+			transition: all 0.5s ease-out;
+		}
+		
+		.project-item:hover{
+			max-height: 600px;
+		}
+		
+		.project-details{
+			position: relative;
+			float: left;
+			width: 22%;
+			padding: 0 2% 2% 2%;
+			z-index: 1000;
+			margin-top: 3%;
+		}
+		
+			.project-title{
+				padding: 15px;
+				background: black;
+				color: white;
+			}
+			
+				.project-title h3{
+					font-family: 'VoyagerLight', Monaco, monospace;
+					text-align: center;
+					font-size: 1em;
+					letter-spacing: 1px;
+				}
+			
+			.project-subtitle h4{
+				text-align: right;
+				font-family: 'VoyagerRegular', Monaco, monospace;
+				font-size: 12px;
+				margin-right: 10px;
+				margin-top: 10px;
+			}
+			
+			.project-description{
+				margin: 10px;
+				padding: 5px;
+				max-height: 100px;
+				overflow-y: scroll;
+			}
+			.project-description:hover{
+				cursor: n-resize;
+			}
+			
+				.project-description p{
+					width: 100%;
+					text-align: left;
+					color: rgb(0, 0, 0);
+					line-height: 150%;
+				}
+			
+			.project-type-item h5{
+				color: #f65d2e;
+				font-family: 'VoyagerRegular', Monaco, monospace;
+				font-size: 9px;
+				padding: 5px;
+				background: #090909;
+				text-align: right;
+				margin: 5px;
+				letter-spacing: 4px;
+			}
+			
+			.project-launch{
+				width: 50px;
+				border-bottom: 1px dashed #000;
+				background: url('../images/rocket-launcher.png');
+				background-position: top center;
+				background-repeat: no-repeat;
+				text-align: center;
+				padding-top: 25px;
+				line-height: 130%;
+				margin: 0 auto;
+				margin-top: 25px;
+				height: 65px;
+				-webkit-transition: all 0.5s ease-out;
+				-moz-transition: all 0.5s ease-out;
+				-ms-transition: all 0.5s ease-out;
+				-o-transition: all 0.5s ease-out;
+				transition: all 0.5s ease-out;
+			}
+			
+			.project-launch:hover{
+				width: 50px;
+				background-position: bottom center;
+			}
+			
+			.project-launch a{
+				display: block;
+				letter-spacing: 3px;
+				color: black;
+				font-size: 12px;
+				padding-top: 75px;
+				margin-left: -125px;
+				width: 300px;
+			}
+			
+			.project-launch a span{
+				border-bottom: 1px dotted black;
+				font-weight: bolder;
+				letter-spacing: 1px;
+			}
+			
+			.project-launch a span:hover{
+				border-bottom: 3px solid black;
+			}
+			
+		
+	* {margin: 0;
+		padding: 0
+	}
+	.project-image-container {
+		width: 100%;
+		height: 100%;
+		overflow: hidden;
+	}
+	
+	.project-image-container p {
+		margin: 0;
+	}
+		.project-image{
+			position: relative;
+			float: left;
+			width: 74%;
+		}
+		
+			.project-image img{
+				width: 100%;
+			}
+
+/*
+
+#logo{
+	width: 260px;
+	height: 125px;
+	margin: 0 auto;
+	padding-top: 225px;
+	position: relative;
+	background: url(../images/logo.png);
+	background-repeat: no-repeat;
+}
+
+aside{
+	width: 300px;
+	margin-left: 75px;
+	margin-top: 30px;
+}
+
+#about p{
+	color: #949494;
+line-height: 150%;
+}
+
+header h1{
+	font-family: 'Tommaso';
+	color: #DADADA;
+	font-size: 50px;
+	padding-top: 78px;
+	padding-left: 81px;
+	padding-bottom: 5px;
+}
+
+header h2{
+	font-family: 'BatmanForever';
+	color: #C2C2C2;
+	font-size: 20px;
+	padding-left: 92px;
+}
+
+hgroup{
+}
+
+h1{
+
+}
+
+h4{
+
+}
+
+h6{
+
+}
+
+h5{
+
+}
+
+figure
+
+}
+
+nav{
+
+}
+
+nav ul{
+
+}
+
+nav li{}
+nav a{}
+nav a:hover{}
+
+#contents{
+	height: auto;
+	width: auto;
+	min-width: 70%;
+	float: left;
+	position: relative;
+	margin-top: 5%;
+	min-height: 2000px;
+}
+
+#projects h2{
+	font-family: 'BatmanForever';
+	color: #C2C2C2;
+	font-size: 18px;
+	padding-left: 30%;
+}
+
+.project-item{
+	float: left;
+	position: relative;
+	height: 400px;
+}
+*/
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+
+.navbar .nav {
+  float: right; }
+
+/* posts index */
+.post > h3.title {
+  position: relative;
+  padding-top: 10px; }
+
+.post > h3.title span.date {
+  position: absolute;
+  right: 0;
+  font-size: 0.9em; }
+
+.post > .more {
+  margin: 10px 0;
+  text-align: left; }
+
+/* post-full*/
+.post-full .date span{
+  font-family: 'VoyagerLight', Monaco, monospace;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-left: 6px;
+}
+
+/* tag_box */
+.tag_box {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; }
+
+.tag_box li {
+  line-height: 28px; 
+  list-style-type: none;
+}
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float: left; }
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #555;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px dashed #cccccc; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.tag_box a:hover {
+  background-color: #e5e5e5; }
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4c964d;
+  color: #FFF; }
+
+address{display:block;margin-bottom:20px;font-style:normal;line-height:20px;}
+code,pre{padding:0 3px 2px;font-family:Monaco,Menlo,Consolas,"Courier New",monospace;font-size:12px;color:#333333;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+code{padding:2px 4px;color:#d14;background-color:#f7f7f9;border:1px solid #e1e1e8;white-space:nowrap;}
+pre{display:block;padding:9.5px;margin:0 0 10px;font-size:13px;line-height:20px;word-break:break-all;word-wrap:break-word;white-space:pre;white-space:pre-wrap;background-color:#f5f5f5;border:1px solid #ccc;border:1px solid rgba(0, 0, 0, 0.15);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}pre.prettyprint{margin-bottom:20px;}
+pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background-color:transparent;border:0;}
+.pre-scrollable{max-height:340px;overflow-y:scroll;}
+
+    .pagination{
+      padding: 2% 0 5% 0;
+      margin-top: 25px;
+      border-top: 1px solid #999;
+      border-bottom: 1px solid #999;
+    }
+
+    .pagination li{
+      list-style-type: none;
+      margin: 0 auto;
+      width: 33.333333333%;
+      float: left;
+      text-align: center;
+    }
+    
+    .disabled a{
+      color: #999;
+    }
+
+    blockquote {
+      margin: 2em 3em;
+      padding: 0.5em 10px;
+      quotes: "\201C""\201D""\2018""\2019";
+    }
+
+    blockquote:before {
+      color: #EBEBEB;
+      content: open-quote;
+      font-size: 9em;
+      line-height: 0.1em;
+      margin-left: -0.4em;
+      vertical-align: -0.4em;
+    }
+
+    blockquote p{
+      font-family: 'VoyagerRegular', Monaco, monospace;
+      font-size: 2em !important;
+      text-transform: uppercase;
+      font-style: italic;
+      line-height: 120% !important;
+      margin-top: -50px !important;
+      display inline;
+    }
+
+footer{
+	position: relative;
+	float: left;
+	width: 100%;
+  min-height: 250px;
+	background: url(../images/footer-mountain-shit.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	-o-background-size: contain;
+	-webkit-background-size: contain;
+	-moz-background-size: contain;
+	background-size: contain;
+	background-size: contain;
+	bottom: -5px;
+}
+
+footer p{
+  width: 100%;
+  position: absolute;
+  bottom: 5%;
+  color: #FFF;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 0.8em;
+}
+
+footer a{
+  color: #f65d2e;
+  font-size: 1em;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+
+
+/* ----CSS codes for reference: ----
+	
+Background Size // cover | contain | percentage
+
+	-webkit-background-size: 100% auto;
+	-moz-background-size: 100% auto;
+	-o-background-size: 100% auto;
+	background-size: 100% auto;
+	
+Border Radius // top - right - bottom- left
+
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	
+Box Shadow // color, x, y, blur
+
+  -webkit-box-shadow: #000 0px 0px 0px;
+  -moz-box-shadow: #000 0px 0px 0px;
+  box-shadow: #000 0px 0px 0px;
+	
+Element Transitions 
+
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+	
+--- Delete this part before uploading. */
+
+

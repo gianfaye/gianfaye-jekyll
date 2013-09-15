@@ -15,12 +15,14 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <!--link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet"-->
+    <link href="{{ ASSET_PATH }}/css/fonts.css" rel="stylesheet" type="text/css">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-
+    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Amethysta' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="images/favicon.ico">
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
-    <link rel="shortcut icon" href="images/favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -33,10 +35,26 @@
   </head>
 
   <body>
-    <div class="navbar">
+    <header>
+      <a class="brand" href="{{ HOME_PATH }}"><h2>[ GIAN FAYE PAG<span id="ui">UI</span>RIGAN]</h2></a>
+      <h1>/* web geek &amp; ailurophilic */</h1>
+    </header>
+      <div id="menu">
+        <nav class="menu-relative">
+        <ul>
+          <li><a href="/bio.html"><span>&raquo;</span>  _BIO</a></li>
+          <li><a href="/projects.html"><span>&raquo;</span>  _PROJECTS</a></li>
+          <li><a href="/archive.html"><span>&raquo;</span>  _ARCHIVE</a></li>
+          <li><a href="/links.html"><span>&raquo;</span>  _LINKS</a></li>
+          <li><a href="/colophon.html"><span>&raquo;</span>  _COLOPHON</a></li>
+        </ul>
+        </nav>
+      </div>
+    <!--div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <!--a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a->
+          <br>
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
@@ -44,21 +62,21 @@
           </ul>
         </div>
       </div>
-    </div>
+    </div-->
 
     <div class="container-narrow">
 
       <div class="content">
         {{ content }}
       </div>
-      <hr>
       <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+        <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">&copy;</a> {{ site.time | date: '%Y' }} {{ site.author.name }}</span>
+          | Twitter: <a href="http://www.twitter.com/GianFaye" target="_blank">@gianfaye</a> Email: <a href="mailto:hello@gianfaye.com" target="_blank"><script language="javascript"><!-- 
+          document.write("hello" + "@" + "gianfaye.com"); 
+          //--> 
+          </script></a>
         </p>
       </footer>
-
     </div>
 
     {% include JB/analytics %}
