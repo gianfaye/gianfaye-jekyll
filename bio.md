@@ -7,11 +7,11 @@ header : Bio
 
 #Bio
 
-Hi! My name is **Gian Faye**, a ( > 20 && < 25) y/o web geek from the Philippines. Although most people over the phone addresses me as a 'Sir', the hell I'm not. (I blame it on the deep dark tone of my voice.) Now that you are cleared I'm not a 'Sir,' we can move on.
+Hi! My name is **Gian Faye**, a ( > 20 && < 25) y/o web geek from the Philippines. Although most people over the phone addresses me as a 'Sir', the hell I'm not. (I blame it on the dark tone of my voice.) Now that you are cleared I'm not a 'Sir,' we can move on.
 
 ##Work
 
-I'm presently working as the web developer (and apparently webmaster) for [PULP Magazine](http://pulpmagazinelive.com), the premier music magazine of the Philippines and [PULP Live World Production](http://pulpliveworld.com) by which I developed (and maintain) three web projects and one mobile app dev't in progress.
+I'm presently working as the web developer (and apparently webmaster) for [PULP Magazine](http://pulpmagazinelive.com), the premier music magazine of the Philippines and [PULP Live World Production](http://pulpliveworld.com) by which I developed (and maintain) three web [projects](/projects) and one mobile app dev't in progress.
 
 In before PULP (from late 2011 to early 2012), I did web projects for [Innodan Pte. Ltd.](http://www.innodan.com/) which is based in Singapore. 
 ##Education
@@ -32,7 +32,9 @@ One day I wanted to learn how to play the cello but ended up practicing with a v
 
 ##Interests
 
-Aside from web technologies, I am fond of astronomy, Star Wars, Doctor Who, The Big Bang Theory, Hannibal, Seth Godin, Japan, MOOC, polymaths like Leonardo da Vinci, GTA, gyrocopters, Marilyn Manson, Apocalyptica, MCR, some post-hardcore to black metal bands, Maksim Mrvica, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. I have 3 cats and a red-eared slider.
+Aside from web technologies, I am fond of astronomy, Star Wars, Doctor Who, The Big Bang Theory, Hannibal, Seth Godin, Japan, MOOCs, polymaths like Leonardo da Vinci, GTA, gyrocopters, Marilyn Manson, Apocalyptica, MCR, some post-hardcore to black metal bands, Maksim Mrvica, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
+
+I have 3 cats and a red-eared slider.
 
 
-Now that I've said shameless things about me just so you have any idea who you're dealing with, please close this page and go back to the [home page](/).
+Now that I've said shameless things about myself just so you have any idea who you're dealing with, please close this page and go back to the [home page](/).
