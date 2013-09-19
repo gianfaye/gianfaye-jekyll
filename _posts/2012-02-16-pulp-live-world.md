@@ -2,7 +2,7 @@
 layout: post
 title : PULP Live World
 tagline : Official Website
-category : projects
+category : project
 tags : [web development, joomla, ecommerce]
 ---
 {% include JB/setup %}

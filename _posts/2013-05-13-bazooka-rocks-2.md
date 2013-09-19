@@ -2,7 +2,7 @@
 layout: post
 title : Bazooka Rocks II
 tagline : Official Website
-category : projects
+category : project
 tags : [web development, microsite]
 ---
 {% include JB/setup %}

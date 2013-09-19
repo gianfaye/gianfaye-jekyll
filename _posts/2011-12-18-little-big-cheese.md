@@ -2,7 +2,7 @@
 layout: post
 title : Little Big Cheese
 tagline : Magazine Layout
-category : projects
+category : project
 tags : [print, magazine, InDesign]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title : PULP Magazine Live
 tagline : Official Website
-category : projects
+category : project
 tags : [web development, php, mysql, cms, map]
 ---
 {% include JB/setup %}
