@@ -11,7 +11,7 @@ tags : [web development, joomla, ecommerce]
 
 ##The Site
 
-The website serves as the information and promotional site to their upcoming events and as an archive of their shows since the past decade. Also built with the website is an e-commerce their merchandise.
+The website serves as the information and promotional site to their upcoming events and as an archive of their shows since the past decade. Also built with the website is an e-commerce for their merchandise.
 
 ![PULP Live World](/assets/images/pulp-live-world-1.jpg)
 
