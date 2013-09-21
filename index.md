@@ -5,12 +5,13 @@ tagline:
 ---
 {% include JB/setup %}
 {% include themes/geekyll/about.html %}
+{% include themes/geekyll/projects-home.html %}
 
-<br>
+<br />
 
-Hey, thanks for checking out... The development of this website is still in progress so you might want to check it again later. In the meantime, you can contact me using the links on the iceberg below.
+<small>Hey! If you need to contact me, see iceberg below &darr;</small>
 
-<!--ul class="posts">
+<!--ul class="posts" style="clear:both;">
   {% for post in site.categories.blog %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
       <span>{{ post.date | date: "%B %Y" }}</span></li>
