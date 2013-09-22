@@ -11,7 +11,7 @@ The video below is a talk by [Brad Frost](http://bradfrostweb.com/) last April 2
 
 <br />
 
-<iframe src="//player.vimeo.com/video/63437853?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="650" height="365" frameborder="0" allowfullscreen="1">  </iframe>
+<iframe src="//player.vimeo.com/video/63437853?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="675" height="385" frameborder="0" allowfullscreen="1">  </iframe>
 
 ##The Singularity
 
@@ -28,6 +28,8 @@ I for once has self-proclaimed to stop patronizing any live tv shows and stop wa
 ##Ads are Browser Germs
 
 Never once had I participated in any web design/dev't project where I have to place a section for ads. Hell, I know I'm not alone when I say most blogs out there contain ads in before and after the main content. It's a disease. Aesthetic cancer. That's why most of websites and blogs I often visit are those with only one column and zero ads. It looks neat and it gives you more focus to the content rather than loading tons of different crap per web page. Please keep you websites germ-free.
+
+> Simplicity is the ultimate sophistication. - Leonardo da Vinci
 
 ##Innovate to Crapulate
 
