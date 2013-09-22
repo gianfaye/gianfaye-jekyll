@@ -12,6 +12,6 @@ tagline:
 <ul class="posts" style="clear:both;">
   {% for post in site.categories.blog %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-      <span>{{ post.date | date: "%B %Y" }}</span></li>
+      <span>{{ post.date | date_to_string }}</span></li>
   {% endfor %}
 </ul>
