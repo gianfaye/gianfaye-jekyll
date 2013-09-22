@@ -45,6 +45,6 @@ Well, I've had planned on creating [this website via Jekyll](/colophon) since la
 
 I wanted it to be done just so I could eliminate the online hubs I'm going to (or be needing to) visit (hopefully) in the near future. I'm pointing at you, Facebook. But since my phone is broken. (Which I'm quite enjoying for a while now.) I may need to find a way to not totally cut the cord with my connections. So maybe that's why I decided I really needed to put up this website. 
 
-It would really help you focus if you don't have access to lots of nonsense crap that is clouding the interwebs lately. Or better yet, create/do better things and overpower the 90% *crap mentality*.
+It would really help you focus on [what matters](http://www.youtube.com/watch?v=t2Spix4QZwk) if you don't have access to lots of nonsense crap that is clouding the interwebs lately. Or better yet, create/do better things and overpower the 90% *crap mentality*.
 
 >Creation out of nothing. I often say that origami is as close as you can get to that. It's a piece of paper. Beyond that, you don't need anything else. - [Joseph Wu](http://creativemornings.com/talks/joseph-wu)
