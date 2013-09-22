@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Hug A Developer Today
-tagline : Article
+tagline : Blog
 category : blog
 tags : [work, programming]
 ---
