@@ -13,6 +13,6 @@ tags : [print, branding, logo design]
 
 ![Goldenbeck Coaching](/assets/images/goldenbeck-flyers.jpg)
 
-While at Innodan, I designed a logo for Goldenbeck Coaching and created flyer designs in English and Danish for print. 
+While at [Innodan](/bio#work), I designed a logo for Goldenbeck Coaching and created flyer designs in English and Danish for print. 
 
 The logo design is live on their website at [www.goldenbeck.com](http://www.goldenbeck.com).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Eliminating All The Crap
-tagline : Blog
+tagline : 
 category : blog
 tags : [lifestyle, creativity, talks]
 ---

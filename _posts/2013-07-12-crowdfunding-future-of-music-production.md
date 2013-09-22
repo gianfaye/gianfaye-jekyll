@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Crowdfunding for Music Production
-tagline : Article
+tagline : 
 category : blog
 tags : [guest post, music]
 ---

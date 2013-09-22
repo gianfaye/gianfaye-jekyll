@@ -15,5 +15,4 @@ I self-studied the language first but had a difficult time gathering resources a
 
 I swear it is one of the most [horrifying](https://blog.abevoelker.com/progress_openedge_abl_considered_harmful/) [languages](http://www.oehive.org/node/1913) ever built in the history of the information age. Learning it makes you want to pull your hair out and realizing it's not worth it.
 
-
 ![OpenEdge? Fuck that shite (via abevoelker.com)](/assets/images/progress-openedge-abl.jpg)

@@ -769,11 +769,15 @@ pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background
     .pagination li{
       list-style-type: none;
       margin: 0 auto;
-      width: 33.333333333%;
+      width: 43.333333333%;
       float: left;
       text-align: center;
     }
     
+	li.archive-nav{
+      width: 10%;
+	}
+
     .disabled a{
       color: #999;
     }

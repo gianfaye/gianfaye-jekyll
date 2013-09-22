@@ -13,6 +13,9 @@ header : Projects
     {% if post.categories contains 'project' and post.tags contains 'web development' %}
         <li><span>{{ post.date | date: "%B %Y" }}</span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
+    {% if post.categories contains 'project' and post.tags contains 'web design' %}
+        <li><span>{{ post.date | date: "%B %Y" }}</span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
 {% endfor %}
 </ul>
 
