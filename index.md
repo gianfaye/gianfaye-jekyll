@@ -15,5 +15,3 @@ tagline:
       <span>{{ post.date | date: "%B %Y" }}</span></li>
   {% endfor %}
 </ul>
-
-<small>Hey! If you need to contact me, see iceberg below &darr;</small>
