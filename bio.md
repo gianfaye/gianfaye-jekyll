@@ -7,7 +7,7 @@ header : Bio
 
 #Bio
 
-Hi! My name is **Gian Faye**, a ( > 20 && < 25) y/o web geek from the Philippines. Although most people over the phone addresses me as a 'Sir', the hell I'm not. (I blame it on the dark tone of my voice.) Now that you are cleared I'm not a 'Sir,' we can move on.
+Hi! My name is **Gian Faye**, a ( > 20 && < 25) y/o web geek from the Philippines. Although most people over the phone [and the internet](/assets/images/not-a-sir.jpg)) addresses me as a 'Sir', the hell I'm not. (I blame it on the dark tone of my voice, though.) Now that you are cleared I'm not a 'Sir,' we can move on. 
 
 ##Work
 
@@ -20,7 +20,7 @@ I didn't graduate from [De La Salle University - Dasmariñas](http://www.dlsud.e
 
 ##Languages/Frameworks
 
-Although I'm language agnostic, I'm looking forward to using JavaScript more often for the projects I'll be working on in the future. I've had history with PHP/MySQL, friended jQuery, but I'm seriously checking out Backbone.js, Node.js and Ruby.
+Although I'm language agnostic, I'm looking forward to using JavaScript more often for the projects I'll be working on in the future. I've had history with PHP/MySQL, friended jQuery, but I'm seriously checking out Backbone.js, Node.js, Python, and Ruby. 
 
 ##Publications
 
