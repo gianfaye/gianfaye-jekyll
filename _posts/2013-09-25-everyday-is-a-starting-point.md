@@ -63,10 +63,11 @@ Goals can be best represented by points, not lines. If you are a 90's kid, you m
 
 I use Trello for tracking the status of my goals. It is like a [kanban board](http://en.wikipedia.org/wiki/Kanban_board) and you have lists, and you have cards on your lists. You can even have checklists inside the cards. It would be much easier to finish the goal if you have the process in record.
 
-Although I use trello, I'll also be using this website to record the things I learned, as I learn them. If you are into [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course)s, and you are interested with what I'm currently learning, send me a message. We could learn together and be classmates! :)
+Although I use trello, I'll also be using this website to record the things I learned, as I learn them. If you are into [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course)s, and you are interested with what I'm currently learning, send me a message. We could learn together and be classmates!
 
-After or while learning, and if I gain enough skill, I would like to focus on creating or contributing to open-source projects, mainly related to web development but I'm also interested with mobile robots and software-hardware projects like turning off your bedroom lights from your phone without having to get up. :)
+After or while learning, and if I gain enough skill, I would like to focus on creating or contributing to open-source projects, mainly related to web development but I'm also interested with mobile robots and software-hardware projects like turning off your bedroom lights from your phone without having to get up.
 
 In regards to my musical endeavor, I stopped comparing myself and how I suck at playing from others and just play whatever I want to play. [This is what I'm currently digging right now.](http://www.youtube.com/watch?v=rHDCJmzajQc) (I so miss Sherlock and can't wait for the next season.)
 
 If you have any suggestions, additional advice, or just want to say hello, you are free to contact me. See iceberg below for contact info. &darr;
+
