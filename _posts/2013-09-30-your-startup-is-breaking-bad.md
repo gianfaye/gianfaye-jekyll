@@ -7,7 +7,7 @@ tags : [thoughts, startup, work]
 ---
 {% include JB/setup %}
 
-*__SPOLER ALERT:__ If you haven't watched the series yet (until the finale), be warned that this post will give references to scenes of Breaking Bad and may contain spoilers. Read at your own risk.*
+*__SPOLER ALERT:__ If you haven't watched the series yet (until the finale), be warned that this post will give references to scenes of Breaking Bad and contains spoilers. Read at your own risk.*
 
 Assuming you are Walter White, you just realized that either your present career is hopeless or your life is somewhat heading towards a dead end (or you're just getting bored). You need to do something about it.
 
