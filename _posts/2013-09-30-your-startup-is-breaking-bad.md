@@ -61,7 +61,7 @@ You know you cannot do anything outstanding without any legal advice, right? Sau
 
 ##Round 7: K.O.
 
-The ending is in your hands. Had it been that Walt's DEA Brother-in-Law didn't discover that book Gale gave him, it would be a happy ending for the White household. Well, to the very end he still saved his co-founder's troublesome ass who turned Judas with him. So I guess the lesson is pick the right co-founder to begin with. Ha. 
+Your startup's future is in your hands. Had it been that Walt's DEA Brother-in-Law didn't discover that book Gale gave him, it would be a happy ending for the White household. Well, to the very end he still saved his co-founder's troublesome ass who turned Judas with him. So I guess the lesson is pick the right co-founder to begin with. Ha. 
 
 It all goes back to where you started. Now if you were thinking of building a startup, it's up to you to go Breaking Bad or just fucking follow a pathetic life 'til you die of cancer.
 

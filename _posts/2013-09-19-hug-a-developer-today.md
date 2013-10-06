@@ -3,7 +3,7 @@ layout: post
 title : Hug A Developer Today
 tagline : 
 category : blog
-tags : [work, programming]
+tags : [work, programming, personal]
 ---
 {% include JB/setup %}
 
