@@ -396,7 +396,6 @@ body a{
       line-height: 150%;
       padding-left: 17px;
       margin-left: -17px;
-      margin-top: 20px;
   }
     
   .content h1{
@@ -405,6 +404,7 @@ body a{
   .content h2{
       border-left: 4px solid #eee;
       margin-left: -17px;
+      margin-top: 10px;
   }
   .content h3{
       border-left: 2px solid #eee;
