@@ -3,7 +3,7 @@ layout: post
 title : Your Startup is 'Breaking Bad'
 tagline : 
 category : blog
-tags : [thoughts, startup, work]
+tags : [thoughts, startup, work, entertainment]
 ---
 {% include JB/setup %}
 
