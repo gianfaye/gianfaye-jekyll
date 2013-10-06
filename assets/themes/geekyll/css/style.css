@@ -504,7 +504,7 @@ body a{
 		
 		.project-item{
 			position: relative;
-			max-height: 65px;
+			max-height: 60px;
 			overflow: hidden;
 			padding: 25px 0;
 			border-bottom: 1px dashed #000;
