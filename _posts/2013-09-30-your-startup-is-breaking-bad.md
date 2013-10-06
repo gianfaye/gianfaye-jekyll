@@ -55,11 +55,11 @@ Oh, remember when Mr. White's business has been acquired by Gus Fring's army of 
 
 In the end, he fired his new boss. Hmmm, might end up differently had he been acquired by the Cartel, eh?
 
-##Round 6: Better Call Saul... and Friends
+##Round 7: Better Call Saul... and Friends
 
 You know you cannot do anything outstanding without any legal advice, right? Saul was supposed to be killed the first time they met but Walter realized he needs him... and his connections. Better have legal advice, buddy. Bloody network, too.
 
-##Round 7: K.O.
+##Round 8: K.O.
 
 Your startup's future is in your hands. Had it been that Walt's DEA Brother-in-Law didn't discover that book Gale gave him, it would be a happy ending for the White household. Well, to the very end he still saved his co-founder's troublesome ass who turned Judas with him. So I guess the lesson is pick the right co-founder to begin with. Ha. 
 
