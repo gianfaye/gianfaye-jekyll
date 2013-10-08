@@ -393,7 +393,7 @@ body a{
       font-weight: normal;
       text-transform: uppercase;
       letter-spacing: 3px;
-      line-height: 125%;
+      line-height: 150%;
       padding-left: 17px;
       margin-left: -17px;
   }
@@ -409,6 +409,7 @@ body a{
   .content h3{
       border-left: 2px solid #eee;
       font-style: italic;
+      margin-top: 10px;
   }
 
   .content p{
