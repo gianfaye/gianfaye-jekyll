@@ -15,7 +15,7 @@ But hell, I told my current self, this sounds fun (and crazy). The hell with _'I
 
 And so with the challenge...
 
-###Develop and open source Windows 8 Application and get the chance to win surprise prizes!
+###Develop an open source Windows 8 Application and get the chance to win surprise prizes!
 
 Let's break that into pieces...
 
@@ -33,7 +33,7 @@ Most of my past projects are of web development. Good thing while researching ab
 
 ../**Chance to win surprise prizes!**
 
-Ha. I am not expecting to win but perks would be awesome. I'm actually planning to buy a new phone since my phone is currently indisposed (oh I meant broken) aaaand wouldn't it be nice if I'd get my new phone from a hackathon. _Heehee._
+Ha. I am not expecting to win but perks would be awesome. (Who wouldn't want _surprise_ prizes!?) Could it be a new phone? I'm actually planning to buy a new phone since my phone is currently indisposed (oh I meant broken) aaaand wouldn't it be nice if I'd get my new phone from a hackathon. _Heehee._
 
 ##The Exciting Part 
 
