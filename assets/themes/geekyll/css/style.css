@@ -411,6 +411,10 @@ body a{
       font-style: italic;
       margin-top: 10px;
   }
+  .content h6{
+      margin-left: -11px;
+      margin-top: 15px;
+  }
 
   .content p{
       line-height: 200%;
