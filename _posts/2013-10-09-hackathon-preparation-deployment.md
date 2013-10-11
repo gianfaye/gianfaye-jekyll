@@ -41,7 +41,7 @@ I followed this article: [Deploying Your First Node.js and Socket.io App to Hero
 
 **Why so many <code>node_modules</code> folders!?**
 
-One of the initial challenges I encountered is understanding the file directory structure of Node.j and its modules. If you have installed Express and Socket.io for the first time you would notice <code>node_modules</code> folders on different hierarchies. The OCD in me grunches out and wanted to know if this is actually part of the structure or just duplicates. Turns out, node will automatically detect <code>node_modules</code> directories inside the project and will look for the modules in there. So technically, you should not rename it.
+One of the initial challenges I encountered is understanding the file directory structure of Node.js and its modules. If you have installed Express and Socket.io for the first time you would notice <code>node_modules</code> folders on different hierarchies. The OCD in me grunches out and wanted to know if this is actually part of the structure or just duplicates. Turns out, node will automatically detect <code>node_modules</code> directories inside the project and will look for the modules in there. So technically, you should not rename it.
 
 **The role of <code>package.json</code>** 
 
