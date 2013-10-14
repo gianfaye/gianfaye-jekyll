@@ -783,8 +783,8 @@ pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background
     .pagination{
       padding: 2% 0 5% 0;
       margin-top: 25px;
-      border-top: 1px solid #999;
-      border-bottom: 1px solid #999;
+	  border-top: 1px solid #E9E9E9;
+	  border-bottom: 1px solid #E9E9E9;
     }
 
     .pagination ul{
@@ -846,6 +846,10 @@ footer{
 	background-size: contain;
 	background-size: contain;
 	bottom: -5px;
+}
+
+div#disqus_thread{
+	margin-top: 20px;
 }
 
 footer p{
