@@ -41,9 +41,15 @@ I took a test at [mypersonality.info](http://www.mypersonality.info/gianfaye/) a
 
 <br>
 
-It says: "**INTJ - The Strategist**: INTJs are introspective, analytical, determined persons with natural leadership ability. Being reserved, they prefer to stay in the background while leading. Strategic, knowledgable and adaptable, INTJs are talented in bringing ideas from conception to reality. They expect perfection from themselves as well as others and are comfortable with the leadership of another so long as they are competent. INTJs can also be described as decisive, open-minded, self-confident, attentive, theoretical and pragmatic."
+It says: "**INTJ - The Strategist**: INTJs are introspective, analytical, determined persons with natural leadership ability. Being reserved, they prefer to stay in the background while leading. Strategic, knowledgable and adaptable, INTJs are talented in bringing ideas from conception to reality. They expect perfection from themselves as well as others and are comfortable with the leadership of another so long as they are competent. INTJs can also be described as decisive, open-minded, self-confident, attentive, theoretical and pragmatic." 
 
-Not to flatter myself, but that's basically how I think.
+You can know more about INTJs [here](http://www.mypersonality.info/personality-types/intj/).
+
+In that case...
+
+![I am Palpatine](/assets/images/star_wars_mbti.png)
+
+Yes, I am the evil Emperor Palpatine. I am Darth Sidious IRL. muahahaha!
 
 ##Interests
 
