@@ -425,7 +425,7 @@ body a{
   }
 
   .content img{
-    width: 100%;
+    max-width: 695px;
   }
 
     .content li{
