@@ -11,7 +11,7 @@ Hi! My name is **Gian Faye**, a ( > 20 && < 25) y/o web geek from the Philippine
 
 ##Work
 
-I'm presently working as the web developer (and apparently webmaster) for [PULP Magazine](http://pulpmagazinelive.com), the premier music magazine of the Philippines and [PULP Live World Production](http://pulpliveworld.com) by which I developed (and maintain) three web [projects](/projects) and one mobile app dev't in progress.
+I'm presently working as the web developer for [Nova Founders](http://novafounders.com/) and webmaster for [PULP Magazine](http://pulpmagazinelive.com), the premier music magazine of the Philippines and [PULP Live World Production](http://pulpliveworld.com) by which I developed (and maintain) three web [projects](/projects) and one mobile app dev't in progress.
 
 In before PULP (from late 2011 to early 2012), I did web projects for [Innodan Pte. Ltd.](http://www.innodan.com/) which is based in Singapore. 
 
