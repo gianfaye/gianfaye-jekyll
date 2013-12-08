@@ -36,7 +36,7 @@ The app won't just end there (hackathon) and we have decided even before we join
 
 ##New Employment
 
-I am resigning from my post as a full-time employee on PULP. I'd still be their Webmaster and I'll  be working for them part-time when they just need my help (technical support) and consultation. 
+I am [resigning from my post as a full-time employee on PULP](/blog/live-loud). I'd still be their Webmaster and I'll  be working for them part-time when they just need my help (technical support) and consultation. 
 
 I am now proud to be joining [Nova Founders](http://www.novafounders.com) on their journey to world domination in the entrepreneurial sense. This opens a new path to enhance my present skills and have the opportunity to learn from working on a team.
 
