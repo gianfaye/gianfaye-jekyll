@@ -45,7 +45,7 @@ One of the initial challenges I encountered is understanding the file directory 
 
 **The role of <code>package.json</code>** 
 
-Contextually, <code>package.json</code> is like the <code>_config.yml</code> on your Jekyll site. It contains the information for your Node.js project and it is very important to know that dependencies and their proper versions should be properly encoded to avoid conflicts.
+Contextually, <code>package.json</code> is like the <code>/_config.yml</code> on your Jekyll site. It contains the information for your Node.js project and it is very important to know that dependencies and their proper versions should be properly encoded to avoid conflicts.
 
 	{
 	    "name": "project-name",
