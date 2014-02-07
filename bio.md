@@ -7,7 +7,7 @@ header : Bio
 
 #Bio
 
-Hi! My name is **Gian Faye**, a ( > 20 && < 25) y/o web geek from the Philippines. Although most people over the phone [and the internet](/assets/images/not-a-sir.jpg)) addresses me as a 'Sir', the hell I'm not. (I blame it on the dark tone of my voice, though.) Now that you are cleared I'm not a 'Sir,' we can move on. 
+Hi! My name is **Gian Faye**, a ( > 20 && < 25) y/o web geek from the Philippines. Although most people over the phone [and the internet](/assets/images/bio/not-a-sir.jpg)) addresses me as a 'Sir', the hell I'm not. (I blame it on the dark tone of my voice, though.) Now that you are cleared I'm not a 'Sir,' we can move on. 
 
 ##Work
 
@@ -47,7 +47,7 @@ You can know more about INTJs [here](http://www.mypersonality.info/personality-t
 
 In that case...
 
-![I am Palpatine](/assets/images/star_wars_mbti.png)
+![I am Palpatine](/assets/images/bio/star_wars_mbti.png)
 
 Yes, I am the evil Emperor Palpatine. I am Darth Sidious IRL. muahahaha!
 

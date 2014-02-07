@@ -13,17 +13,17 @@ tags : [web development, joomla, ecommerce]
 
 The website serves as the information and promotional site to their upcoming events and as an archive of their shows since the past decade. Also built with the website is an e-commerce for their merchandise.
 
-![PULP Live World](/assets/images/pulp-live-world-1.jpg)
+![PULP Live World](/assets/images/projects/2012/pulp-live-world-1.jpg)
 
-![PULP Live World](/assets/images/pulp-live-world-2.jpg)
+![PULP Live World](/assets/images/projects/2012/pulp-live-world-2.jpg)
 
-![PULP Live World](/assets/images/pulp-live-world-3.jpg)
+![PULP Live World](/assets/images/projects/2012/pulp-live-world-3.jpg)
 
-![PULP Live World](/assets/images/pulp-live-world-4.jpg)
+![PULP Live World](/assets/images/projects/2012/pulp-live-world-4.jpg)
 
-![PULP Live World](/assets/images/pulp-live-world-5.jpg)
+![PULP Live World](/assets/images/projects/2012/pulp-live-world-5.jpg)
 
-![PULP Live World](/assets/images/pulp-live-world-6.jpg)
+![PULP Live World](/assets/images/projects/2012/pulp-live-world-6.jpg)
 
 The site is built with Joomla and the online shop is created with the Virtuemart component.
 

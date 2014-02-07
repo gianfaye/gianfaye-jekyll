@@ -9,6 +9,6 @@ tags : [web design, business catalyst]
 
 **The Cronus Finance Group** is a Singapore-based financial group.
 
-![The Cronus Finance Group](/assets/images/cronus-shot.png)
+![The Cronus Finance Group](/assets/images/projects/2011/cronus-shot.png)
 
 While at [Innodan](/bio#work), I designed a website for The Cronus Finance Group. The site is built with Adobe Business Catalyst.

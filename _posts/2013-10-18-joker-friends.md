@@ -15,7 +15,7 @@ So being in the topic, you may have encountered these type of people who always 
 
 While I was watching [Freaks and Geeks](http://www.imdb.com/title/tt0193676/) (spoiler alert if you haven't watched it yet), there's [this scene](http://www.planetclaire.org/quotes/freaksandgeeks/nick-andopolis/#Weve_Got_Spirit) between Nick and Lindsay that totally got me.
 
-![We've got spirit](/assets/images/weve-got-spirit.jpg)
+![We've got spirit](/assets/images/posts/2013/weve-got-spirit.jpg)
 
 **Why so serious?** Even before this famous Joker line got to the mainstream audience, we already have jokers. 
 

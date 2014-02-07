@@ -13,7 +13,7 @@ tags : [web development, php, mysql, cms, map]
 
 The website serves as a preview portal of the latest published issue and as a wayback machine and provides information of their back issues. We built a custom CMS and features different sections (e.g. News, Blog, Column, Reviews) to publish different types of content which is all managed through an admin panel we also developed in PHP/MySQL.
 
-![PULP Magazine Live](/assets/images/pulp-magazine-live.jpg)
+![PULP Magazine Live](/assets/images/projects/2012/pulp-magazine-live.jpg)
 
 We also developed a mini-web application for the map widget to help the visitors track the stores where the magazine is currently available. 
 

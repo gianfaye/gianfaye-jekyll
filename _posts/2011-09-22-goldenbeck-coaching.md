@@ -9,9 +9,9 @@ tags : [print, branding, logo design]
 
 **Goldenbeck Coaching** is a Singapore-based coaching program by Susanne Goldenbeck, a Life and Integrative Coach Professional.
 
-![Goldenbeck Coaching](/assets/images/goldenbeck.jpg)
+![Goldenbeck Coaching](/assets/images/projects/2011/goldenbeck.jpg)
 
-![Goldenbeck Coaching](/assets/images/goldenbeck-flyers.jpg)
+![Goldenbeck Coaching](/assets/images/projects/2011/goldenbeck-flyers.jpg)
 
 While at [Innodan](/bio#work), I designed a logo for Goldenbeck Coaching and created flyer designs in English and Danish for print. 
 

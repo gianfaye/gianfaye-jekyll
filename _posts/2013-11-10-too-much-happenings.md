@@ -24,13 +24,13 @@ First off, it was an overwhelming experience to be able to join the hackathon. I
 
 The most fun part is, having to bring your concepts and ideas to life. The app we developed it titled **MOOCsage**. If you are familiar with [MOOCs](http://en.wikipedia.org/wiki/Massive_open_online_course) or Massive Open Online Courses, this app is for those who take the courses on various MOOC providers and wanted to get all your learning materials and deadlines in one place. 
 
-![MOOCsage Home Draft](/assets/images/moocsage-draft-home.png)
+![MOOCsage Home Draft](/assets/images/posts/2013/moocsage-draft-home.png)
 
 We went to the Azure Camp before the hackathon and learned to deploy apps to Windows Azure. We created our initial web app interface using Node.js and Backbone.js. To view the app, you can go to [moocsageapp.azurewebsites.net](http://moocsageapp.azurewebsites.net/) Here's some of the screenshots:
 
-![MOOCsage Home](/assets/images/moocsage-home.png)
+![MOOCsage Home](/assets/images/posts/2013/moocsage-home.png)
 
-![MOOCsage Dashboard](/assets/images/moocsage-dashboard.png)
+![MOOCsage Dashboard](/assets/images/posts/2013/moocsage-dashboard.png)
 
 The app won't just end there (hackathon) and we have decided even before we joined the hackathon that we'll be continuing developing and improving the app to make it in use and deliver it to my fellow MOOC sages. :)
 
@@ -44,31 +44,31 @@ I am now proud to be joining [Nova Founders](http://www.novafounders.com) on the
 
 On November 1 to 3, me, my sister and some of my officemates from PULP took a vacation to the beautiful beach and falls at [Baler, Aurora](http://en.wikipedia.org/wiki/Baler,_Aurora). I'd let the photos tell the story.
 
-![Trip to Baler, Aurora](/assets/images/baler-01.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-01.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-02.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-02.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-03.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-03.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-04.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-04.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-05.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-05.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-06.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-06.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-07.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-07.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-08.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-08.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-09.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-09.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-10.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-10.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-11.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-11.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-12.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-12.jpg)
 
-![Trip to Baler, Aurora](/assets/images/baler-13.jpg)
+![Trip to Baler, Aurora](/assets/images/posts/2013/baler-13.jpg)
 
 I had to suffer 3 days of sore body because I never really was physically prepared to trek 30 minutes up and down a ultra-mega rocky wet path to the Mother falls, and 1 hour of surfing. (Thanks to [Sagasa Surfshop](https://www.facebook.com/SagasaSurfshop)!) At the end of the day, all that remains are the fun memories and experiences from all the things we did in Baler. We'll be back!
 

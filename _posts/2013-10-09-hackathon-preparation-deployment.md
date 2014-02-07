@@ -112,6 +112,6 @@ The file structure of my project looks a bit like this:
 
 Tomorrow evening we'll be attending the [Dev Boot Camp](https://opennessnighthackbootcamp.eventbrite.com/) for Windows 8 Application development. I'm still typing this post and I didn't realized it's already morning. And oh, my partner just got her Windows 8 installed:
 
-![Windows 8](/assets/images/windows-8-screenshot.jpg) 
+![Windows 8](/assets/images/posts/2013/windows-8-screenshot.jpg) 
 
 Time to party.
