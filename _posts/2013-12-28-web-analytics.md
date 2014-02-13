@@ -16,7 +16,7 @@ Analytics has been with us for a very long time. And yet, most web development p
 
 My first encounter with web analytics was around 2010 when I was maintaining a blog. I used Google Analytics. I've learned that you can actually track the number of your unique visitors, number of pageviews, their location, even the device and browser they where using while accessing your site.
 
-After learning about a bit of search enginge optimization or commonly known as SEO (both on-site and off-site) to increase my pageviews, I've learned about _bounce rates_ - the more time the visitor spends on your page, the lower the 'bounce' rate you have. 'Bounce' literally meant when your visitors bounce off from your site. The lower the bounce rate, the more interesting content you have.
+After learning about a bit of search engine optimization or commonly known as SEO (both on-site and off-site) to increase my pageviews, I've learned about _bounce rates_ - the more time the visitor spends on your page, the lower the 'bounce' rate you have. 'Bounce' literally meant when your visitors bounce off from your site. The lower the bounce rate, the more interesting content you have.
 
 
 ##Introduction to Digital Analytics
@@ -25,7 +25,7 @@ Recently, I was tasked to do **Event Tracking** and manage leads using **Goals**
 
 ##Google Analytics UI
 
-I was always confused with the UI before and didn't know which is for which. The GA UI is divided into two: the *Reports* section and the *Admin* section. Self-explanatory, the Reports contain reports and the Admin lets you set things up on your account. 
+I was always confused with the UI before and didn't know which is for which. The GA UI is divided into two: the *Reports* section and the *Admin* section. Self-explanatory, the Reports section contains reports and the Admin lets you set things up on your account. 
 
 Under the Admins section, you are then given three options, the *Account*, *Property* and *View*.
 
@@ -40,7 +40,7 @@ Views are typically set up with your enviroments. The Default View tracks everyt
 
 ##Event Tracking
 
-With [Event Tracking](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide), you can track almost all user interactions on your page - from a button click, to your embedded video being played. 
+With [Event Tracking](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide), you can track almost all user interactions on your page - from a button clicked, to your embedded video being played. 
 
 	<a href="#" onClick="_gaq.push(['_trackEvent', 'Category', 'Action', 'Label']);">Play</a>
 
@@ -67,13 +67,14 @@ Funnels are a series of pages or virtual pages which leads to your Goal.
 
 Home -> Subscription page -> Confirmation link -> Ebook download page
 
-To further your understanding, you can check out this article: (The Geek Guide To Understanding Funnels in Google Analytics)[http://www.seotakeaways.com/the-geek-guide-to-understanding-funnels-in-google-analytics/]
+To further your understanding, you can check out this article: 
+[The Geek Guide To Understanding Funnels in Google Analytics](http://www.seotakeaways.com/the-geek-guide-to-understanding-funnels-in-google-analytics/)
 
 ##Classic GA vs Universal Analytics
 
 Another note to take, there are two types of Google Analytics tracking methods out there. I wasn't aware of this first and it lead to nothing good so let me at least inform whoever is reading this post if you're still not aware of it. *Most* Google Analytics tutorials in existence used the syntax for the Classic Analytics, which is the old one. And the current tracking code on your GA Admin (if you migrated to the new GA) is the new one, Universal analytics. You might not want to interchange the two because they both differ in syntax and functions.
 
-This is what the **Classic Analytics** code looks like:
+This is what the **Classic Analytics** tracking code looks like:
 
 	var _gaq = _gaq || [];
     	_gaq.push(['_setAccount', 'UA-XXXXXXXX-X' ]);
@@ -85,7 +86,7 @@ This is what the **Classic Analytics** code looks like:
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
 
-This is what the **Universal Analytics** code looks like:
+This is what the **Universal Analytics** tracking code looks like:
 
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
