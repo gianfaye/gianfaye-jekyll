@@ -12,7 +12,6 @@
 #   https://github.com/scottwb/jekyll-tweet-tag/blob/master/README.md
 #
 require 'json'
-require 'digest/md5'
 require 'net/http'
 
 module Jekyll
