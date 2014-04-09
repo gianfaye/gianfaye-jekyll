@@ -8,10 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-name: "Gian Faye Paguirigan | gianfaye.com"
+name : "Gian Faye Paguirigan | gianfaye.com"
 title : "Gian Faye Paguirigan | gianfaye.com"
-description: "The personal site of Gian Faye, an autodidact, front-end developer, and hobbyist musician and photographer. This site is a collective of her works, ideas, and autodidactism"
-url: http://gianfaye.com
+description : "The personal site of Gian Faye. This site is a collective of her works, ideas, and autodidactism"
+url : http://gianfaye.com
 tagline: 
 author :
   name : "Gian Faye Paguirigan"
@@ -29,6 +29,11 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://gianfaye.com
+sitemap:
+  lastmod : 2014-04-09
+  priority : 0.7
+  changefreq : monthly
+  exclude : 'yes'
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,7 +86,8 @@ JB :
   # Migrate from Maruku to Kramdown
   markdown:       kramdown
   markdown_ext:   markdown,mkd,mkdn,md
-
+  kramdown:
+    input: GFM
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
