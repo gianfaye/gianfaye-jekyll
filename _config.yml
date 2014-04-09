@@ -75,10 +75,8 @@ JB :
   atom_path : /atom.xml
   rss_path : /rss.xml
 
-  #Migrate from Maruku to Kramdown
+  # Migrate from Maruku to Kramdown
   markdown : kramdown
-
-  gems : ruby-oembed
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
