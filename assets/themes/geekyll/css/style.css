@@ -870,35 +870,3 @@ footer a{
 
 
 
-/* ----CSS codes for reference: ----
-	
-Background Size // cover | contain | percentage
-
-	-webkit-background-size: 100% auto;
-	-moz-background-size: 100% auto;
-	-o-background-size: 100% auto;
-	background-size: 100% auto;
-	
-Border Radius // top - right - bottom- left
-
-	-webkit-border-radius: 0px;
-	-moz-border-radius: 0px;
-	border-radius: 0px;
-	
-Box Shadow // color, x, y, blur
-
-  -webkit-box-shadow: #000 0px 0px 0px;
-  -moz-box-shadow: #000 0px 0px 0px;
-  box-shadow: #000 0px 0px 0px;
-	
-Element Transitions 
-
-	-webkit-transition: all 0.5s ease-out;
-	-moz-transition: all 0.5s ease-out;
-	-ms-transition: all 0.5s ease-out;
-	-o-transition: all 0.5s ease-out;
-	transition: all 0.5s ease-out;
-	
---- Delete this part before uploading. */
-
-
