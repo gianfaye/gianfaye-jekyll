@@ -874,7 +874,7 @@ footer a{
   .show-xs { display: block; }
   .hidden-xs { display: none; }
   .name-bracket { display: none; }
-  header{ margin-top: 25px; border: 1px dashed #999; }
+  header { margin-top: 25px; border: 1px dashed #999; }
   #about p { border: none; font-size: 0.9em; }
   .project-item, .project-item:hover { max-height: none; }
   .project-image { width: 100%; margin-top: 0; }
