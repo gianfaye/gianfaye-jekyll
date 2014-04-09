@@ -19,10 +19,11 @@
       <span>// {{ page.date | date: "%B %Y" }}</span>
     {% endif %}
     </div>
-    <div class="content">
+    <br>
+    <div>
       {{ content }}
     </div> 
-
+  <br>
   {% unless page.tags == empty %}
   <h5>Tags: </h5>
     <ul class="tag_box inline">
@@ -39,7 +40,7 @@
       {% else %}
         <li class="prev disabled"><a>&larr; Previous</a></li>
       {% endif %}
-        <li class="archive-nav"><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+        <li class="archive-nav hidden-xs"><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
       {% if page.next %}
         <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></li>
       {% else %}

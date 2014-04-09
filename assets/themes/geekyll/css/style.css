@@ -380,7 +380,7 @@ body a{
 	}
     
   .content{
-    padding: 3% 0;
+    padding: 5% 10%;
     min-height: 300px;
   }
 
@@ -876,7 +876,6 @@ footer a{
   .name-bracket { display: none; }
   header{ margin-top: 25px; border: 1px dashed #999; }
   #about p { border: none; font-size: 0.9em; }
-  #about, #projects { padding: 0 10%;}
   .project-item, .project-item:hover { max-height: none; }
   .project-image { width: 100%; margin-top: 0; }
   .project-details { width: 95%; margin-top: 0; }
@@ -890,4 +889,6 @@ footer a{
   footer { background: #000; min-height: 150px; }
   footer p { font-size: 1em; line-height: 80%; padding: 10px;}
   #menu-footer { line-height: 150%; }
+  .pagination { overflow: overlay; }
+  .pagination li { float: left; }
 }
