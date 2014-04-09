@@ -8,7 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Gian Faye Paguirigan
+name: "Gian Faye Paguirigan | gianfaye.com"
+title : "Gian Faye Paguirigan | gianfaye.com"
+description: "The personal site of Gian Faye, an autodidact, front-end developer, and hobbyist musician and photographer. This site is a collective of her works, ideas, and autodidactism"
+url: http://gianfaye.com
 tagline: 
 author :
   name : "Gian Faye Paguirigan"
@@ -76,7 +79,8 @@ JB :
   rss_path : /rss.xml
 
   # Migrate from Maruku to Kramdown
-  markdown : kramdown
+  markdown:       kramdown
+  markdown_ext:   markdown,mkd,mkdn,md
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
