@@ -83,10 +83,10 @@
 
   <body>
     <header>
-      <a class="brand" href="{{ HOME_PATH }}"><h2>[ GIAN FAYE PAG<span id="ui">UI</span>RIGAN]</h2></a>
-      <h1>/* web geek &amp; ailurophilic */</h1>
+      <a class="brand" href="{{ HOME_PATH }}"><h2><span class="name-bracket">[</span> GIAN FAYE PAG<span id="ui">UI</span>RIGAN<span class="name-bracket">]</span></h2></a>
+      <h1 class="hidden-xs">/* web geek &amp; ailurophilic */</h1>
     </header>
-      <div id="menu">
+      <div id="menu" class="hidden-xs">
         <nav class="menu-relative">
         <ul>
           <li><a href="/bio" title="Bio"><span>&raquo;</span>  _BIO</a></li>
@@ -103,10 +103,13 @@
       </div>
       <footer>
         <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">&copy;</a> {{ site.time | date: '%Y' }} {{ site.author.name }}</span>
-          | Twitter: <a href="http://www.twitter.com/GianFaye" target="_blank" title="Gian Faye's Twitter">@gianfaye</a> Email: <a rel="nofollow" href="mail:hello@gianfaye.com" target="_blank" title="Gian Faye's email"><script language="javascript"><!-- 
+          <span class="hidden-xs">|</span> <span class="hidden-xs">Twitter: <a href="http://www.twitter.com/GianFaye" target="_blank" title="Gian Faye's Twitter">@gianfaye</a></span><span class="show-xs"><br></span> Email: <a rel="nofollow" href="mail:hello@gianfaye.com" target="_blank" title="Gian Faye's email"><script language="javascript"><!-- 
           document.write("hello" + "@" + "gianfaye.com"); 
           //--> 
           </script></a>
+          <span class="show-xs" id="menu-footer"><br>
+            <a href="/bio" title="Bio">BIO</a> &bullet; <a href="/projects" title="Projects">PROJECTS</a> &bullet; <a href="/posts" title="Blog">BLOG</a> &bullet; <a href="/archive" title="Archive">ARCHIVE</a> &bullet; <a href="/colophon" title="Colophon">COLOPHON</a>
+          </span>
         </p>
       </footer>
     </div>

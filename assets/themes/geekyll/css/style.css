@@ -48,7 +48,7 @@ body a{
 }
 
 	header{
-		width: 50%;
+		width: 80%;
 		max-width: 950px;
 		background-repeat: no-repeat;
 		background-size: contain;
@@ -868,5 +868,26 @@ footer a{
   font-family: "Lucida Console", Monaco, monospace;
 }
 
+.show-xs { display: none; }
 
-
+@media (max-width: 750px) {
+  .show-xs { display: block; }
+  .hidden-xs { display: none; }
+  .name-bracket { display: none; }
+  header{ margin-top: 25px; border: 1px dashed #999; }
+  #about p { border: none; font-size: 0.9em; }
+  #about, #projects { padding: 0 10%;}
+  .project-item, .project-item:hover { max-height: none; }
+  .project-image { width: 100%; margin-top: 0; }
+  .project-details { width: 95%; margin-top: 0; }
+  .project-subtitle h4 { font-size: 1em; }
+  .project-description p, .project-launch a { font-size: 0.9em; }
+  .project-launch a { font-size: 0.9em; }
+  .project-launch a span { margin-left: -12px; }
+  #blog-home li a { padding: 0; border-left: none; line-height: 150%; }
+  #blog-home li span { font-size: 1em; text-align: left; width: 100%; padding: 0 0 35px 0; line-height: 150%; }
+  .content ul { padding: 0 10%; }
+  footer { background: #000; min-height: 150px; }
+  footer p { font-size: 1em; line-height: 80%; padding: 10px;}
+  #menu-footer { line-height: 150%; }
+}
