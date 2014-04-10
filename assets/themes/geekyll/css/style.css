@@ -870,6 +870,12 @@ footer a{
 
 .show-xs { display: none; }
 
+
+@media (max-width: 900px) {
+  #blog-home li a { padding: 0; border-left: none; line-height: 150%; }
+  #blog-home li span { font-size: 1em; text-align: left; width: 100%; padding: 0 0 35px 0; line-height: 150%; }
+}
+
 @media (max-width: 750px) {
   .show-xs { display: block; }
   .hidden-xs { display: none; }
@@ -883,8 +889,6 @@ footer a{
   .project-description p, .project-launch a { font-size: 0.9em; }
   .project-launch a { font-size: 0.9em; }
   .project-launch a span { margin-left: -12px; }
-  #blog-home li a { padding: 0; border-left: none; line-height: 150%; }
-  #blog-home li span { font-size: 1em; text-align: left; width: 100%; padding: 0 0 35px 0; line-height: 150%; }
   .content ul { padding: 0 10%; }
   footer { background: #000; min-height: 150px; }
   footer p { font-size: 1em; line-height: 80%; padding: 10px;}
