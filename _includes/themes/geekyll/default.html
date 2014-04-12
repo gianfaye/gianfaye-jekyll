@@ -3,7 +3,7 @@
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta charset="utf-8">
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:url" content="http://gianfaye.com{{ site.url }}{{ page.url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:image" content="http://gianfaye.com/assets/images/avatar.jpg" />
     <meta property="og:type" content="article" />
     {% for category in page.categories %}<meta property="article:tag" content="{{ category }}" />{% endfor %}
