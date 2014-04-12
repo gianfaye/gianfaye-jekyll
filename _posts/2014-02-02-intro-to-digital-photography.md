@@ -7,13 +7,15 @@ tags : [learning,photography,photos,photosets]
 ---
 {% include JB/setup %}
 
-So we got this new DSLR, a Nikon D7000. I've been dying to have this opportunity to be able to take decent photos and this is a heaven-sent chance for me to say goodbye to poor mediocre photography. For all these years I've suffered enough taking horrible photos using point-and-shoot digital cameras and reminiscing good ole memories in grainy camera phone shots.
+So we got this new DSLR, a Nikon D7000 and a 50mm AF f1.8D standard lens. I've been dying to have this opportunity to be able to take decent photos and this is a heaven-sent chance for me to say goodbye to poor mediocre photography. For all these years I've suffered enough taking horrible photos using point-and-shoot digital cameras and reminiscing good ole memories in grainy camera phone shots.
 
 I am now starting to learn how to shoot properly. 
 
 Since photography is one of the most common hobbies since the boom of digital cameras, most are tempted to label themselves **photographers** whenever they get a chance to take photos. Or heck, the stereotypical pose-in-front-of-the-mirror-holding-a-DSLR and update their About Me with a pathetic attempt at being a **photographer** when they just got their new kit. I'm not heading for that. I just want to take decent photos.  
 
 Good thing for our generation, there's another heaven-sent gift. Obviously, Internet. Since it's a popular hobby, the Internet is full of photography tutorials and how-tos that made everyone's lives easier. One Google search and you'll save yourself the shame of not knowing what ISO means. Or whatever the heck aperture is. The fuck are f-stops. And if you really need to know anything about exposure and shutter speed. But all these doesn't make sense unless you try it out and shoot something. 
+
+From what I read and been been advised by some friends who take photos professionally, I turned off auto focus and used manual focus. You know there's some kind of good feeling when I turn the lenses to get a sharp focus. I sometimes do that with my eyes. Not sure if that was normal, though. Even when wearing prescription glasses, I can adjust my vision to blur then back to sharp again. Weird stuff.
 
 Since I'm taking the vow and am starting as a n00b, I'm making this post as an initiation on my first attempt at shooting something decent. Maybe after a few months I'll get back to this post and spot mistakes and laugh at myself.
 
