@@ -15,7 +15,7 @@ Since photography is one of the most common hobbies since the boom of digital ca
 
 Good thing for our generation, there's another heaven-sent gift. Obviously, Internet. Since it's a popular hobby, the Internet is full of photography tutorials and how-tos that made everyone's lives easier. One Google search and you'll save yourself the shame of not knowing what ISO means. Or whatever the heck aperture is. The fuck are f-stops. And if you really need to know anything about exposure and shutter speed. But all these doesn't make sense unless you try it out and shoot something. 
 
-From what I read and been been advised by some friends who take photos professionally, I turned off auto focus and used manual focus. You know there's some kind of good feeling when I turn the lenses to get a sharp focus. I sometimes do that with my eyes. Not sure if that was normal, though. Even when wearing prescription glasses, I can adjust my vision to blur then back to sharp again. Weird stuff.
+From what I read and have been advised by some friends who take photos professionally, I turned off auto focus and used manual focus. You know there's some kind of good feeling when I turn the lenses to get a sharp focus. I sometimes do that with my eyes. Not sure if that was normal, though. Even when wearing prescription glasses, I can adjust my vision to blur then back to sharp again. Weird stuff.
 
 Since I'm taking the vow and am starting as a n00b, I'm making this post as an initiation on my first attempt at shooting something decent. Maybe after a few months I'll get back to this post and spot mistakes and laugh at myself.
 
