@@ -77,10 +77,7 @@ body a{
 		.brsix{display:none;}
 		
 		header a{
-        text-decoration: none;
-		}
-
-		header a:hover{
+        	text-decoration: none;
 		}
 
 		header h1{
@@ -510,6 +507,10 @@ body a{
 		border-left: 2px solid #eee;
     }
 
+    #blog-home li a:hover{
+		background: #000;
+    }
+
     .page-header h1 small{
       font-size: 0.5em;
       float: left;
@@ -517,7 +518,7 @@ body a{
     }
 
     #about p{
-      color: #70706F;
+      color: #B1B0B0;
       font-size: 12px;
       font-family: "Lucida Console", Monaco, monospace;
       padding: 2%;
@@ -526,6 +527,8 @@ body a{
       margin: 0;
       text-align: center;
     }
+
+    #about p:hover { background: #000; }
 
     #about a span{
       color: #f65d2e;
@@ -880,6 +883,11 @@ footer p{
   font-size: 0.8em;
 }
 
+footer p, footer span{
+  font-family: "Lucida Console", Monaco, monospace;
+  color: #FFF;
+}
+
 footer a{
   color: #f65d2e;
   font-size: 1em;
@@ -913,6 +921,8 @@ footer a{
   .content ul { padding: 0 10%; }
   .content img { width: 100%; }
   .date { clear: both; line-height: 150%; }
+  #blog-home li a:hover{ background: none; text-decoration: underline; }
+  #about p:hover { background: none; }
   footer { background: #000; min-height: 150px; }
   footer p { font-size: 1em; line-height: 80%; padding: 10px;}
   #menu-footer { line-height: 150%; }
