@@ -917,7 +917,7 @@ footer a{
   .date { clear: both; line-height: 150%; }
   #blog-home li a:hover{ background: none; text-decoration: underline; }
   #about p:hover { background: none; }
-  footer { background: #000; min-height: 150px; }
+  footer { background: #000; min-height: 175px; }
   footer p { font-size: 1em; line-height: 80%; padding: 10px;}
   #menu-footer { line-height: 150%; }
   .pagination { overflow: overlay; }
