@@ -411,6 +411,11 @@ body a{
       font-style: italic;
       margin-top: 10px;
   }
+
+  .content h4, .content h5 {
+  	padding-left: 21px;
+  }
+
   .content h6{
       margin-left: -11px;
       margin-top: 15px;
