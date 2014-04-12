@@ -8,11 +8,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-name : "Gian Faye Paguirigan | gianfaye.com"
-title : "Gian Faye Paguirigan | gianfaye.com"
+name : "Gian Faye Paguirigan"
+title : "Gian Faye Paguirigan"
 description : "The personal site of Gian Faye. This site is a collective of her works, ideas, and autodidactism"
 url : http://gianfaye.com
-tagline : 
+tagline : "web geekery and autodidactism"
 author :
   name : "Gian Faye Paguirigan"
   email : contact@gianfaye.com
