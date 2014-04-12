@@ -892,6 +892,7 @@ footer a{
 
 
 @media (max-width: 900px) {
+  .content img { width: 100%; }
   #blog-home li a { padding: 0; border-left: none; line-height: 150%; }
   #blog-home li span { font-size: 1em; text-align: left; width: 100%; padding: 0 0 35px 0; line-height: 150%; }
 }
@@ -913,7 +914,6 @@ footer a{
   .content h1 { line-height: 120%; }
   .page-header h1 small { line-height: 150%; }
   .content ul { padding: 0 10%; }
-  .content img { width: 100%; }
   .date { clear: both; line-height: 150%; }
   #blog-home li a:hover{ background: none; text-decoration: underline; }
   #about p:hover { background: none; }
