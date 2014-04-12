@@ -65,6 +65,15 @@ body a{
 		transition: all 0.5s ease-out;
 	}
 
+		header img {
+			max-width: 100px;
+			max-height: 100px;
+
+			-webkit-border-radius: 50px;
+			-moz-border-radius: 50px;
+			border-radius: 50px;
+		}
+
 		.brsix{display:none;}
 		
 		header a{
@@ -88,13 +97,17 @@ body a{
 			font-size: 38px;
 			color: #f65d2e;
 			margin: 0 auto;
-      padding: 5px;
+      		padding: 15px;
 		}
 
     header a h2 span{
       font-family: 'VoyagerLight', Monaco, monospace;
       color: #f65d2e;
       font-weight: normal;
+    }
+
+    header span{
+      font-family: 'VoyagerLight', Monaco, monospace;
     }
 
 		header span.idig{
@@ -380,7 +393,7 @@ body a{
 	}
     
   .content{
-    padding: 5% 10%;
+    padding: 3% 10%;
     min-height: 300px;
   }
 
@@ -885,7 +898,8 @@ footer a{
   .show-xs { display: block; }
   .hidden-xs { display: none; }
   .name-bracket { display: none; }
-  header { margin-top: 25px; border: 1px dashed #999; }
+  header { margin-top: 25px; border: 1px dashed #999; padding-bottom: 20px;}
+  header img { margin: 20px 0 0 0; }
   #about p { border: none; font-size: 0.9em; }
   .project-item, .project-item:hover { max-height: none; }
   .project-image { width: 100%; margin-top: 0; }
@@ -894,7 +908,11 @@ footer a{
   .project-description p, .project-launch a { font-size: 0.9em; }
   .project-launch a { font-size: 0.9em; }
   .project-launch a span { margin-left: -12px; }
+  .content h1 { line-height: 120%; }
+  .page-header h1 small { line-height: 150%; }
   .content ul { padding: 0 10%; }
+  .content img { width: 100%; }
+  .date { clear: both; line-height: 150%; }
   footer { background: #000; min-height: 150px; }
   footer p { font-size: 1em; line-height: 80%; padding: 10px;}
   #menu-footer { line-height: 150%; }
