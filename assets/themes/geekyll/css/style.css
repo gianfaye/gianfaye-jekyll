@@ -515,6 +515,10 @@ body a{
       line-height: 100%;
     }
 
+    #about{
+    	background: #FFF;
+    }
+
     #about p{
       color: #B1B0B0;
       font-size: 12px;
