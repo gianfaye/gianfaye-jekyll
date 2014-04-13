@@ -24,6 +24,10 @@ body{
 	margin: 0 auto;
 	width: 100%;
 	overflow-x: hidden;
+	background: url(/assets/images/bg-mandala.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-position-y: -280px;
 }
 
 body p,span,li{
@@ -56,7 +60,6 @@ body a{
 		text-align: center;
 		margin: 0 auto;
 		padding: 2%;
-		background: #FFF;
 
 		-webkit-transition: all 0.5s ease-out;
 		-moz-transition: all 0.5s ease-out;
@@ -339,7 +342,6 @@ body a{
 		position: relative;
 		width: 585px;
 		height: 20px;
-		background: #FFF;
 		margin: 0 auto;
 		z-index: 99999;
 
@@ -889,7 +891,7 @@ footer a{
 }
 
 .show-xs { display: none; }
-
+.show-sm { display: none; }
 
 @media (max-width: 900px) {
   .content img { width: 100%; }
@@ -898,17 +900,22 @@ footer a{
 }
 
 @media (max-width: 750px) {
+    body{ 
+      background-position-y: -255px;
+      position: absolute;
+      top: 0 !important;
+    }
   .show-xs { display: block; }
   .hidden-xs { display: none; }
   .name-bracket { display: none; }
-  header { margin-top: 25px; border: 1px dashed #999; padding-bottom: 20px;}
+  header { margin-top: 25px; margin-bottom: -25px; padding-bottom: 0;}
   header img { margin: 20px 0 0 0; }
-  #about p { border: none; font-size: 0.9em; }
+  #about p { border: none; }
   .project-item, .project-item:hover { max-height: none; }
   .project-image { width: 100%; margin-top: 0; }
   .project-details { width: 95%; margin-top: 0; }
   .project-subtitle h4 { font-size: 1em; }
-  .project-description p, .project-launch a { font-size: 0.9em; }
+  .project-description p, .project-launch a { font-size: 0.7em; }
   .project-launch a { font-size: 0.9em; }
   .project-launch a span { margin-left: -12px; }
   .content h1 { line-height: 120%; }
@@ -917,9 +924,31 @@ footer a{
   .date { clear: both; line-height: 150%; }
   #blog-home li a:hover{ background: none; text-decoration: underline; }
   #about p:hover { background: none; }
-  footer { background: #000; min-height: 175px; }
-  footer p { font-size: 1em; line-height: 80%; padding: 10px;}
+  footer { 
+	min-height: 175px;
+	background: url("../images/footer-iceberg-shit.png"), #000;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: bottom center;
+  }
+  footer p { 
+  	font-size: 0.9em; line-height: 80%; padding: 10px; 
+  }
+  footer p, footer a { 
+  	font-family: 'VoyagerRegular', Monaco, monospace;
+  	text-transform: uppercase;
+  	letter-spacing: 3px;
+  }
   #menu-footer { line-height: 150%; }
   .pagination { overflow: overlay; }
   .pagination li { float: left; }
+}
+
+@media (max-width: 650px) {
+  header { margin-bottom: 0; }
+}
+
+@media (max-width: 600px) {
+  .show-sm { display: block; }
+  .hidden-sm { display: none; }
 }
