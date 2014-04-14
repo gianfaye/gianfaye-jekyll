@@ -515,9 +515,7 @@ body a{
       line-height: 100%;
     }
 
-    #about{
-    	background: #FFF;
-    }
+    #about{ background: #FFF; }
 
     #about p{
       color: #B1B0B0;
@@ -927,7 +925,7 @@ footer a{
   .content ul { padding: 0 10%; }
   .date { clear: both; line-height: 150%; }
   #blog-home li a:hover{ background: none; text-decoration: underline; }
-  #about p:hover { background: none; }
+  #about { background: none; }
   footer { 
 	min-height: 175px;
 	background: url("../images/footer-iceberg-shit.png"), #000;
