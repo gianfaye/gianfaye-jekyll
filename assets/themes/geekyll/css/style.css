@@ -23,6 +23,7 @@ li{list-style-type: none;}
 body{
 	margin: 0 auto;
 	width: 100%;
+	position: absolute;
 	overflow-x: hidden;
 	background: url(/assets/images/bg-mandala.jpg);
 	background-repeat: no-repeat;
@@ -406,15 +407,15 @@ body a{
       text-transform: uppercase;
       letter-spacing: 3px;
       line-height: 150%;
-      padding-left: 17px;
-      margin-left: -17px;
+      padding-left: 21px;
+      margin-left: -16px;
   }
     
   .content h1{
-      border-left: 5px solid #eee;
+      border-left: 1px solid #f65d2e;
   }
   .content h2{
-      border-left: 4px solid #eee;
+      border-left: 1px solid #eee;
       margin-left: -17px;
       margin-top: 30px;
   }
@@ -506,7 +507,7 @@ body a{
 
     #blog-home li a{
 		padding: 5px 5px 5px 20px;
-		border-left: 2px solid #eee;
+		border-left: 1px solid #eee;
     }
 
     .page-header h1 small{
@@ -904,8 +905,6 @@ footer a{
 @media (max-width: 750px) {
     body{ 
       background-position-y: -255px;
-      position: absolute;
-      top: 0 !important;
     }
   .show-xs { display: block; }
   .hidden-xs { display: none; }
@@ -924,7 +923,7 @@ footer a{
   .page-header h1 small { line-height: 150%; }
   .content ul { padding: 0 10%; }
   .date { clear: both; line-height: 150%; }
-  #blog-home li a:hover{ background: none; text-decoration: underline; }
+  #blog-home li a:hover{ text-decoration: underline; }
   #about { background: none; }
   footer { 
 	min-height: 175px;
