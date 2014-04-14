@@ -24,7 +24,7 @@ All published works under this domain is licensed under the [Creative Commons At
 - [Jekyll](http://jekyllrb.com/) by [Tom Preston-Werner](http://tom.preston-werner.com/), [Nick Quaranto](http://quaran.to/), and the [full list of contributors](https://github.com/mojombo/jekyll/graphs/contributors).
 - [Jekyll Bootstrap](http://jekyllbootstrap.com/) by Jade Dominguez for the headstart.
 - [Markdown](http://daringfireball.net/projects/markdown/) by John Gruber for the text to HTML conversion tool used on most of the posts here.
-- [GIMP](http://gimp.org) - used to create and edit graphics for this site. And [Wilber](http://en.wikipedia.org/wiki/GIMP#Mascot) for being my companion for 7 years now.
+- [GIMP](http://gimp.org) - used to create and edit images for this site. And [Wilber](http://en.wikipedia.org/wiki/GIMP#Mascot) for being my companion for 7 years now.
 - Typefaces: [V.GER (Voyager) Grotesque](http://www.behance.net/gallery/VGER-Grotesque/6636573) by Mateo Rios and Tomas Saldarriaga &amp; [Amethysta](http://www.google.com/fonts/specimen/Amethysta) by Cyreal.
 - And of course, I still would like to mention [Sir TimBL](http://www.w3.org/People/Berners-Lee/) for making this web geekery [possible](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html).
 
