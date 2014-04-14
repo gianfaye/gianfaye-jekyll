@@ -63,6 +63,6 @@ You know you cannot do anything outstanding without any legal advice, right? Sau
 
 Your startup's future is in your hands. Had it been that Walt's DEA Brother-in-Law didn't discover that book Gale gave him, it would be a happy ending for the White household. Well, to the very end he still saved his co-founder's troublesome ass who turned Judas with him. So I guess the lesson is pick the right co-founder to begin with. Ha. 
 
-It all goes back to where you started. Now if you were thinking of building a startup, it's up to you to go Breaking Bad or just fucking follow a pathetic life 'til you die of cancer.
+It all goes back to where you started. If you are thinking of building a startup, it’s up to you to just remain society's typical byproduct - or go Breaking Bad.
 
 Now, find your Jesse Pinkman.
