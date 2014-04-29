@@ -41,7 +41,10 @@ body a{
   color: #f65d2e;
 }
 
-hr{	border: 1px dashed rgba(0,0,0,0.1); }
+hr{	
+	border: 1px dashed rgba(0,0,0,0.1); 
+	margin-top: 10px;
+}
 
 #sidebar{
 	width: 30%;
