@@ -42,7 +42,7 @@ body a{
 }
 
 hr{	
-	border: 1px dashed rgba(0,0,0,0.1); 
+	border: 1px dotted rgba(0,0,0,0.1); 
 	margin-top: 10px;
 }
 
