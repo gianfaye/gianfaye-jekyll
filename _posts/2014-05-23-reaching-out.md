@@ -7,7 +7,7 @@ tags : [thoughts,environment,campaign,Greenpeace,Philippines]
 ---
 {% include JB/setup %}
 
-Yesterday, I received a call from a representative of **Greenpeace Philippines**. Her name is Andy and she introduced with confirming an online petition I signed up 2 months ago: [No to Coal Mining ...](http://www.change.org/petitions/we-want-clean-energy-in-the-philippines)
+Yesterday, I received a call from a representative of **Greenpeace Philippines**. Her name is Andy and she introduced with confirming an online petition I signed up 2 months ago: [No to Coal Mining in the Philippines](http://www.change.org/petitions/we-want-clean-energy-in-the-philippines).
 
 I vaguely remembered it, not because of me regarding it as not important, I just have a bad memory. And **it is** important.
 
