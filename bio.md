@@ -23,13 +23,15 @@ I did not graduate from [De La Salle University - Dasmariñas](http://www.dlsud.
 
 ##Skills, eh?
 
-Although I'm language agnostic, I'm fond of using JavaScript for most of my projects. In terms of web development, I'm most likely a front-end warrior throwing APIs to your browser (and you'll like how I do it), killing page loading time and optimizing your browsing experience. 
+I have used the following libraries and frameworks on my previous works and projects: Backbone.js & CanJS (JS libraries/MVC frameworks), NodeJS (JS for server-side apps), jQuery and jQuery UI (JS libraries), PhoneGap (framework for porting mobile apps), WebGL (JS graphics library), Jekyll (static-site parser, uses Ruby & Markdown), Business Catalyst (CMS & CRM), Joomla (yes, that CMS you know) and WordPress (CMS). I know basic PHP and have used the WAMP combo in the past. In regard to templating, I know Bootstrap 3, EJS, and Mustache. 
 
-I can do jQuery (which is given), Backbone.js, CanJS. I've also tried Node.js for the server side. I've had history with PHP and MySQL but I honestly say I suck at it. (Still trying to improve, though.) 
+I mainly use Sublime Text 2 as my code editor. I draft wireframes on a dotted sketchbook (call it traditional, but nothing beats paper and pencil in drafting) and do prototyping in GIMP 2 (or Photoshop, if necessary). I mostly do wireframing-straight-to-document unless the prototype is necessary (mostly for client-work).
+
+I am familiar with Git and SCM, and Scrum methodology. I timebox and manage my tasks using Google Calendar and [Trello](http://trello.com/gianfaye), respectively.
 
 You can find me learning new things to code at [CodeSchool](https://www.codeschool.com/users/22010), [Codecademy](http://www.codecademy.com/users/gianfaye), and [Coderbits](https://coderbits.com/gianfaye).
 
-In terms of agile development, I'm familiar with Scrum methodologies. I like using [Trello](http://trello.com/gianfaye) for timeboxing and organizing tasks.
+I like working with the DOM, consuming RESTful APIs, and learning new and emerging web technologies.
 
 ##Publications
 
@@ -52,7 +54,7 @@ One day I wanted to learn how to play the cello but ended up practicing with a v
 
 ##Interests
 
-Aside from web technologies, I am <s>fond of</s> obsessed with astronomy, Star Wars, Doctor Who, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Seth Godin's head, Japan, MOOCs, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, hitting people and cars on GTA, making gyrocopters fly, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and black metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
+Aside from web technologies, I am <s>fond of</s> obsessed with astronomy, Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Star Wars, Seth Godin's head, Japan, MOOCs, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, hitting people and cars on GTA, making gyrocopters fly, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and black metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
 
 I have 3 cats, a red-eared slider, and a box turtle.
 
