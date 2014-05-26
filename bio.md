@@ -56,7 +56,7 @@ One day I wanted to learn how to play the cello but ended up practicing with a v
 
 Aside from web technologies, I am <s>fond of</s> obsessed with astronomy, Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Star Wars, Seth Godin's head, Japan, MOOCs, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, hitting people and cars on GTA, making gyrocopters fly, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and black metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
 
-I have 3 cats, a red-eared slider, and a box turtle.
+I have 2 cats, a red-eared slider, and a box turtle.
 
 
 Now that I've said shameless things about myself just so you have any idea who you're dealing with, please close this page and go back to the [home page](/).
