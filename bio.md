@@ -38,7 +38,6 @@ I like working with the DOM, consuming RESTful APIs, and learning new and emergi
 Around 2009 I started up a blog, [Loading-Info](http://the.loading-info.net), where I posted tech-related articles. It's still live but since I went serious with web dev't, my blogging activities dropped. Nonetheless, the blogging thing was a headstart on how I started to gain interest in web development. (And who would believe it got me my first job?) 
 
 Here are some of the articles I scattered around the interwebs:
-
 * #####[PULP Magazine "Is Crowdfunding the Future of Music Production?"](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
   #####July 12, 2013 // For "The New Shit" Column
 
