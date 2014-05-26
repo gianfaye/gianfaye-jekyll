@@ -19,7 +19,7 @@ This evaluation period is both for the employer and the new employee. The employ
 
 As I mentioned, it is a two-way road. In case the new hire's expectation of the company or how they function doesn't compare with what took place within the evaluation period, it would be a smart move for the new hire to part ways early on this stage. I have personally experienced this. On the first 2 months, the company is fun. It is a great place to work at, and you get along well with your co-workers. Then, as most companies grow, there are changes. Change is always inevitable. But, there IS a but.
 
-They set new rules as they grew. But some people doesn't like following rules, and that includes me. I actually hate rules. It is a barbarian term for me. Unless it is law or traffic enforcement, I see no point in setting and following new rules. It felt like I am playing the game, then there's new mechanics. They didn't even ask us if it's okay if they change mechanics while we're still playing. It's rude. I mostly accept *'guidelines'*. Rules? Mostly NOT.
+They set new rules as they grew. But some people do not like following rules, and that includes me. I actually hate rules. It is a barbarian term for me. Unless it is law or traffic enforcement, I see no point in setting and following new rules. It felt like I am playing the game, then there's new mechanics. They didn't even ask us if it's okay if they change mechanics while we're still playing. It's rude. I mostly accept *'guidelines'*. Rules? Mostly NOT.
 
 And so the company changed. But what if the things you liked about the company, the mostly reason why you applied and took the job in the first place, were a part of this change?
 
