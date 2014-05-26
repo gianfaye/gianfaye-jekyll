@@ -13,7 +13,7 @@ tags : [web development, microsite]
 
 The microsite is the official event web page for [the 2nd year](http://pulpliveworld.com/shows/2013/bazooka-rocks) of Bazooka Rocks Festival by PULP Live World Production.
 
-![Bazooka Rocks II](/assets/images/projects/2013/br-shot.png) 
+![Bazooka Rocks II](/assets/images/projects/2013/bazooka-rocks-2.png) 
 
 ##Client
 
