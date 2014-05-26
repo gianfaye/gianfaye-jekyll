@@ -7,7 +7,7 @@ tags : [thoughts,work,ethics,culture,rules]
 ---
 {% include JB/setup %}
 
-During job interviews, one of the most absurd questions the interviewer might ask the interviewee is this: *"If you are hired, do you plan to stay permanent?"*
+During job interviews, one of the most absurd questions the interviewer might ask the interviewee is this: *"If you are hired, do you plan to stay permanently?"*
 
 The default answer should be a **'No'**. There are a few things in this world that are permanent -- death, legacy, the continuity of time, and change. Anything else is *ephemeral*.
 
