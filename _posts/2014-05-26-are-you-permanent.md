@@ -9,7 +9,7 @@ tags : [thoughts,work,ethics,culture,rules]
 
 During job interviews, one of the most absurd questions the interviewer might ask the interviewee is this: *"If you are hired, do you plan to stay permanently?"*
 
-The default answer should be a **'No'**. There are a few things in this world that are permanent -- death, legacy, the continuity of time, and change. Anything else is *ephemeral*.
+The default answer should be a **'No'**. There are a few things in this world that are permanent -- death, legacy (not in object sense), the continuity of time, and change. Anything else is ephemeral.
 
 If they are to revise the question and ask if you plan to stay long-term or short-term, you cannot answer this either. Not during the interview. Unless you just want to impress them or you desperately need the job, you would automatically respond the safest answer. By answering **'long-term'**, you are either fooling yourself or fooling the company -- or both. It is NOT an honest answer. 
 
