@@ -24,4 +24,4 @@ I bought this bottle of [Perrier](http://www.forbes.com/sites/janelevere/2013/06
 
 As I mentioned above, the bottle broke. :( Obviously, I wanted to reuse the bottle. This made me wonder why it broke when I refilled the bottle with purified water and put it to freezer overnight, when it didn't break when I put the then mineral water in the freezer for days. 
 
-I have fun knowing why.
+I had fun knowing why.
