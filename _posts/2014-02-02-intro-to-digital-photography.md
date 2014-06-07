@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "Digital Photography n00b"
+title : "Intro to Digital Photography"
 tagline : 
 category : blog
 tags : [learning,photography,photos,photosets]
