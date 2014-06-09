@@ -13,13 +13,13 @@ tags : [web development, microsite]
 
 The microsite is the official event web page for [the 3rd year](http://pulpliveworld.com/shows/2014/bazooka-rocks-3) of BAZOOKA ROCKS Festival by PULP Live World Production.
 
-![Bazooka Rocks 3 - Home](/assets/images/projects/2014/bazooka-rocks-3-home.jpg) 
+![Bazooka Rocks 3 - Home](/assets/images/projects/2014/bazooka-rocks-3-home.png) 
 
-![Bazooka Rocks 3 - Lineup](/assets/images/projects/2014/bazooka-rocks-3-lineup.jpg) 
+![Bazooka Rocks 3 - Lineup](/assets/images/projects/2014/bazooka-rocks-3-lineup.png) 
 
-![Bazooka Rocks 3 - Lineup Overlay](/assets/images/projects/2014/bazooka-rocks-3-lineup-overlay.jpg) 
+![Bazooka Rocks 3 - Lineup Overlay](/assets/images/projects/2014/bazooka-rocks-3-lineup-overlay.png) 
 
-![Bazooka Rocks 3 - Tickets](/assets/images/projects/2014/bazooka-rocks-3-tickets.jpg) 
+![Bazooka Rocks 3 - Tickets](/assets/images/projects/2014/bazooka-rocks-3-tickets.png) 
 
 ##Client
 
