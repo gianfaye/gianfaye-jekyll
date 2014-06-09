@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Bazooka Rocks 2
+title : Bazooka Rocks 3
 tagline : Official Website
 category : project
 tags : [web development, microsite]
@@ -11,9 +11,15 @@ tags : [web development, microsite]
 
 ##The Site
 
-The microsite is the official event web page for [the 2nd year](http://pulpliveworld.com/shows/2013/bazooka-rocks) of Bazooka Rocks Festival by PULP Live World Production.
+The microsite is the official event web page for [the 3rd year](http://pulpliveworld.com/shows/2014/bazooka-rocks-3) of BAZOOKA ROCKS Festival by PULP Live World Production.
 
-![Bazooka Rocks 2](/assets/images/projects/2013/bazooka-rocks-2.jpg) 
+![Bazooka Rocks 3 - Home](/assets/images/projects/2014/bazooka-rocks-3-home.jpg) 
+
+![Bazooka Rocks 3 - Lineup](/assets/images/projects/2014/bazooka-rocks-3-lineup.jpg) 
+
+![Bazooka Rocks 3 - Lineup Overlay](/assets/images/projects/2014/bazooka-rocks-3-lineup-overlay.jpg) 
+
+![Bazooka Rocks 3 - Tickets](/assets/images/projects/2014/bazooka-rocks-3-tickets.jpg) 
 
 ##Client
 
@@ -25,10 +31,8 @@ PULP Live World produces concerts and festivals featuring international and loca
 
 Illustrations featured on the website are created by Moi Marzan. 
 
-Co-developed with Derick Vincent Balog. 
-
 <div class="launch-website">
-<a href="http://www.bazookarocks.com/2013" target="_blank">
+<a href="http://www.bazookarocks.com" target="_blank">
 &lt; Launch Project &gt; 
 <span>www.bazookarocks.com</span>
 </a>
