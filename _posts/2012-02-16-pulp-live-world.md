@@ -1,7 +1,7 @@
 ---
 layout: post
-title : PULP Live World
-tagline : Official Website
+title : "PULP Live World"
+tagline : "Official Website"
 category : project
 tags : [web development, joomla, ecommerce]
 ---

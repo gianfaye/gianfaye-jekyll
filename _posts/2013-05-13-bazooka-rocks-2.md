@@ -1,7 +1,7 @@
 ---
 layout: post
-title : Bazooka Rocks 2
-tagline : Official Website
+title : "Bazooka Rocks 2 Festival"
+tagline : "Official Website"
 category : project
 tags : [web development, microsite]
 ---

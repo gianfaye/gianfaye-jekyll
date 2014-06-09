@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Infoman Cooperative System
+title : "Infoman Cooperative System"
 tagline : "Software Development"
 category : project
 tags : [software development, progress, openedge]

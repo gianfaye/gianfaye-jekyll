@@ -1,7 +1,7 @@
 ---
 layout: post
-title : Little Big Cheese
-tagline : Magazine Layout
+title : "Little Big Cheese"
+tagline : "Magazine Layout"
 category : project
 tags : [print, magazine, InDesign]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Your Startup is 'Breaking Bad'
+title : "Your Startup is 'Breaking Bad'"
 tagline : 
 category : blog
 tags : [thoughts, startup, work, entertainment]

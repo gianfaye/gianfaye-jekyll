@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Goldenbeck Coaching
+title : "Goldenbeck Coaching"
 tagline : "Branding: Logo + Flyer Design"
 category : project
 tags : [print, branding, logo design]

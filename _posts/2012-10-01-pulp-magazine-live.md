@@ -1,7 +1,7 @@
 ---
 layout: post
-title : PULP Magazine Live
-tagline : Official Website
+title : "PULP Magazine Live"
+tagline : "Official Website"
 category : project
 tags : [web development, php, mysql, cms, map]
 ---

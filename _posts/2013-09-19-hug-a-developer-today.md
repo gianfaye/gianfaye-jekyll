@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Hug A Developer Today
+title : "Hug A Developer Today"
 tagline : 
 category : blog
 tags : [work, programming, personal]
