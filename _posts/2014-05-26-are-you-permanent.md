@@ -23,7 +23,7 @@ They set new rules as they grew. But some people do not like following rules, an
 
 And so the company changed. But what if the things you liked about the company, the mostly reason why you applied and took the job in the first place, were a part of this change?
 
->Plus ca change, plus c'est la meme chose. / The more things change, the more they stay the same. <br> - [Jean-Baptiste Alphonse Karr](http://en.wiktionary.org/wiki/plus_%C3%A7a_change,_plus_c'est_la_m%C3%AAme_chose)
+>Plus ca change, <br>plus c'est la meme chose. <hr>The more things change, <br>the more they stay the same. <hr> - [Jean-Baptiste Alphonse Karr](http://en.wiktionary.org/wiki/plus_%C3%A7a_change,_plus_c'est_la_m%C3%AAme_chose)
 
 ##We Are The Company
 
