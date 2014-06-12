@@ -836,7 +836,7 @@ pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background
 
     blockquote {
       margin: 2em 3em;
-      padding: 0.5em 10px;
+      padding: 1.5em 10px 0 10px;
       quotes: "\201C""\201D""\2018""\2019";
     }
 
