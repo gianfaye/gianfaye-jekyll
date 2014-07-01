@@ -37,7 +37,7 @@ Long story short, I'm in love with the brand - the identity. It is something ete
 
 ##Are you crazy!? What if...
 
-Don't worry though, I doubt they'll be reading this unless you're an asshole. They have little to no idea what I'm actually doing. Even if I did better work or anything outstanding they wouldn't notice as they have no idea what I'm actually doing. And I'm not seeking recognition. God, they even asked me to remove my credits to the websites I developed for them - *more of this will be discussed later*. I'm fine with what I do. Just __let me do it__. Don't lock me away from my canvas. I just have to finish one remaining project and **I'm done**. But I can't. I'm at home, typing this shit and waiting for Friday.
+Don't worry though, I doubt they'll be reading this. They have little to no idea what I'm actually doing. Even if I did better work or anything outstanding they wouldn't notice as they have no idea what I'm actually doing. And I'm not seeking recognition. God, they even asked me to remove my credits to the websites I developed for them - *more of this will be discussed later*. I'm fine with what I do. Just __let me do it__. Don't lock me away from my canvas. I just have to finish one remaining project and **I'm done**. But I can't. I'm at home, typing this shit and waiting for Friday.
 
 I wish I could get them this book: ["Why Programmers Work At Night"](https://leanpub.com/nightowls) or better yet ["Linchpin" by Seth Godin](http://amzn.to/18ekKGP).
 
