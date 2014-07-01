@@ -7,7 +7,7 @@ tags : [web development, php, mysql, cms, map]
 ---
 {% include JB/setup %}
 
-**PULP Magazine** is the biggest and the oldest (since 1999) premier music publication in the Philippines. 
+**PULP Magazine** is the premier music publication in the Philippines since 1999. 
 
 ##The Site
 
