@@ -10,7 +10,7 @@ tags : [tutorial,howto,diy,3D,anaglyph,phantogram,stereoscopy,photography,photos
 ![Carton Network](http://i.imgur.com/vpQAmya.jpg)
 ######Carton Network &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.5 &bullet; 1/25 &bullet; ISO-800 &bullet; 50mm | Created using 3D Anaglyph Maker v1.08 by Takashi Sekitani
 
-**3D Anaglyph** is a type of a 3D imaging technique called stereoscopy that creates an illusion by means of a realistic perception of depth of an image. The photo above, when viewed using a 3D red-cyan eyeglasses, can be seen as a three-dimensional picture.
+**3D Anaglyph** is a type of a 3D imaging technique called *stereoscopy* that creates an illusion by means of a realistic perception of depth of an image. The photo above, when viewed using a 3D red-cyan eyeglasses, can be seen as a three-dimensional picture.
 
 This technique has been popular over the years and there are existing technologies created for this purpose. We already have a type of camera solely for 3D photography.
 
