@@ -24,7 +24,7 @@ To have this 3D effect, we have to capture 2 photos of the subject. In the illus
 
 ![DIY 3D Anaglyph illustration](http://i.imgur.com/OUUVZtb.jpg)
 
-It is important to note that the 2 shots should be parallel with each other and not concave. You can take the left photo first, or the other, just remember which is the left and the right because it could be quite difficult to see the difference. You can also take a ruler and mark the distance where you'll place the camera for the two shots.
+It is important to note that the 2 shots should be parallel with each other and on a straight line (not concave) when you move the camera for the second shot. You can take a ruler and mark the distance where you'll place the camera for the two shots. You can take the left photo first, or the other, just remember which is the left and the right because it could be quite difficult to see the difference. 
 
 ![DIY 3D Anaglyph illustration](http://i.imgur.com/oj5LoDF.jpg)
 
