@@ -47,5 +47,3 @@ Here are more examples:
 There is a more advanced technique called *phantaglyphs* or *phantograms* where the perspective illusion is added to the depth illusion on anaglyphs. (See [Wikipedia](http://en.wikipedia.org/wiki/Phantogram)) Technically, from my illustration above, you have to apply a certain angle to the subject (mostly 45&deg; above) and the subject should be on a flat surface. If you are interested to advance into this topic you can [download this pdf by Steve Hughes](/assets/docs/intro-to-phantograms-by-steve-hughes.pdf).
 
 Let me know on the comments below if you have any suggestions and feel free to share what you created.
-
-Btw, here's [a hidden gem](http://www.jiriruzek.net/photogallery-3d-anaglyphs.html). Note: NSFW. You're welcome.
