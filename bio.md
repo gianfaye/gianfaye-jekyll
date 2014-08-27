@@ -40,10 +40,10 @@ Around 2009 I started up a blog, [Loading-Info](http://the.loading-info.net), wh
 Here are some of the articles I scattered around the interwebs:
 
 * #####[PULP Magazine "Is Crowdfunding the Future of Music Production?"](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
-  #####July 12, 2013 // For "The New Shit" Column
+#####July 12, 2013 // For "The New Shit" Column
 
 * #####[Free Software Foundation – “No to Windows 7; No to Facebook?”](http://www.blogengage.com/blogger/free-software-foundation-no-to-windows-7-no-to-facebook/)
-  #####June 13, 2011 // Where I made me won a [Contest](http://www.blogengage.com/blogger/the-june-2011-blogger-spotlight-winners/) (yay)
+#####June 13, 2011 // Where I made me won a [Contest](http://www.blogengage.com/blogger/the-june-2011-blogger-spotlight-winners/) (yay)
 
 I can't recall all the links but I swear I've posted more. If you happen to find some of the old articles I posted, feel free to email me.
 
