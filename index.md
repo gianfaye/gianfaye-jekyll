@@ -17,3 +17,5 @@ tagline:
     {% endif %}
   {% endfor %}
 </ul>
+
+[View all blog posts &raquo;](/posts)
