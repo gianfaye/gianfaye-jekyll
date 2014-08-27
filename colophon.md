@@ -17,9 +17,6 @@ In accordance to [World Wide Web Consortium](http://www.w3.org/)'s Markup Valida
 
 All published works under this domain is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and distribute as long as you credit the work to the publisher under this domain.
 
-<br>
-<br>
-
 ####Special Thanks:
 - [Jekyll](http://jekyllrb.com/) by [Tom Preston-Werner](http://tom.preston-werner.com/), [Nick Quaranto](http://quaran.to/), and the [full list of contributors](https://github.com/mojombo/jekyll/graphs/contributors).
 - [Jekyll Bootstrap](http://jekyllbootstrap.com/) by Jade Dominguez for the headstart.
