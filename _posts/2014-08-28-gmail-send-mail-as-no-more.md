@@ -35,6 +35,12 @@ The most disappointing thing here is, I was in a middle of a project and already
 
 There's a workaround here but it doesn't work as good as before. You can still use Gmail's SMTP settings but with a few security drawbacks.
 
+	SMTP Server: smtp.gmail.com
+	Port: 465
+	Username: yourgmail@gmail.com
+	Password: yourgmailpassword
+	Secured connection using SSL
+
 On my initial attempt, I got an error and it links to this support page: [My client isn't accepting my username and password](https://support.google.com/mail/answer/78754)
 
 So it says, first you must visit [http://www.google.com/accounts/DisplayUnlockCaptcha](http://www.google.com/accounts/DisplayUnlockCaptcha) and click on **Continue**.
