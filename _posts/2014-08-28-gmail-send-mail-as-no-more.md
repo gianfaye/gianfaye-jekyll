@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "Send Mail As, Gmail's Change of Mechanics"
+title : "Gmail's Send Mail As Option Changes"
 tagline : 
 category : blog
 tags : [featured,Google,Gmail,changes,updates,email,settings,branding,premium]
