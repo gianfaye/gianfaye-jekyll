@@ -55,4 +55,4 @@ Google gave mercy to the email addresses you already added prior to the update s
 
 It's quite frustrating, yeah. But what can we do? Google isn't satisfied with putting ads on your Gmail inbox, they're now charging you for using their free(?) Gmail because you'll make the @gmail.com less popular by using your own domain name. 
 
-We can all see where this is coming.
+We can all see where this is going.
