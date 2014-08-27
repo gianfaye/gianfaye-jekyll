@@ -864,12 +864,13 @@ pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background
     }
 
 .view-all{
-	float: right;
-  	font-family: "Lucida Console", Monaco, monospace;
+	text-align: center;
+	font-family: "Lucida Console", Monaco, monospace;
 	font-size: 0.8em;
 	letter-spacing: 0;
 	padding: 20px 0;
 }
+.view-all a{color: #999 !important;}
 
 footer{
 	position: relative;
