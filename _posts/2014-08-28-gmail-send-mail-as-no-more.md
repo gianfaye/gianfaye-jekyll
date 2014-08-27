@@ -7,9 +7,9 @@ tags : [featured,Google,Gmail,changes,updates,email,settings,branding,premium]
 ---
 {% include JB/setup %}
 
-This post is about the not-so-popular yet powerful feature of Gmail's **Send Mail As** option, and how it recently changed its mechanics of using it from *free to proprietary*. I'll explain it in this article.
+This post is about the not-so-popular yet powerful feature of Gmail's **Send Mail As** option, and how it recently changed its mechanics of using it from *free to proprietary*.
 
-Many of you probably aren't aware of this but I've been using this feature for awhile until recently - Gmail's **Send Mail As**. When you have a domain name and your domain registrar offers free mail forwarding, you can use your Gmail to send as your preferred email address using your domain name.
+Many of you probably aren't aware of this but I've been using this feature for awhile until recently. When you have a domain name and your domain registrar offers free mail forwarding, you can use your Gmail to send as your preferred email address using your domain name.
 
 For example, I have this `coolwebsite.com` domain and I want an email address associated with that. Let's say `contact@coolwebsite.com`
 
