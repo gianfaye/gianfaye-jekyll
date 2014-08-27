@@ -49,7 +49,7 @@ Second, you must [allow less secure apps access](https://support.google.com/acco
 
 Also, you cannot receive more than one email every 10 minutes or else it will block the sender. And if you enable the 2-Step verification process you might have to disable it.
 
-	Tip: If you don't want to sacrifice the security of your account you can create/use another Gmail account you own for this purpose. Just use that Gmail address and its password on the SMTP settings and it should work fine.
+	Tip: If you don't want to sacrifice the security of your account you can create/ use another Gmail account you own for this purpose. Just use that Gmail address and its password on the SMTP settings and it should work fine.
 
 Google gave mercy to the email addresses you already added prior to the update so this will only affect new email addresses you'll be sending mail as.
 
