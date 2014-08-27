@@ -21,11 +21,11 @@ However, Gmail recently changed its mechanics and are now asking users to input 
 
 ![Add another email address you own](http://i.imgur.com/BVqgYpd.jpg)
 
-After a little research, I then discovered that they recently introduced [Google Apps for Business](http://www.google.com.ph/intx/en_ph/enterprise/apps/business/) - one feature is that you can create email addresses via Gmail using your domain name. But I've been doing this for a while now using their old Send Mail As settings. Even my `@gianfaye.com` email addresses are directed to my Gmail.
+After a little research, I then discovered that they recently introduced [Google Apps for Business](http://www.google.com.ph/intx/en_ph/enterprise/apps/business/) - one feature is that you can create email addresses via Gmail using your domain name. But I've been doing this for a while now using their old **Send Mail As** settings. Even my `@gianfaye.com` email addresses are directed to my Gmail.
 
 ![Google Apps for Business](http://i.imgur.com/okTzIfo.jpg)
 
-With the new settings, the user is now required to add SMTP settings to move on with the Send Mail As option, they have to get and pay for email hosting - which throws away the reason why we can use basic mail forwarding for Gmail. It followed [Yahoo!'s Small Business](https://smallbusiness.yahoo.com/email) (previously Yahoo! Mail Plus) paid plan to customize the email you'll be using to reply to a forwarded email - which is supposedly your custom email, not your Yahoo! email or Gmail. 
+With the new settings, the user is now required to add SMTP settings to move on with the **Send Mail As** option, they have to get and pay for email hosting - which throws away the reason why we can use basic mail forwarding for Gmail. It followed [Yahoo!'s Small Business](https://smallbusiness.yahoo.com/email) (previously Yahoo! Mail Plus) paid plan to customize the email you'll be using to reply to a forwarded email - which is supposedly your custom email, not your Yahoo! email or Gmail. 
 
 Related discussion: [MISSING OPTION: Use Gmail's servers to send your mail](https://productforums.google.com/forum/#!msg/gmail/B0Lqlwmm8Bc/pgLAySuVURgJ)
 
