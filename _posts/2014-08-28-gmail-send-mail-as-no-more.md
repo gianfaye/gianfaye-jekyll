@@ -43,6 +43,8 @@ Second, you must [allow less secure apps access](https://support.google.com/acco
 
 Also, you cannot receive more than one email every 10 minutes or else it will block the sender.
 
+Google gave mercy to the email addresses you already added prior to the update so this will only affect new email addresses you'll be sending mail as.
+
 It's quite frustrating, yeah. But what can we do? Google isn't satisfied with putting ads on your Gmail inbox, they're now charging you for using their free(?) Gmail because you'll make the @gmail.com less popular by using your own domain name. 
 
 We can all see where this is coming.
