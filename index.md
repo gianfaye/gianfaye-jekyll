@@ -18,5 +18,5 @@ tagline:
   {% endfor %}
 </ul>
 <div class="view-all">
-    &lt;<a href="/posts">View all blog posts &raquo;</a>&gt;
+    <a href="/posts">&lt; View all blog posts &gt;</a>
 </div>
