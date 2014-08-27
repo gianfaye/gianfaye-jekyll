@@ -17,3 +17,6 @@ tagline:
     {% endif %}
   {% endfor %}
 </ul>
+<span class="view-all">
+    <a href="/posts">View all blog posts &raquo;</a>
+</span>
