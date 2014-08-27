@@ -3,7 +3,7 @@ layout: post
 title : "Send Mail As, Gmail's Change of Mechanics"
 tagline : 
 category : blog
-tags : [featured,Google,Gmail,changes,updates,email,settings,branding]
+tags : [featured,Google,Gmail,changes,updates,email,settings,branding,premium]
 ---
 {% include JB/setup %}
 
