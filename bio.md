@@ -31,7 +31,7 @@ I am familiar with Git and SCM, and Scrum methodology. I timebox and manage my t
 
 You can find me learning new things to code at [CodeSchool](https://www.codeschool.com/users/22010), [Codecademy](http://www.codecademy.com/users/gianfaye), and [Coderbits](https://coderbits.com/gianfaye).
 
-I like working with the DOM, consuming RESTful APIs, and learning new and emerging web technologies.
+I like working with the DOM, putting APIs to their proper places like a boss (jk), and learning new and emerging web technologies. 
 
 ##Publications
 
