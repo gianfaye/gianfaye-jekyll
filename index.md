@@ -7,8 +7,6 @@ tagline:
 {% include themes/geekyll/about.html %}
 {% include themes/geekyll/projects-home.html %}
 
-<br />
-
 <ul class="posts" id="blog-home" style="clear:both;">
   {% for post in site.categories.blog %}
     {% if post.tags contains 'featured' %}
