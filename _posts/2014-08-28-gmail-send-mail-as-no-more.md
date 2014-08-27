@@ -27,7 +27,7 @@ After a little research, I then discovered that they recently introduced [Google
 
 With the new settings, the user is now required to add SMTP settings to move on with the Send Mail As option, they have to get and pay for email hosting - which throws away the reason why we can use basic mail forwarding for Gmail. It followed [Yahoo!'s Small Business](https://smallbusiness.yahoo.com/email) (previously Yahoo! Mail Plus) paid plan to customize the email you'll be using to reply to a forwarded email - which is supposedly your custom email, not your Yahoo! email or Gmail. 
 
-Related discussion: [MISSING OPTION: Use Gmail's servers to send your mail (this is easier to set up)](https://productforums.google.com/forum/#!msg/gmail/B0Lqlwmm8Bc/pgLAySuVURgJ)
+Related discussion: [MISSING OPTION: Use Gmail's servers to send your mail](https://productforums.google.com/forum/#!msg/gmail/B0Lqlwmm8Bc/pgLAySuVURgJ)
 
 The most disappointing thing here is, I was in a middle of a project and already told the client that we could use Gmail for free when they are using their own domain name for their employee's email addresses. 
 
