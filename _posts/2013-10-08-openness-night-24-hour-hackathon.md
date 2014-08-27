@@ -3,7 +3,7 @@ layout: post
 title : "Openness Night: 24Hr Hackathon"
 tagline : 
 category : blog
-tags : [hackathon, coding, open source, software development]
+tags : [featured,hackathon, coding, open source, software development]
 ---
 {% include JB/setup %}
 

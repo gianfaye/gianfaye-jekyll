@@ -3,7 +3,7 @@ layout: post
 title : "Windows 8 App Dev Boot Camp"
 tagline : 
 category : blog
-tags : [dev camp, coding, open source, software development, Microsoft, Windows 8, Azure, BizSpark]
+tags : [featured,dev camp, coding, open source, software development, Microsoft, Windows 8, Azure, BizSpark]
 ---
 {% include JB/setup %}
 

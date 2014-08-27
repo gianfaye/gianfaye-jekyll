@@ -11,7 +11,9 @@ tagline:
 
 <ul class="posts" id="blog-home" style="clear:both;">
   {% for post in site.categories.blog %}
-    <li><a href="{{ BASE_PATH }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    {% if post.tags contains 'featured' %}
+    	<li><a href="{{ BASE_PATH }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
       <span>{{ post.date | date_to_string }}</span></li>
+    {% endif %}
   {% endfor %}
 </ul>

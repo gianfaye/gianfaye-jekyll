@@ -3,7 +3,7 @@ layout: post
 title : "FUNdamentals of Web Analytics"
 tagline : 
 category : blog
-tags : [learning,work,analytics,Google,web]
+tags : [featured,learning,work,analytics,Google,web]
 ---
 {% include JB/setup %}
 

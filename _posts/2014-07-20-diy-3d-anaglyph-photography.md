@@ -3,7 +3,7 @@ layout: post
 title : "DIY 3D Anaglyph Photography"
 tagline : 
 category : blog
-tags : [tutorial,howto,diy,3D,anaglyph,phantogram,stereoscopy,photography,photos]
+tags : [featured,tutorial,howto,diy,3D,anaglyph,phantogram,stereoscopy,photography,photos]
 ---
 {% include JB/setup %}
 

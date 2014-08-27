@@ -3,7 +3,7 @@ layout: post
 title : "Node.js Deployment on Heroku"
 tagline : 
 category : blog
-tags : [hackathon, coding, open source, software development, node.js, heroku, socket.io, express, ejs]
+tags : [featured,hackathon, coding, open source, software development, node.js, heroku, socket.io, express, ejs]
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title : "Openness Hackathon Revisited"
 tagline : 
 category : blog
-tags : [events,hackathon,projects]
+tags : [featured,events,hackathon,projects]
 ---
 {% include JB/setup %}
 
