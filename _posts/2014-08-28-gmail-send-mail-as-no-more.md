@@ -56,3 +56,5 @@ Google gave mercy to the email addresses you already added prior to the update s
 It's quite frustrating, yeah. But what can we do? Google isn't satisfied with putting ads on your Gmail inbox, they're now charging you for using their free(?) Gmail because you'll make the @gmail.com less popular by using your own domain name. 
 
 We can all see where this is going.
+
+UPDATE: Someone from Google Enterprise called me. Again, called me [Sir](/bio) over the phone -__- I corrected him repeating my name with *Ms.* but he seems to not have heard it. Here's the backstory. So while testing the workaround I included on this post, I signed up for the 30-day trial for Google Apps For Business. Turns out, since we already have mail forwarding on the DNS, we cannot set MX records which Google is asking for the process to continue for their Google Apps for Business. So I told the representative, who seems to be calling to assist me, that I found a workaround and will not be continuing with their trial. :)
