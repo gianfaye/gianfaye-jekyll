@@ -3,7 +3,7 @@ layout: post
 title : "Marvel made Geek Culture The New Cool"
 tagline : 
 category : blog
-tags : [featured,Marvel,geek culture,gaming,online,comics,films,geekery]
+tags : [featured,Marvel,geek culture,gaming,online,comics,films,geekery,guest post]
 ---
 {% include JB/setup %}
 
