@@ -15,7 +15,7 @@ The video below is a talk by [Brad Frost](http://bradfrostweb.com/) last April 2
 
 ##The Singularity
 
-Most talks I stumbled upon are fairly technical, but the statistics he showed got me instantly glued. I mean, every phrase you'd react like "Holy Shite" and shake your head and be somehow thankful you were alive in this timeline of the graph. Well, actually not. The singularity is upon us, and so is *crapularity*. 
+Most talks I stumbled upon are fairly technical, but the statistics he showed got me instantly glued. I mean, every phrase you'd react like "Holy shit that is sooo true" and shake your head and be somehow thankful you were alive in this timeline of the graph. Well, actually not. The singularity is upon us, and so is *crapularity*. 
 
 ##Wild Realization
 
