@@ -3,7 +3,7 @@ layout: post
 title : "Eliminating All The Crap"
 tagline : 
 category : blog
-tags : [lifestyle, creativity, talks]
+tags : [featured,lifestyle, creativity, talks]
 ---
 {% include JB/setup %}
 
@@ -27,7 +27,7 @@ I for once has self-proclaimed to stop patronizing any live tv shows and stop wa
 
 ##Ads are Browser Germs
 
-Never once had I participated in any web design/dev't project where I have to place a section for ads. Hell, I know I'm not alone when I say most blogs out there contain ads in before and after the main content. It's a disease. Aesthetic cancer. That's why most of websites and blogs I often visit are those with only one column and zero ads. It looks neat and it gives you more focus to the content rather than loading tons of different crap per web page. Please keep you websites germ-free.
+Never once had I participated in any web design/dev't project where I have to place a section for ads. Hell, I know I'm not alone when I say most blogs out there contain ads in before and after the main content. It's a disease. Aesthetic cancer. C'mon let's be serious. Do you really think most ads you see on the sites you visit have been clicked even *once*? That's why most of websites and blogs I often visit are those with only one or two columns and zero ads. It looks neat and it gives you more focus to the content rather than loading tons of different crap per web page. Please keep you websites germ-free. But I can say, 1 or 2 ads which blends well with the layout is acceptable, like those Carbon ads you see on some good tutorial articles. I guess you can call them good bacteria? Like those *Lactobacilli shirota strain* on Yakult.
 
 > Simplicity is the ultimate sophistication. - Leonardo da Vinci
 
