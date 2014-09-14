@@ -91,7 +91,7 @@ hr{
 
 		header h1{
 			font-family: 'VoyagerLight', Monaco, monospace;
-			font-size: 14px;
+			font-size: 0.7em;
 			color: #646464;
 			line-height: 87%;
 			letter-spacing: 6px;
@@ -100,10 +100,15 @@ hr{
 
 		header a h2{
 			font-family: 'VoyagerLight', Monaco, monospace;
-			font-size: 38px;
+			font-size: 2em;
 			color: #f65d2e;
 			margin: 0 auto;
-      		padding: 15px;
+			letter-spacing: 2px;
+			padding-bottom: 5px;
+		}
+
+		span.name-bracket {
+			margin-left: 5px;
 		}
 
     header a h2 span{
@@ -128,11 +133,12 @@ hr{
 		}
 
 		#ui{
-			font-size: 32px; 
-			padding-bottom: 2px; 
-			border-bottom: 1px solid; 
-			vertical-align: top;
+			font-size: 0.85em;
+			vertical-align: 3px;
+			line-height: 100%;
+			text-decoration: underline;
 		}
+
 	#subheader{
 		position: relative;
 		width: 25%;
