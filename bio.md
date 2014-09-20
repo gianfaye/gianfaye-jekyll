@@ -22,6 +22,7 @@ I decided to include a manifesto on my bio page so the visitors of this site cou
 **As an artist**, I hate being told what to do. I squirm at instructions and choke on rules. I suffocate at merely the sight of a cubicle. I despise micromanagement. I am the very definition of **anti-establishment** and **nonconformity**. I love being given the opportunity to do what I do best; to be able to explore and create; and to be trusted that I can do my job as a professional. People who micromanage fail first thing at hiring. That's the inconvenient truth.
 
 > Creativity is putting things together. Good design is making it work.
+
 Let's work together and create something good.
 
 ##Work
