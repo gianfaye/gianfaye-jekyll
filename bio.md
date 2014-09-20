@@ -13,13 +13,13 @@ I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I'
 
 I decided to include a manifesto on my bio page so the visitors of this site could get a slight idea of who I am. You may or may not like me after reading this. Read at your own risk.
 
-As an autodidact, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month could already be obsolete next week. If I'm not tinkering stuff on the internets you can catch me watching video lectures on [Coursera](https://trello.com/b/3mel45WE/coursera).
+**As an autodidact**, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month could already be obsolete next week. If I'm not tinkering stuff on the internets you can catch me watching video lectures on [Coursera](https://trello.com/b/3mel45WE/coursera).
 
-As a designer, I know what works and what doesn't. Design isn't just entirely about aesthetics. Many people see design as just typography, colors, shadows, depth, and geometry. Design is about how we use all of them to tell a story - to create or revive an idea.
+**As a designer**, I know what works and what doesn't. Design isn't just entirely about aesthetics. Many people see design as just typography, colors, shadows, depth, and geometry. Design is about how we use all of them to tell a story - to create or revive an idea.
 
-As a developer, I write clean codes that won't make the next developer handling the project scream out of agony. This is very commonly disregarded resulting to a phenomenon called *I-better-start-from-scratch-than-to-read-and-maintain-someone-elses-code*. 
+**As a developer**, I write clean codes that won't make the next developer handling the project scream out of agony. This is very commonly disregarded resulting to a phenomenon called *I-better-start-from-scratch-than-to-read-and-maintain-someone-elses-code*. 
 
-As an artist, I hate being told what to do. I hate instructions. I hate being trapped inside a cubicle. I hate micromanagement. I am the very definition of **anti-establishment** and **nonconformity**. I love being given the opportunity to do what I do best, to be able to explore and create my own path, and to be trusted that I can do my job as a professional.
+**As an artist**, I hate being told what to do. I hate instructions. I hate being trapped inside a cubicle. I hate micromanagement. I am the very definition of **anti-establishment** and **nonconformity**. I love being given the opportunity to do what I do best, to be able to explore and create my own path, and to be trusted that I can do my job as a professional.
 
 > Creativity is putting things together. Good design is making it work.
 Let's work together and create something good.
