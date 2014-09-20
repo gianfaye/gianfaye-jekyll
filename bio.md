@@ -64,17 +64,17 @@ Here are some of the articles I scattered around the interwebs:
 
 * [How Philippine Officials Should Act Against Cybercrime](http://the.loading-info.net/2011/03/how-philippine-officials-should-act.html) March 1, 2011 // Loading-Info (Cybercrime)
 
-* [Scratch: Programming in Puzzle Pieces, Even Kids Can Program!](http://the.loading-info.net/2011/02/scratch-programming-in-puzzle-pieces.html) March 1, 2011 // Loading-Info (Programming, Learning)
+* [Scratch: Programming in Puzzle Pieces, Even Kids Can Program!](http://the.loading-info.net/2011/02/scratch-programming-in-puzzle-pieces.html) March 1, 2011 // Loading-Info (Programming)
 
 * [Looking Back: 'The Conscience of A Hacker' by The Mentor](http://the.loading-info.net/2011/02/looking-back-conscience-of-hacker-by.html) February 17, 2011 // Loading-Info (Hacking, Cyberculture)
 
 * [Plagiarism Over The Internet: Awareness and Prevention](http://the.loading-info.net/2011/02/plagiarism-over-internet-awareness-and.html) February 15, 2011 // Loading-Info (Internet, Ethics)
 
-* [Creative Ways To Make Use of Those Defective CDs/DVDs](http://the.loading-info.net/2011/02/creative-ways-to-make-use-of-those.html) February 14, 2011 // Loading-Info (Maker Culture, Creativity)
+* [Creative Ways To Make Use of Those Defective CDs/DVDs](http://the.loading-info.net/2011/02/creative-ways-to-make-use-of-those.html) February 14, 2011 // Loading-Info (Maker Culture)
 
-* [Emptying Your Recycle Bin Won't Erase Your Data](http://the.loading-info.net/2011/02/emptying-your-recycle-bin-wont-erase.html) February 14, 2011 // Loading-Info (Information Security, Computer Forensics)
+* [Emptying Your Recycle Bin Won't Erase Your Data](http://the.loading-info.net/2011/02/emptying-your-recycle-bin-wont-erase.html) February 14, 2011 // Loading-Info (Information Security)
 
-* [WolframAlpha: Redefining The World of Computing Data](http://the.loading-info.net/2010/09/wolframalpha-redefining-world-of.html) September 24, 2010 // Loading-Info (On The Web, Computing, Information Systems)
+* [WolframAlpha: Redefining The World of Computing Data](http://the.loading-info.net/2010/09/wolframalpha-redefining-world-of.html) September 24, 2010 // Loading-Info (Data Science)
 
 * [Free Software Foundation – “No to Windows 7; No to Facebook?”](http://www.blogengage.com/blogger/free-software-foundation-no-to-windows-7-no-to-facebook/) June 13, 2011 // BlogEngage [Contest](http://www.blogengage.com/blogger/the-june-2011-blogger-spotlight-winners/) Winner
 
