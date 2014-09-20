@@ -79,7 +79,7 @@ You can also check the [Blog](/posts) section of this site to read more recent a
 
 ##Interests
 
-Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture**, the **Internet of Things**, and **MOOC**. If I'm not tinkering stuff on the internets, you can catch me watching video lectures on [Coursera](https://trello.com/b/3mel45WE/coursera). I also enjoy casually learning languages from [Duolingo](http://duolingo.com) and currently learning **French**.
+Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture**, the **Internet of Things**, and **MOOC**. If I'm not tinkering stuff on the internets, you can catch me watching video lectures on [Coursera](https://trello.com/b/3mel45WE/coursera). I also enjoy casually learning languages from [Duolingo](http://duolingo.com) and I'm currently learning **French**.
 
 ##Fandom
 
