@@ -5,9 +5,11 @@ header : Bio
 ---
 {% include JB/setup %}
 
+#Bio
+
 I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I've been doing web design and development for 5 years and I'm currently focusing on **front-end development** and **UX design**. I can manipulate your entire experience with a web page or an app. I can make you feel hungry. I can make you go mad. I can even make you cry if I wanted to. I can make you want to buy a product I want to sell. 
 
-#Manifesto
+##Manifesto
 
 I decided to include a manifesto on my bio page so the visitors of this page could get a slight idea of who I am. You may or may not like me after reading this. Read at your own risk.
 
@@ -20,7 +22,6 @@ As a developer, I write clean codes that won't make the next developer handling 
 As an artist, I hate being told what to do. I hate instructions. I hate being trapped inside a cubicle. I hate micromanagement. I am the very definition of **anti-establishment** and **nonconformity**. I love being given the opportunity to do what I do best, to be able to explore and create my own path, and to be trusted that I can do my job as a professional.
 
 > Creativity is putting things together. Good design is making it work.
-
 Let's work together and create something good.
 
 ##Work
@@ -29,15 +30,15 @@ I'm presently working as an independent contractor. I currently accept freelance
 
 ###Past Work 
 
- Web Developer (2013 - 2014) [Nova Founders](http://novafounders.com)
- Web Developer (2011 - 2013) [PULP Magazine](http://pulpmagazinelive.com) & [PULP Live World](http://pulpliveworld.com)
- Web Designer  (2010 - 2012) [Innodan Pte. Ltd. Singapore](http://www.innodan.com/)
+*Web Developer (2013 - 2014) [Nova Founders](http://novafounders.com)
+*Web Developer (2011 - 2013) [PULP Magazine](http://pulpmagazinelive.com) & [PULP Live World](http://pulpliveworld.com)
+*Web Designer  (2010 - 2012) [Innodan Pte. Ltd. Singapore](http://www.innodan.com/)
 
 ##Education
 
- [De La Salle University - Dasmariñas](http://www.dlsud.edu.ph/) (2007 - 2010)
- BS in Information Technology 
- [DOST RA 7687 Scholarship](http://region4a.dost.gov.ph/databases/scho_details.php?studid=2897)
+*[De La Salle University - Dasmariñas](http://www.dlsud.edu.ph/) (2007 - 2010)
+*BS in Information Technology 
+*[DOST RA 7687 Scholarship](http://region4a.dost.gov.ph/databases/scho_details.php?studid=2897)
  After only 2 semesters left, I dropped out and resort to my autodidactism. 
 
 ##Skills
@@ -50,52 +51,52 @@ Around 2010 I started up a blog, [Loading-Info](http://the.loading-info.net), wh
 
 Here are some of the articles I scattered around the interwebs:
 
-* #####[Is Crowdfunding the Future of Music Production?](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
- July 12, 2013 // PULP Magazine | "The New Shit" Column
+#####[Is Crowdfunding the Future of Music Production?](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
+#####July 12, 2013 // PULP Magazine | "The New Shit" Column
 
-* #####[Coderbits: Interactive Portfolios for Developers and Designers](http://the.loading-info.net/2013/04/coderbits-interactive-portfolios.html)
- April 15, 2013 // Loading-info | On The Web
+#####[Coderbits: Interactive Portfolios for Developers and Designers](http://the.loading-info.net/2013/04/coderbits-interactive-portfolios.html)
+#####April 15, 2013 // Loading-info | On The Web
 
-* #####[Watch Star Wars in ASCII on your Command Prompt or Terminal](http://the.loading-info.net/2013/04/watch-star-wars-in-ascii.html)
- April 10, 2013 // Loading-info | Geekery
+#####[Watch Star Wars in ASCII on your Command Prompt or Terminal](http://the.loading-info.net/2013/04/watch-star-wars-in-ascii.html)
+#####April 10, 2013 // Loading-info | Geekery
 
-* #####[Coursera: Free Online Classes from Top Universities](http://the.loading-info.net/2012/12/coursera-free-online-courses.html)
- December 26, 2012 // Loading-Info | Education, Learning
+#####[Coursera: Free Online Classes from Top Universities](http://the.loading-info.net/2012/12/coursera-free-online-courses.html)
+#####December 26, 2012 // Loading-Info | Education, Learning
 
-* #####[Recover Saved Passwords On Your Browser](http://the.loading-info.net/2012/01/recover-saved-passwords-on-your-browser.html)
- January 7, 2012 // Loading-Info | Information Security
+#####[Recover Saved Passwords On Your Browser](http://the.loading-info.net/2012/01/recover-saved-passwords-on-your-browser.html)
+#####January 7, 2012 // Loading-Info | Information Security
 
-* #####[The Good Side of Social Media](http://the.loading-info.net/2011/11/lolo-luis-missing-case-solved-good-side.html)
- November 22, 2011 // Loading-Info | Social Media
+#####[The Good Side of Social Media](http://the.loading-info.net/2011/11/lolo-luis-missing-case-solved-good-side.html)
+#####November 22, 2011 // Loading-Info | Social Media
 
-* #####[TEDxDiliman: How Art and Culture Can Change Our World](http://the.loading-info.net/2011/10/tedxdiliman-how-art-and-culture-can.html)
- October 9, 2011 // Loading-Info | Events
+#####[TEDxDiliman: How Art and Culture Can Change Our World](http://the.loading-info.net/2011/10/tedxdiliman-how-art-and-culture-can.html)
+#####October 9, 2011 // Loading-Info | Events
 
-* #####[Rework: A Book You Shouldn't Not Read](http://the.loading-info.net/2011/03/rework-book-you-shouldnt-not-read.html)
- March 9, 2011 // Loading-Info | Work Culture
+#####[Rework: A Book You Shouldn't Not Read](http://the.loading-info.net/2011/03/rework-book-you-shouldnt-not-read.html)
+#####March 9, 2011 // Loading-Info | Work Culture
 
-* #####[How Philippine Officials Should Act Against Cybercrime](http://the.loading-info.net/2011/03/how-philippine-officials-should-act.html)
- March 1, 2011 // Loading-Info | Cybercrime
+#####[How Philippine Officials Should Act Against Cybercrime](http://the.loading-info.net/2011/03/how-philippine-officials-should-act.html)
+#####March 1, 2011 // Loading-Info | Cybercrime
 
-* #####[Scratch: Programming in Puzzle Pieces, Even Kids Can Program!](http://the.loading-info.net/2011/02/scratch-programming-in-puzzle-pieces.html)
- March 1, 2011 // Loading-Info | Programming, Learning
+#####[Scratch: Programming in Puzzle Pieces, Even Kids Can Program!](http://the.loading-info.net/2011/02/scratch-programming-in-puzzle-pieces.html)
+#####March 1, 2011 // Loading-Info | Programming, Learning
 
-* #####[Looking Back: 'The Conscience of A Hacker' by The Mentor](http://the.loading-info.net/2011/02/looking-back-conscience-of-hacker-by.html)
- February 17, 2011 // Loading-Info | Hacking, Cyberculture
+#####[Looking Back: 'The Conscience of A Hacker' by The Mentor](http://the.loading-info.net/2011/02/looking-back-conscience-of-hacker-by.html)
+#####February 17, 2011 // Loading-Info | Hacking, Cyberculture
 
-* #####[Plagiarism Over The Internet: Awareness and Prevention](http://the.loading-info.net/2011/02/plagiarism-over-internet-awareness-and.html)
- February 15, 2011 // Loading-Info | Internet, Ethics
+#####[Plagiarism Over The Internet: Awareness and Prevention](http://the.loading-info.net/2011/02/plagiarism-over-internet-awareness-and.html)
+#####February 15, 2011 // Loading-Info | Internet, Ethics
 
-* #####[Creative Ways To Make Use of Those Defective CDs/DVDs](http://the.loading-info.net/2011/02/creative-ways-to-make-use-of-those.html)
- February 14, 2011 // Loading-Info | Maker Culture, Creativity
+#####[Creative Ways To Make Use of Those Defective CDs/DVDs](http://the.loading-info.net/2011/02/creative-ways-to-make-use-of-those.html)
+#####February 14, 2011 // Loading-Info | Maker Culture, Creativity
 
-* #####[Emptying Your Recycle Bin Won't Erase Your Data](http://the.loading-info.net/2011/02/emptying-your-recycle-bin-wont-erase.html)
- February 14, 2011 // Information Security, Computer Forensics
+#####[Emptying Your Recycle Bin Won't Erase Your Data](http://the.loading-info.net/2011/02/emptying-your-recycle-bin-wont-erase.html)
+#####February 14, 2011 // Information Security, Computer Forensics
 
-* #####[Wolfram|Alpha: Redefining The World of Computing Data](http://the.loading-info.net/2010/09/wolframalpha-redefining-world-of.html)
- September 24, 2010 // On The Web, Computing, Information Systems
+#####[Wolfram|Alpha: Redefining The World of Computing Data](http://the.loading-info.net/2010/09/wolframalpha-redefining-world-of.html)
+#####September 24, 2010 // On The Web, Computing, Information Systems
 
-* #####[Free Software Foundation – “No to Windows 7; No to Facebook?”](http://www.blogengage.com/blogger/free-software-foundation-no-to-windows-7-no-to-facebook/)
+#####[Free Software Foundation – “No to Windows 7; No to Facebook?”](http://www.blogengage.com/blogger/free-software-foundation-no-to-windows-7-no-to-facebook/)
  June 13, 2011 // Where I made me won a [Contest](http://www.blogengage.com/blogger/the-june-2011-blogger-spotlight-winners/) (yay)
 
 You can also check the [Blog](/posts) section of this site to read more recent articles.
