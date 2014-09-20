@@ -26,9 +26,7 @@ Let's work together and create something good.
 
 ##Work
 
-I'm presently working as an independent contractor. I currently accept freelance work for the **2nd week of October 2014**.
-
-###Past Work 
+I'm presently working as an independent contractor. 
 
 * Web Developer (2013 - 2014) [Nova Founders](http://novafounders.com)
 * Web Developer (2011 - 2013) [PULP Magazine](http://pulpmagazinelive.com) & [PULP Live World](http://pulpliveworld.com)
@@ -36,8 +34,8 @@ I'm presently working as an independent contractor. I currently accept freelance
 
 ##Education
 
-* [De La Salle University - Dasmariñas](http://www.dlsud.edu.ph/) (2007 - 2010) | BS in Information Technology
-* [DOST RA 7687 Scholarship](http://region4a.dost.gov.ph/databases/scho_details.php?studid=2897)
+*[De La Salle University - Dasmariñas](http://www.dlsud.edu.ph/) (2007 - 2010) | BS in Information Technology
+*[DOST RA 7687 Scholarship](http://region4a.dost.gov.ph/databases/scho_details.php?studid=2897)
   
 After only 2 semesters left, people are often surprised that I dropped out and resort to my autodidactism. I don't trust the current education curriculum and I don't like that education is more associated with business than actually being a learning and training ground. 
 
@@ -51,8 +49,8 @@ Around 2010 I started up a blog, [Loading-Info](http://the.loading-info.net), wh
 
 Here are some of the articles I scattered around the interwebs:
 
-#####[Is Crowdfunding the Future of Music Production?](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
-#####July 12, 2013 | PULP Magazine | "The New Shit" Column
+##### [Is Crowdfunding the Future of Music Production?](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
+##### July 12, 2013 | PULP Magazine | "The New Shit" Column
 
 #####[Coderbits: Interactive Portfolios for Developers and Designers](http://the.loading-info.net/2013/04/coderbits-interactive-portfolios.html)
 #####April 15, 2013 | Loading-info | On The Web
