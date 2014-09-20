@@ -13,7 +13,7 @@ I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I'
 
 I decided to include a manifesto on my bio page so the visitors of this site could get a slight idea of who I am. You may or may not like me after reading this. Read at your own risk.
 
-As an autodidact, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month, could already be obsolete next week.
+As an autodidact, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month could already be obsolete next week. If I'm not tinkering stuff on the internets you can catch me watching video lectures on [Coursera](https://trello.com/b/3mel45WE/coursera).
 
 As a designer, I know what works and what doesn't. Design isn't just entirely about aesthetics. Many people see design as just typography, colors, shadows, depth, and geometry. Design is about how we use all of them to tell a story - to create or revive an idea.
 
