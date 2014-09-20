@@ -11,7 +11,7 @@ I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I'
 
 ##Manifesto
 
-I decided to include a manifesto on my bio page so the visitors of this site could get a slight idea of who I am. You may or may not like me after reading this. Read at your own risk.
+I decided to include a manifesto on my bio page so the visitors of this site could get a slight idea of who I am and how I do things. You may or may not like me after reading this. Read at your own risk.
 
 **As an autodidact**, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month could already be obsolete next week. There was someone who told me in the past that they chose to take Computer Engineering over Information Technology because they find IT less challenging as it doesn't require you to pass a licensure exam. Let them take the job of updating the questionnaires every exam period and we'll see if they can keep their sanity intact. Even the scope of IT itself is enough to make them go crazy. Learning shouldn't be something that is taken for the name and glory. Learning is a passion. Glory comes after you pursue your passion.
 
