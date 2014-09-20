@@ -13,13 +13,13 @@ I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I'
 
 I decided to include a manifesto on my bio page so the visitors of this site could get a slight idea of who I am. You may or may not like me after reading this. Read at your own risk.
 
-**As an autodidact**, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month could already be obsolete next week. If I'm not tinkering stuff on the internets you can catch me watching video lectures on [Coursera](https://trello.com/b/3mel45WE/coursera).
+**As an autodidact**, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month could already be obsolete next week. There was someone who told me in the past that they chose to take Computer Engineering over Information Technology because they find IT less challenging as it doesn't require you to pass a licensure exam. Let them take the job of updating the questionnaires every exam period and we'll see if they can keep their sanity intact. Even the scope of IT itself is enough to make them go crazy. Learning shouldn't be something that is taken for the name and glory. Learning is a passion. Glory comes after you pursue your passion.
 
-**As a designer**, I know what works and what doesn't. Design isn't just entirely about aesthetics. Many people see design as just typography, colors, shadows, depth, and geometry. Design is about how we use all of them to tell a story - to create or revive an idea.
+**As a designer**, I know what works and what doesn't. Design isn't just entirely about aesthetics. Many people see design as just typography, colors, shadows, depth, and geometry. Design is about how we use all of them to tell a story - to create or revive an idea. A bad design is a badly executed storytelling that will bore your audience and make your story a yawn fest or a lame party. It's important to get your story right with design that works properly.
 
-**As a developer**, I write clean codes that won't make the next developer handling the project scream out of agony. This is very commonly disregarded resulting to a phenomenon called *I-better-start-from-scratch-than-to-read-and-maintain-someone-elses-code*. 
+**As a developer**, I write clean codes that won't make the next developer handling the project scream out of agony. This is very commonly disregarded resulting to a phenomenon called *I-better-start-from-scratch-than-to-read-and-maintain-someone-elses-code*. All developers could relate, so a neat and properly documented code is a must. Also, [programming is a creative endeavor](/blog/hug-a-developer-today/). Even though developers are often at the last stage in the hierarchy of a product development structure, we are not cogs in a machine. We should always be given the opportunity to provide input. We are not just someone who you hire to code because you can't.
 
-**As an artist**, I hate being told what to do. I hate instructions. I hate being trapped inside a cubicle. I hate micromanagement. I am the very definition of **anti-establishment** and **nonconformity**. I love being given the opportunity to do what I do best, to be able to explore and create my own path, and to be trusted that I can do my job as a professional.
+**As an artist**, I hate being told what to do. I squirm at instructions and choke on rules. I suffocate at merely the sight of a cubicle. I despise micromanagement. I am the very definition of **anti-establishment** and **nonconformity**. I love being given the opportunity to do what I do best; to be able to explore, create, and follow my own path; and to be trusted that I can do my job as a professional. People who micromanage fail first thing at hiring. That's the inconvenient truth.
 
 > Creativity is putting things together. Good design is making it work.
 Let's work together and create something good.
@@ -82,11 +82,11 @@ You can also check the [Blog](/posts) section of this site to read more recent a
 
 ##Interests
 
-Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture** and the **Internet of Things**. I also enjoy casually learning languages from [Duolingo](http://duolingo.com) and currently learning **French**.
+Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture**, the **Internet of Things**, and **MOOC**. If I'm not tinkering stuff on the internets, you can catch me watching video lectures on [Coursera](https://trello.com/b/3mel45WE/coursera). I also enjoy casually learning languages from [Duolingo](http://duolingo.com) and currently learning **French**.
 
 ##Fandom
 
-Let's talk about our fandom! I am <s>fond of</s> obsessed with Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Star Wars, Seth Godin's head, Isaac Asimov, Japan, MOOCs, playing casual MTG, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, trying my best to fly a chopper on GTA, making gyrocopters fly, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and symphonic metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
+Let's talk about our fandom! I am <s>fond of</s> obsessed with Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Star Wars, Seth Godin's head, Isaac Asimov, Japan, playing casual MTG, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, trying my best to fly a chopper on GTA, making gyrocopters fly, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and symphonic metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
 
 I have 2 cats, a red-eared slider, and a box turtle.
 
