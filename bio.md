@@ -82,7 +82,7 @@ You can also check the [Blog](/posts) section of this site to read more recent a
 
 ##Interests
 
-Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture** and the **Internet of Things**. I also enjoy casually learning languages from [Duolingo](http://duolingo.com) currently learning **French**.
+Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture** and the **Internet of Things**. I also enjoy casually learning languages from [Duolingo](http://duolingo.com) and currently learning **French**.
 
 ##Fandom
 
