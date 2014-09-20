@@ -25,7 +25,7 @@ I decided to include a manifesto on my bio page so the visitors of this site cou
 
 I'm presently working as an independent contractor. 
 
-* Web Developer (2013 - 2014) [Nova Founders](http://novafounders.com)
+* Web Developer (2013 - 2014) [Nova Founders](http://novafounders.com) under Nova Fabrik Development Team
 * Web Developer (2011 - 2013) [PULP Magazine](http://pulpmagazinelive.com) & [PULP Live World](http://pulpliveworld.com)
 * Web Designer  (2010 - 2012) [Innodan Pte. Ltd. Singapore](http://www.innodan.com/)
 
