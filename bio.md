@@ -98,11 +98,11 @@ You can also check the [Blog](/posts) section of this site to read more recent a
 
 ##Interests
 
-Aside from web technologies, I am very interested in **forensic science** specializing in computer forensics, anything about InfoSec, and maker culture and Internet of Things. I also enjoy casually learning languages from [Duolingo](http://duolingo.com) currently learning French.
+Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture** and the **Internet of Things**. I also enjoy casually learning languages from [Duolingo](http://duolingo.com) currently learning **French**.
 
 ##Fandom
 
-Let's talk about our fandom! I am <s>fond of</s> obsessed with Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Star Wars, Seth Godin's head, Isaac Asimov, Japan, MOOCs, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, trying my best to fly a chopper on GTA, making gyrocopters fly, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and symphonic metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
+Let's talk about our fandom! I am <s>fond of</s> obsessed with Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Star Wars, Seth Godin's head, Isaac Asimov, Japan, MOOCs, playing casual MTG, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, trying my best to fly a chopper on GTA, making gyrocopters fly, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and symphonic metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
 
 I have 2 cats, a red-eared slider, and a box turtle.
 
