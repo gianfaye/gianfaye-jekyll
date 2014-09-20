@@ -7,11 +7,11 @@ header : Bio
 
 #Bio
 
-I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I've been doing web design and development for 5 years and I'm currently focusing on **front-end development** and **UX design**. I can manipulate your entire experience with a web page or an app. I can make you feel hungry. I can make you go mad. I can even make you cry if I wanted to. I can make you want to buy a product I want to sell. 
+I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I've been doing web design and development for 5 years and I'm currently focusing on **front-end development** and **UX design**. I can manipulate your entire experience with a web page or an app. I can make you feel hungry. I can make you go madly excited. I can even make you cry if I wanted to. I can make you want to buy a product I want to sell. :)
 
 ##Manifesto
 
-I decided to include a manifesto on my bio page so the visitors of this page could get a slight idea of who I am. You may or may not like me after reading this. Read at your own risk.
+I decided to include a manifesto on my bio page so the visitors of this site could get a slight idea of who I am. You may or may not like me after reading this. Read at your own risk.
 
 As an autodidact, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month, could already be obsolete next week.
 
