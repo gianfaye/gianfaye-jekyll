@@ -31,7 +31,7 @@ I'm presently working as an independent contractor.
 
 ##Education
 
-I studied BS in Information Technology at [De La Salle University - Dasmariñas](http://www.dlsud.edu.ph/) (2007 - 2010) under the [DOST RA 7687 Scholarship](http://region4a.dost.gov.ph/databases/scho_details.php?studid=2897). After only 2 semesters remaining, people are often surprised that I dropped out and resort to my autodidactism. I don't trust the current education curriculum and I don't like that education is more of a business than actually being a learning and training ground. 
+I studied BS in Information Technology at [De La Salle University - Dasmariñas](http://www.dlsud.edu.ph/) from 2007 to 2010 under the [DOST RA 7687 Scholarship](http://region4a.dost.gov.ph/databases/scho_details.php?studid=2897). People are often surprised to know that, with only 2 semesters remaining, I dropped out and resort to my autodidactism. I don't trust the current education curriculum and I don't like that education is more of a business than actually being a learning and training ground. 
 
 ##Skills
 
