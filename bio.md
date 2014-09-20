@@ -46,15 +46,59 @@ If you are interested to know more about my skills and the tools I use, contact 
 
 ##Publications
 
-Around 2009 I started up a blog, [Loading-Info](http://the.loading-info.net), where I posted tech-related articles. It's still live but since I went serious with web dev't, my blogging activities dropped. Nonetheless, the blogging thing was a headstart on how I started to gain interest in web development. (Who would believe it got me my first job?) The blogging community is a very interesting market - I met lots of interesting people and was introduced to a wide range of topics and niche.
+Around 2010 I started up a blog, [Loading-Info](http://the.loading-info.net), where I posted tech-related articles. It's still live but since I went serious with web dev't, my blogging activities dropped. Nonetheless, the blogging thing was a headstart on how I started to gain interest in web development. (Who would believe it got me my first job?) The blogging community is a very interesting market - I met lots of interesting people and was introduced to a wide range of topics and niche.
 
 Here are some of the articles I scattered around the interwebs:
 
-* #####[PULP Magazine "Is Crowdfunding the Future of Music Production?"](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
- July 12, 2013 // For "The New Shit" Column
+* #####[Is Crowdfunding the Future of Music Production?](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production)
+ July 12, 2013 // PULP Magazine | "The New Shit" Column
+
+* #####[Coderbits: Interactive Portfolios for Developers and Designers](http://the.loading-info.net/2013/04/coderbits-interactive-portfolios.html)
+ April 15, 2013 // Loading-info | On The Web
+
+* #####[Watch Star Wars in ASCII on your Command Prompt or Terminal](http://the.loading-info.net/2013/04/watch-star-wars-in-ascii.html)
+ April 10, 2013 // Loading-info | Geekery
+
+* #####[Coursera: Free Online Classes from Top Universities](http://the.loading-info.net/2012/12/coursera-free-online-courses.html)
+ December 26, 2012 // Loading-Info | Education, Learning
+
+* #####[Recover Saved Passwords On Your Browser](http://the.loading-info.net/2012/01/recover-saved-passwords-on-your-browser.html)
+ January 7, 2012 // Loading-Info | Information Security
+
+* #####[The Good Side of Social Media](http://the.loading-info.net/2011/11/lolo-luis-missing-case-solved-good-side.html)
+ November 22, 2011 // Loading-Info | Social Media
+
+* #####[TEDxDiliman: How Art and Culture Can Change Our World](http://the.loading-info.net/2011/10/tedxdiliman-how-art-and-culture-can.html)
+ October 9, 2011 // Loading-Info | Events
+
+* #####[Rework: A Book You Shouldn't Not Read](http://the.loading-info.net/2011/03/rework-book-you-shouldnt-not-read.html)
+ March 9, 2011 // Loading-Info | Work Culture
+
+* #####[How Philippine Officials Should Act Against Cybercrime](http://the.loading-info.net/2011/03/how-philippine-officials-should-act.html)
+ March 1, 2011 // Loading-Info | Cybercrime
+
+* #####[Scratch: Programming in Puzzle Pieces, Even Kids Can Program!](http://the.loading-info.net/2011/02/scratch-programming-in-puzzle-pieces.html)
+ March 1, 2011 // Loading-Info | Programming, Learning
+
+* #####[Looking Back: 'The Conscience of A Hacker' by The Mentor](http://the.loading-info.net/2011/02/looking-back-conscience-of-hacker-by.html)
+ February 17, 2011 // Loading-Info | Hacking, Cyberculture
+
+* #####[Plagiarism Over The Internet: Awareness and Prevention](http://the.loading-info.net/2011/02/plagiarism-over-internet-awareness-and.html)
+ February 15, 2011 // Loading-Info | Internet, Ethics
+
+* #####[Creative Ways To Make Use of Those Defective CDs/DVDs](http://the.loading-info.net/2011/02/creative-ways-to-make-use-of-those.html)
+ February 14, 2011 // Loading-Info | Maker Culture, Creativity
+
+* #####[Emptying Your Recycle Bin Won't Erase Your Data](http://the.loading-info.net/2011/02/emptying-your-recycle-bin-wont-erase.html)
+ February 14, 2011 // Information Security, Computer Forensics
+
+* #####[Wolfram|Alpha: Redefining The World of Computing Data](http://the.loading-info.net/2010/09/wolframalpha-redefining-world-of.html)
+ September 24, 2010 // On The Web, Computing, Information Systems
 
 * #####[Free Software Foundation – “No to Windows 7; No to Facebook?”](http://www.blogengage.com/blogger/free-software-foundation-no-to-windows-7-no-to-facebook/)
  June 13, 2011 // Where I made me won a [Contest](http://www.blogengage.com/blogger/the-june-2011-blogger-spotlight-winners/) (yay)
+
+You can also check the [Blog](/posts) section of this site to read more recent articles.
 
 ##Interests
 
