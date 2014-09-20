@@ -43,7 +43,7 @@ Around 2010 I started up a blog, [Loading-Info](http://the.loading-info.net), wh
 
 Here are some of the articles I scattered around the interwebs:
 
-* [Is Crowdfunding the Future of Music Production?](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production) July 12, 2013 // PULP Magazine ("The New Shit" Column)
+* [Is Crowdfunding the Future of Music Production?](http://pulpmagazinelive.com/column/new-shit/crowdfunding-future-of-music-production) July 12, 2013 // PULP Magazine
 
 * [Coderbits: Interactive Portfolios for Developers and Designers](http://the.loading-info.net/2013/04/coderbits-interactive-portfolios.html) April 15, 2013 // Loading-info (On The Web)
 
