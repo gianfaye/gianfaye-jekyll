@@ -60,6 +60,8 @@ Here are some of the articles I scattered around the interwebs:
 
 * [TEDxDiliman: How Art and Culture Can Change Our World](http://the.loading-info.net/2011/10/tedxdiliman-how-art-and-culture-can.html) October 9, 2011 // Loading-Info (Events)
 
+* [Free Software Foundation – “No to Windows 7; No to Facebook?”](http://www.blogengage.com/blogger/free-software-foundation-no-to-windows-7-no-to-facebook/) June 13, 2011 // BlogEngage [Contest](http://www.blogengage.com/blogger/the-june-2011-blogger-spotlight-winners/) Winner
+
 * [Rework: A Book You Shouldn't Not Read](http://the.loading-info.net/2011/03/rework-book-you-shouldnt-not-read.html) March 9, 2011 // Loading-Info (Work Culture)
 
 * [How Philippine Officials Should Act Against Cybercrime](http://the.loading-info.net/2011/03/how-philippine-officials-should-act.html) March 1, 2011 // Loading-Info (Cybercrime)
@@ -75,8 +77,6 @@ Here are some of the articles I scattered around the interwebs:
 * [Emptying Your Recycle Bin Won't Erase Your Data](http://the.loading-info.net/2011/02/emptying-your-recycle-bin-wont-erase.html) February 14, 2011 // Loading-Info (Information Security)
 
 * [WolframAlpha: Redefining The World of Computing Data](http://the.loading-info.net/2010/09/wolframalpha-redefining-world-of.html) September 24, 2010 // Loading-Info (Data Science)
-
-* [Free Software Foundation – “No to Windows 7; No to Facebook?”](http://www.blogengage.com/blogger/free-software-foundation-no-to-windows-7-no-to-facebook/) June 13, 2011 // BlogEngage [Contest](http://www.blogengage.com/blogger/the-june-2011-blogger-spotlight-winners/) Winner
 
 You can also check the [Blog](/posts) section of this site to read more recent articles.
 
