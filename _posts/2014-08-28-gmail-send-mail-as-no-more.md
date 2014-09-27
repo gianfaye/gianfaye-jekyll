@@ -21,7 +21,7 @@ However, Gmail recently changed its mechanics and are now asking users to input 
 
 ![Add another email address you own](http://i.imgur.com/BVqgYpd.jpg)
 
-After a little research, I then discovered that they recently introduced [Google Apps for Business](http://www.google.com.ph/intx/en_ph/enterprise/apps/business/) - one feature is that you can create email addresses via Gmail using your domain name. But I've been doing this for a while now using their old **Send Mail As** settings. Even my `@gianfaye.com` email addresses are directed to my Gmail.
+After a little research, I then discovered that they recently introduced [Google Apps for Business](http://www.google.com.ph/intx/en_ph/enterprise/apps/business/) - one feature is that you can create email addresses via Gmail using your domain name. But I've been doing this for a while now using their old **Send Mail As** settings. 
 
 ![Google Apps for Business](http://i.imgur.com/okTzIfo.jpg)
 
@@ -57,4 +57,4 @@ It's quite frustrating, yeah. But what can we do? Google isn't satisfied with pu
 
 We can all see where this is going.
 
-**UPDATE:** Someone from Google Enterprise called me. *Again, called me [Sir](/bio) over the phone -__- I corrected him repeating my name with *Ms.* but he seems to not have heard it.* Here's the backstory: So while testing the workaround I included on this post, I signed up for the 30-day trial for Google Apps For Business. Turns out, since we already have mail forwarding on the DNS, we cannot set MX records which Google is asking for the process to continue for their Google Apps for Business. So I told the representative, who seems to be calling to assist me, that I found a workaround and will not be continuing with their trial. :)
+**UPDATE:** Someone from Google Enterprise called me. Here's the backstory: So while testing the workaround I included on this post, I signed up for the 30-day trial for Google Apps For Business. Turns out, since we already have mail forwarding on the DNS, we cannot set MX records which Google is asking for the process to continue for their Google Apps for Business. So I told the representative, who seems to be calling to assist me, that I found a workaround and will not be continuing with their trial. :)
