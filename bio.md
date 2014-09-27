@@ -19,7 +19,7 @@ I decided to include a manifesto on my bio page so the visitors of this site cou
 
 **As a developer**, I write clean codes that won't make the next developer handling the project scream out of agony. This is very commonly disregarded resulting to a phenomenon called *I-better-start-from-scratch-than-to-read-and-maintain-someone-elses-code*. All developers could relate, so a neat and properly documented code is a must. Also, [programming is a creative endeavor](/blog/hug-a-developer-today/). Even though developers are often at the lowest branch in the hierarchy of a product development structure, we are not cogs in a machine. We should always be given the opportunity to provide input. We are not just someone who you hire to code because you can't.
 
-**As an artist**, I hate being told what to do. I squirm at instructions and choke on rules. I suffocate at merely the inch sight of what looks like a cubicle. I despise micromanagement. I am the very definition of **anti-establishment** and **nonconformity**. I love being given the opportunity to do what I do best; to be able to explore and create; and to be trusted that I can do my job as a professional. People who micromanage fail first thing at hiring. That's the inconvenient truth.
+**As an artist**, I hate being told what to do. I squirm at instructions and choke on rules. I suffocate at merely the inch sight of what looks like a cubicle. I despise micromanagement. I can say I'm mastering the art of nonconformity. I love being given the opportunity to do what I do best; to be able to explore and create; and to be trusted that I can do my job as a professional. People who micromanage fail first thing at hiring. That's the inconvenient truth.
 
 ##Work
 
