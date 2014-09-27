@@ -3,9 +3,11 @@ layout: post
 title : "Marvel made Geek Culture The New Cool"
 tagline : 
 category : blog
-tags : [featured,Marvel,geek culture,gaming,online,comics,films,geekery,guest post]
+tags : [Marvel,geek culture,gaming,online,comics,films,geekery,guest post]
 ---
 {% include JB/setup %}
+
+*This is a guest post.*
 
 There was once a time when **geek culture** was sneered at by the so-called *uber cool cliques* or hipsters of this generation. But in true hipster fashion, such a sub-genre becomes ultimately cool; as they traverse the most debated topics and put their own spin on such trends. Now, as geek culture becomes a more accepted fascination of niche subjects, it nestles quite comfortably among pop culture references. 
 
