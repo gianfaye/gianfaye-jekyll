@@ -47,7 +47,7 @@ So it says, first you must visit [http://www.google.com/accounts/DisplayUnlockCa
 
 Second, you must [allow less secure apps access](https://support.google.com/accounts/answer/6010255) your account and click **Enable**. Meaning, you are now more risk to security vulnerabilities because enabling this will (well as it says) allow less secure apps access your account.
 
-~~Also, you cannot receive more than one email every 10 minutes or else it will block the sender.~~ (This no longer applies and you can receive emails within seconds. Thank you, Ben Harrison for letting us know.) And if you enable the 2-Step verification process you might have to disable it.
+<s>Also, you cannot receive more than one email every 10 minutes or else it will block the sender.</s> (This no longer applies and you can receive emails within seconds. Thank you, Ben Harrison for letting us know.) And if you enable the 2-Step verification process you might have to disable it.
 
 	Tip: If you don't want to sacrifice the security of your account you can create/ use another Gmail account you own for this purpose. Just use that Gmail address and its password on the SMTP settings and it should work fine.
 
