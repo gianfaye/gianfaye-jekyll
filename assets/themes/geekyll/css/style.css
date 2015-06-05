@@ -457,6 +457,9 @@ hr{
 
   .content img{
     max-width: 715px;
+    box-shadow: 1px 1px 3px #EEE;
+    border: 1px solid #EEE;
+    width: 100%;
   }
 
     .content li{
