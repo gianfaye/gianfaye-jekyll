@@ -81,7 +81,7 @@ Aside from web technologies, I am very interested in **forensic science** specia
 
 ##Fandom
 
-Let's talk about our fandom! I am <s>fond of</s> obsessed with Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Star Wars, Seth Godin's <s>head</s> blog, Isaac Asimov, Japan, playing Goat Simulator, polymaths like Leonardo da Vinci, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, trying my best to fly a chopper on GTA, making gyrocopters fly, works by Dante Alighieri, Joe Fenton, Chaim Machlev, Joan Cornella, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and symphonic metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
+Let's talk about our fandom! I am <s>fond of</s> obsessed with Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Arrow, Star Wars, Seth Godin's <s>head</s> blog, Isaac Asimov, Japan, playing Goat Simulator, polymaths like Leonardo da Vinci, works of Ryoichi Ikegami and Satoshi Kon, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, trying my best to fly a chopper on GTA, making gyrocopters fly, literary works of Dante Alighieri, art of Joe Fenton, Chaim Machlev, and Joan Cornella, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and symphonic metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
 
-I have a cat, 3 kittens, a red-eared slider, and a box turtle.
+I have a cat, 2 kittens, a red-eared slider, and a box turtle.
 
