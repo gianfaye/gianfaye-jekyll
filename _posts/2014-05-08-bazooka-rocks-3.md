@@ -32,7 +32,7 @@ PULP Live World produces concerts and festivals featuring international and loca
 Illustrations featured on the website are created by Moi Marzan. 
 
 <div class="launch-website">
-<a href="http://www.bazookarocks.com" target="_blank">
+<a href="http://www.bazookarocks.com/2014" target="_blank">
 &lt; Launch Project &gt; 
 <span>www.bazookarocks.com</span>
 </a>
