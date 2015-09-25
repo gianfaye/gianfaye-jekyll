@@ -9,18 +9,6 @@ header : Bio
 
 I'm **Gian Faye**, a web geek and a lifelong autodidact from the Philippines. I've been doing web design and development for 5 years and I'm currently focusing on **front-end development** and **user experience design**. 
 
-##Manifesto
-
-I decided to include a manifesto on my bio page so the visitors of this site could get a slight idea of who I am and how I do things. No sugar-coating. Read at your own risk.
-
-**As an autodidact**, the constant learning and coping up with the latest web technologies is what drives me forward in this field. New things emerge everyday. What I know last month could already be obsolete next week. There was someone who told me in the past that they chose to take Computer Engineering over Information Technology because they find IT less challenging as it doesn't require you to pass a licensure exam. Let them take the job of updating the questionnaires every exam period and we'll see if they can keep their sanity intact. Even the scope of IT itself is enough to make them go crazy. Learning shouldn't be something that is taken for the name and glory. Learning is a passion. Glory comes after you pursue your passion.
-
-**As a designer**, I know what works and what doesn't. Design isn't just entirely about aesthetics. Many people see design as just typography, colors, shadows, depth, and geometry. Design is about how we use all of them to tell a story - to create or revive an idea. A bad design is a badly executed storytelling that will bore your audience and make your story a yawn fest or a lame party. It's important to get your story right with design that works properly.
-
-**As a developer**, I write codes that won't make the next developer handling the project scream out of agony. This is very commonly disregarded resulting to a phenomenon called *I-better-start-from-scratch-than-to-read-and-maintain-someone-elses-code*. All developers could relate, so a neat and properly documented code is a must. I also practice test-driven development. Less-to-no surprises for QA. [Programming is a creative endeavor](/blog/hug-a-developer-today/). Even though developers are often at the lowest branch in the hierarchy of a product development structure, we are not cogs in a machine. We should always be given the opportunity to provide input. We are not just someone who you hire to code because you can't. 
-
-**As an artist**, I hate being told what to do. I squirm at instructions and choke on rules. I suffocate at merely the inch sight of what looks like a cubicle. I despise micromanagement. I can say I'm mastering the art of nonconformity. I love being given the opportunity to do what I do best; to be able to explore and create; and to be trusted that I can do my job as a professional. People who micromanage fail first thing at hiring. That's the inconvenient truth.
-
 ##Work
 
 I'm presently working as a Front-End Developer for a Singapore-based company. 
