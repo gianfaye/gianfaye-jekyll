@@ -3,7 +3,7 @@ layout: post
 title : "Animals on Twitter"
 tagline : 
 category : blog
-tags : [thoughts,random,humor,Twitter]
+tags : [thoughts,random,humor,Twitter,featured]
 ---
 {% include JB/setup %}
 
