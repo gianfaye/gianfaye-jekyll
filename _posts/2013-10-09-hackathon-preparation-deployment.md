@@ -84,7 +84,7 @@ From <code>io = require('socket.io').listen(app)</code> to <code>io = require('s
 
 **Aaaand with EJS: **
 
-[EJS](http://embeddedjs.com/), a JavaScript templating library, also got some compatibility issues with Express 3. (Damn, Express 3.) [Layouts has been removed in Express 3](http://stackoverflow.com/questions/12616694/layouts-in-express-3-and-ejs). Good thing I found an workaround and used <code>ejs-locals</code> which you can get [here]([ejs-locals](https://github.com/RandomEtc/ejs-locals). 
+[EJS](http://embeddedjs.com/), a JavaScript templating library, also got some compatibility issues with Express 3. (Damn, Express 3.) [Layouts has been removed in Express 3](http://stackoverflow.com/questions/12616694/layouts-in-express-3-and-ejs). Good thing I found a workaround and used <code>ejs-locals</code> which you can get [here]([ejs-locals](https://github.com/RandomEtc/ejs-locals). 
 
 And so after making all the modules be friendly with each other, I got to run the app locally. Now we can move on with Heroku. **YAY!**
 
