@@ -982,7 +982,6 @@ footer a{
 }
 
 @media (max-width: 600px) {
-  header { margin-bottom: -25px; }
   .show-sm { display: block; }
   .hidden-sm { display: none; }
 }
