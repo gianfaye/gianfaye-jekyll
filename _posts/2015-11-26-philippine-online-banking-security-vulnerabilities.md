@@ -11,7 +11,7 @@ This post is a collation of articles and other references backing up a personal 
 
 <hr>
 
-<small>_Disclaimer: I am no expert in Information Security or Cybersecurity and I have minimal technical knowledge of the aforementioned as of this typing. If you are an expert in this field and you spotted anything wrong, feel free to correct me on the comments section below._</small>
+<small>_Disclaimer: I am no expert in Information Security or Cybersecurity and I have minimal technical knowledge of the aforementioned fields as of this typing. If you are an expert on any of these fields and you have any concerns or additional input, feel free to post on comments section below._</small>
 
 <hr>
 
@@ -19,13 +19,15 @@ The main goal for this research is to answer this question:
 
 > Is your online banking secure enough?
 
-**Cybersecurity**, or security in general, is a *cat-and-mouse* chase. Each day, software vulnerabilities and security holes are found, reported, and patched. But sometimes, [a mouse can outsmart the cat](https://en.wikipedia.org/wiki/Zero-day_(computing)). Attackers can find and exploit these vulnerabilities before they could be known and fixed by a patch. The victims will always be the users of the system.
+**Cybersecurity**, or security in general, is a *cat-and-mouse* chase. Each day, software vulnerabilities and security holes are found, reported, and patched. But sometimes, [a mouse can outsmart the cat](https://en.wikipedia.org/wiki/Zero-day_(computing)). Attackers can find and exploit these vulnerabilities before they could be known and fixed by a patch. The users of the system will always be the victims.
 
 There are techniques and technologies that help secure a system. The crucial part to keeping a system secure is to always use the latest release of these technologies as most likely the reason for the release would be a security patch to fix a recently discovered vulnerability.
 
 What happens when the system you are using does not follow this practice? Well, it is like sending [an open invite to attackers](http://www.rappler.com/life-and-style/technology/42792-anonymous-hacks-ombudsman-government-websites).
 
-For this research, I will make examples of banks I can think of while writing this. I will use Google Chrome for checking the details of my connection to the following banks online and [Qualys SSL Labs](https://www.ssllabs.com/index.html) scanner for a deeper review. Technologies such as encryption, cryptography, and privacy protocols will be the main basis for this research.
+For this research, I will make examples of banks I can think of while writing this. I will use Google Chrome for checking the details of my connection to the following online banking portals and [Qualys SSL Labs](https://www.ssllabs.com/index.html) scanner for a deeper review. Technologies such as encryption, cryptography, and protocols will be the main basis for this research.
+
+<hr><hr>
 
 ##UnionBank
 
@@ -37,15 +39,21 @@ The main portal for personal banking is under this domain: _ebanking.unionbank.p
 
 **"The certificate chain for this website contains at least one certificate that was signed <span style='color:red'>using a deprecated signature algorithm based on SHA-1</span>."**
 
-<span style='color:red'>SHA-1</span> has been vulnerable [since 2005](https://www.schneier.com/blog/archives/2005/02/sha1_broken.html)! More info [here](https://en.wikipedia.org/wiki/SHA-1#Attacks) and the full report on [this document](http://eprint.iacr.org/2005/010.pdf). Security experts recommend [SHA-2 or SHA-3](https://www.schneier.com/blog/archives/2015/10/sha-1_freestart.html).
+<span style='color:red'>SHA-1</span> has been vulnerable [since 2005](https://www.schneier.com/blog/archives/2005/02/sha1_broken.html). More info [here](https://en.wikipedia.org/wiki/SHA-1#Attacks) and the full report on [this document](http://eprint.iacr.org/2005/010.pdf). Security experts recommend [SHA-2 or SHA-3](https://www.schneier.com/blog/archives/2015/10/sha-1_freestart.html).
+
+<hr>
 
 ["Microsoft, Google and Mozilla have all announced that their respective browsers will stop accepting SHA-1 based SSL certificates by 2017 (and that SHA-1-based certificates should not be issued after 2015). In conclusion, our estimates imply SHA-1 collisions to be now (Fall 2015) within the resources of criminal syndicates, two years earlier than previously expected and one year before SHA-1 will be marked as unsafe in modern Internet browsers. This motivates our recommendations for industry standard SHA-1 to be retracted as soon as possible."](https://sites.google.com/site/itstheshappening/)
 
+<hr>
+
 **"The connection uses <span style='color:red'>TLS 1.0</span>."**
 
-<span style='color:red'>TLS 1.0</span>? Is there an acceptable reason why an online banking portal uses an older protocol? TLS 1.0 has been introduced in ...wait for it... 1999! The newer protocols are TLS 1.1 (released 2003) and TLS 1.2 (released 2008). And browsers started supporting TLS 1.2 since 2013. Why so behind? Just why?
+<span style='color:red'>TLS 1.0</span>? Is there an acceptable reason why an online banking portal uses an older protocol? Funny how there's a saying circulating the InfoSec community: _"You don't have to be a bank to upgrade your TLS implementation."_ Perhaps, the 'bank grade security' IRL doesn't apply online? Hmmm...
 
-UnionBank's server also uses <span style='color:red'>SSL 3</span>. If you are not yet aware why this is a red flag, I'll save the explanation for later on another bank who also implemented SSL 3.
+TLS 1.0 has been introduced in ...wait for it... 1999! _\*badum-tss!\*_ The newer protocols are TLS 1.1 (released 2003) and TLS 1.2 (released 2008). And browsers started supporting TLS 1.2 since 2013 with almost all modern browsers supporting it by 2014. Why so behind? Just why?
+
+UnionBank's server also uses <span style='color:red'>SSL 3</span>. If you are not yet aware why this is a red flag, I'll save the explanation for later on another bank who also implemented SSL 3. (<a href="https://www.youtube.com/watch?v=_4IRMYuE1hI" target="_blank">Click me.</a>)
 
 **"Your connection to ebanking.unionbankph.com is <span style='color:red'>encrypted using an obsolete cipher suite</span>."**
 
@@ -57,13 +65,13 @@ The server accepts the <span style='color:red'>RC4</span> encryption algorithm b
 * [Bar-mitzvah attack](https://en.wikipedia.org/wiki/Bar-mitzvah_attack) (2015)
 * [NOMORE attack](https://www.rc4nomore.com/) (2015)
 
-I planned to save negative remarks to myself but _dear lord_ -- UnionBank's server also supports 512-bit export suites -- plain RSA. [Any less than 2048-bit is considered weak.](https://www.rapidssl.com/2048-bit-certificate-compliance/) To put it bluntly, this is undoubtedly <span style='color:red'>A VERY UNSECURED SITE</span>. This obsolete cipher suite is obsolete for many reasons: one of them is being susceptible to the **FREAK attack**. ["It allows an attacker to intercept HTTPS connections between vulnerable clients and servers and force them to use weakened encryption, which the attacker can break to steal or manipulate sensitive data."](https://freakattack.com/) Meaning, if an attacker knows you do online banking at UnionBank, they can act as a middleman between you and the website and do whatever they want with your data. 
+I planned to save negative remarks to myself but _dear lord_ -- UnionBank's server also supports 512-bit export suites -- plain RSA. [Any less than 2048-bit is considered weak.](https://www.rapidssl.com/2048-bit-certificate-compliance/) To put it bluntly, this is undoubtedly <span style='color:red'>A VERY UNSECURED SITE</span>. This obsolete cipher suite is obsolete for many reasons: one of them is being susceptible to the **FREAK attack**. ["It allows an attacker to intercept HTTPS connections between vulnerable clients and servers and force them to use weakened encryption, which the attacker can break to steal or manipulate sensitive data."](https://freakattack.com/) Meaning, if an attacker knows you do online banking at UnionBank, they can [act as a middleman](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) between you and the website and do whatever they want with your data. 
 
 ![UnionBank Security Scan Results](/assets/images/posts/2015/online-banking-unionbank-scan.jpg)
 
-**UnionBank Security: <span style='color:red'>DANGER ZONE</span>.** <small>More info [here](https://www.ssllabs.com/ssltest/analyze.html?d=ebanking.unionbankph.com&s=203.82.36.182).</small>
+**UnionBank Security: <span style='color:red'>DANGER ZONE</span>.** <small>[[Full Report](/assets/docs/security-report-ebanking-unionbankph.pdf) | [Latest Scan](https://www.ssllabs.com/ssltest/analyze.html?d=ebanking.unionbankph.com&s=203.82.36.182)]</small>
 
-<hr>
+<hr><hr>
 
 ##Bank of the Philippine Islands
 
@@ -77,9 +85,9 @@ Again, the only secure protocol version is [TLS 1.2](https://www.entrust.com/mov
 
 ![BPI Security Scan Results](/assets/images/posts/2015/online-banking-bpi-scan.jpg)
 
-**BPI Security: <span style='color:orange'>UNSECURED</span>.** <small>More info [here](https://www.ssllabs.com/ssltest/analyze.html?d=secure1.bpiexpressonline.com).</small>
+**BPI Security: <span style='color:orange'>UNSECURED</span>.** <small>[[Full Report](/assets/docs/security-report-secure1-bpiexpressonline.pdf) | [Latest Scan](https://www.ssllabs.com/ssltest/analyze.html?d=secure1.bpiexpressonline.com)]</small>
 
-<hr>
+<hr><hr>
 
 ##Metrobank
 
@@ -93,9 +101,9 @@ The Metrobank server supports <span style='color:orange'>Diffie-Hellman (DH) key
 
 ![Metrobank Security Scan Results](/assets/images/posts/2015/online-banking-metrobank-scan.jpg)
 
-**Metrobank Security: <span style='color:green'>SECURED</span>.** <small>More info [here](https://www.ssllabs.com/ssltest/analyze.html?d=personal.metrobankdirect.com&s=210.213.81.109&latest).</small>
+**Metrobank Security: <span style='color:green'>SECURED</span>.** <small>[[Full Report](/assets/docs/security-report-personal-metrobankdirect.pdf) | [Latest Scan](https://www.ssllabs.com/ssltest/analyze.html?d=personal.metrobankdirect.com&s=210.213.81.109&latest)]</small>
 
-<hr>
+<hr><hr>
 
 ##EastWest Bank
 
@@ -109,9 +117,9 @@ They are also using <span style='color:red'>SHA1 signatures with plain RSA as th
 
 ![EastWest Security Scan Results](/assets/images/posts/2015/online-banking-eastwest-scan.jpg)
 
-**EastWest Bank Security: <span style='color:red'>DANGER ZONE</span>.** <small>More info [here](https://www.ssllabs.com/ssltest/analyze.html?d=eastwestpersonal.com.ph&s=203.177.229.123).</small>
+**EastWest Bank Security: <span style='color:red'>DANGER ZONE</span>.** <small>[[Full Report](/assets/docs/security-report-eastwestpersonal-com.pdf) | [Latest Scan](https://www.ssllabs.com/ssltest/analyze.html?d=eastwestpersonal.com.ph&s=203.177.229.123)]</small>
 
-<hr>
+<hr><hr>
 
 ##Banco de Oro
 
@@ -141,4 +149,20 @@ As an additional layer of security, BDO also supports <span style='color:green'>
 
 ![BDO Security Scan Results](/assets/images/posts/2015/online-banking-bdo-scan.jpg)
 
-**BDO Bank Security: <span style='color:green'>SAFE AND SECURE</span>.** <small>More info [here](https://www.ssllabs.com/ssltest/analyze.html?d=online.bdo.com.ph&s=203.177.92.11).</small>
+**BDO Bank Security: <span style='color:green'>SAFE AND SECURE</span>.** <small>[[Full Report](/assets/docs/security-report-online-bdo-com.pdf) | [Latest Scan](https://www.ssllabs.com/ssltest/analyze.html?d=online.bdo.com.ph&s=203.177.92.11)]</small>
+
+<hr><hr>
+
+In summary:
+
+* Two banks are graded <span style='color:green'>SECURED</span>: **Metrobank** and **Banco de Oro** -- Safe to use for online banking. 
+
+* One bank is graded <span style='color:orange'>UNSECURED</span>: **Bank of the Philippine Islands** -- Use caution when entering sensitive data.
+
+* Two banks are graded as <span style='color:red'>DANGER ZONES</span>: **Unionbank** and **EastWest Bank** -- Not safe to use.
+
+If you have questions, objections, requests, suggestions, or concerns, feel free to start a discussion on the comments section below.
+
+**Be safe online.**
+
+
