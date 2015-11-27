@@ -7,7 +7,7 @@ tags : [InfoSec, Philippines, Security, Security Testing, Cybersecurity, Online 
 ---
 {% include JB/setup %}
 
-This post is a collation of articles and other references backing up a personal research of the current state of security of Philippine online banking portals. The purpose of this research is mainly educational and encouraging awareness of our online activities — one of which is online banking.
+This post is a collation of articles and other references backing up a personal research about the current state of security of Philippine online banking portals. The purpose of this research is mainly educational and encouraging awareness of our online activities — one of which is online banking.
 
 <hr>
 
@@ -51,7 +51,7 @@ The main portal for personal banking is under this domain: _ebanking.unionbank.p
 
 <span style='color:red'>TLS 1.0</span>? Is there an acceptable reason why an online banking portal uses an older protocol? Funny how there's a saying circulating the InfoSec community: _"You don't have to be a bank to upgrade your TLS implementation."_ Perhaps, the 'bank grade security' IRL doesn't apply online? Hmmm...
 
-TLS 1.0 has been introduced in ...wait for it... 1999! _\*badum-tss!\*_ The newer protocols are TLS 1.1 (released 2003) and TLS 1.2 (released 2008). And browsers started supporting TLS 1.2 since 2013 with almost all modern browsers supporting it by 2014. Why so behind? Just why?
+TLS 1.0 has been introduced in ...wait for it... 1999! _\*badum-tss\*_ The newer protocols are TLS 1.1 (released 2003) and TLS 1.2 (released 2008). And browsers started supporting TLS 1.2 since 2013 with almost all modern browsers supporting it by 2014. Why so behind? Just why?
 
 UnionBank's server also uses <span style='color:red'>SSL 3</span>. If you are not yet aware why this is a red flag, I'll save the explanation for later on another bank who also implemented SSL 3. (<a href="https://www.youtube.com/watch?v=_4IRMYuE1hI" target="_blank">Click me.</a>)
 
