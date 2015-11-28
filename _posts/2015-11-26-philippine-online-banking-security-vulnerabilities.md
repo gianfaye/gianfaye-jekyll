@@ -11,7 +11,7 @@ This post is a collation of articles and other references backing up a personal 
 
 <hr>
 
-<small>_Disclaimer: I am no expert in Information Security or Cybersecurity and I have minimal technical knowledge of the aforementioned fields as of this typing. If you are an expert on any of these fields and you have any concerns or additional input, feel free to post on comments section below._</small>
+<small>_Disclaimer: I am no expert in Information Security or Cybersecurity and I have minimal technical knowledge of the aforementioned fields as of this typing. If you are an expert on any of these fields and you have any concerns or additional input, feel free to post on the comments section below._</small>
 
 <hr>
 
@@ -101,7 +101,7 @@ The Metrobank server supports <span style='color:orange'>Diffie-Hellman (DH) key
 
 ![Metrobank Security Scan Results](/assets/images/posts/2015/online-banking-metrobank-scan.jpg)
 
-**Metrobank Security: <span style='color:green'>SECURED</span>.** <small>[[Full Report](/assets/docs/security-report-personal-metrobankdirect.pdf) | [Latest Scan](https://www.ssllabs.com/ssltest/analyze.html?d=personal.metrobankdirect.com&s=210.213.81.109&latest)]</small>
+**Metrobank Security: <span style='color:green'>SECURE</span>.** <small>[[Full Report](/assets/docs/security-report-personal-metrobankdirect.pdf) | [Latest Scan](https://www.ssllabs.com/ssltest/analyze.html?d=personal.metrobankdirect.com&s=210.213.81.109&latest)]</small>
 
 <hr><hr>
 
@@ -155,7 +155,7 @@ As an additional layer of security, BDO also supports <span style='color:green'>
 
 In summary:
 
-* Two banks are graded <span style='color:green'>SECURED</span>: **Metrobank** and **Banco de Oro** -- Safe to use for online banking. 
+* Two banks are graded <span style='color:green'>SECURE</span>: **Metrobank** and **Banco de Oro** -- Safe to use for online banking. 
 
 * One bank is graded <span style='color:orange'>UNSECURED</span>: **Bank of the Philippine Islands** -- Use caution when entering sensitive data.
 
