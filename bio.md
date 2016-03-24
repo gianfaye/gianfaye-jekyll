@@ -5,11 +5,11 @@ header : Bio
 ---
 {% include JB/setup %}
 
-#Bio
+# Bio
 
 I'm **Gian Faye**, a web geek from the Philippines. I've been doing web design and development for 5 years and I'm currently focusing on **front-end development** and **user experience design**. 
 
-##Work
+## Work
 
 I'm presently working as a Front-End Developer for a Singapore-based company. 
 
@@ -19,7 +19,7 @@ Connect with me on <a href="https://ph.linkedin.com/in/gianfaye" target="_blank"
 
 If you are interested to know more about my skills and the tools I use, contact me and I'll send you my resume. My current expertise is on front-end development doing mostly markup. If you would (and I recommend especially for HR people) read this article: [The Front End Engineering Spectrum- The Three Generic Types of Front End Engineers](http://htmlcssjavascript.com/web/the-front-end-engineering-spectrum-the-three-generic-types-of-front-end-engineers/) I'd be 70% The Creative, 30% The Coder. 
 
-##Publications
+## Publications
 
 Around 2010 I started up a blog, [Loading-Info](http://www.loading-info.com), where I posted tech-related articles. It's still live but since I went serious with web dev't, my blogging activities dropped. Even so, it was my headstart on gaining interest in web development. (Who would believe it got me my first job?) The blogging community is a very interesting market - I met interesting people and was introduced to a wide range of topics and niche.
 
@@ -59,11 +59,11 @@ Here are some of the articles I scattered around the interwebs:
 
 You can also check the [Blog](/posts) section of this site to read more recent articles.
 
-##Interests
+## Interests
 
 Aside from web technologies, I am very interested in **forensic science** specializing in **computer forensics**, anything about **InfoSec**, the **maker culture**, the **Internet of Things**, and **MOOC**. If I'm not tinkering stuff on the internets, you can catch me watching video lectures on Coursera, PluralSight, or Udacity. I also enjoy casually learning languages from [Duolingo](http://duolingo.com) and I'm currently learning **French**.
 
-##Fandom
+## Fandom
 
 Let's talk about our fandom! I am <s>fond of</s> obsessed with Doctor Who, Supernatural, Sherlock Holmes and his deductions, The Big Bang Theory, Game of Thrones, Hannibal, Arrow, Star Wars, Seth Godin's <s>head</s> blog, Isaac Asimov, Japan, playing Goat Simulator, polymaths like Leonardo da Vinci, works of Ryoichi Ikegami and Satoshi Kon, films by Darren Aronofsky and Lars Von Trier, scores by Clint Mansell, trying my best to fly a chopper on GTA, making gyrocopters fly, literary works of Dante Alighieri, art of Joe Fenton, Chaim Machlev, and Joan Cornella, listening to Marilyn Manson, Apocalyptica, Arctic Monkeys, MCR, post-hardcore and symphonic metal bands, Maksim Mrvica, Schubert's Standchen, and Edvard Grieg's intro on his Piano Concerto in A minor Op. 16. 
 
