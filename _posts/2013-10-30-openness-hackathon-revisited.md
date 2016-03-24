@@ -9,7 +9,7 @@ tags : [featured,events,hackathon,projects]
 
 If you read some of my previous posts, I posted about me and my partner's preparation to the Microsoft Philippines Openness Hackathon which was moved to October 26 to 27.
 
-####Related Posts:
+#### Related Posts:
 - [Openness Night: 24hr Hackathon](/blog/openness-night-24-hour-hackathon/)
 - [Node.js Deployment on Heroku](/blog/hackathon-preparation-deployment/)
 - [Windows 8 App Dev Boot Camp](/blog/windows-8-app-dev-bootcamp/)
