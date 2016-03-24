@@ -15,7 +15,7 @@ But hell, I told my current self, this sounds fun (and crazy). The hell with _'I
 
 And so with the challenge...
 
-###Develop an open source Windows 8 Application and get the chance to win surprise prizes!
+### Develop an open source Windows 8 Application and get the chance to win surprise prizes!
 
 Let's break that into pieces...
 
@@ -35,11 +35,11 @@ Most of my past projects are of web development. Good thing while researching ab
 
 Ha. I am not expecting to win but perks would be awesome. (Who wouldn't want _surprise_ prizes!?) Could it be a new phone? I'm actually planning to buy a new phone since my phone is currently indisposed (oh I meant broken) aaaand wouldn't it be nice if I'd get my new phone from a hackathon. _Heehee._
 
-##The Exciting Part 
+## The Exciting Part 
 
 And so I was invited yesterday and whilst typing this I can't contain my excitement. The most exciting part is I already got an idea while my partner explained to me the [mechanics](https://skydrive.live.com/view.aspx?resid=E50580EA1EFC4C69!298&cid=e50580ea1efc4c69&app=WordPdf). I already sketched some drafts for the app - which will be a secret 'til the event itself. Or would you like me to give a hint? 
 
-##Tech Stack
+## Tech Stack
 
 And so today I gathered resources and planned the tech stack we'll be using for the Windows 8 app. I also got a name for it (hell, I wouldn't sleep last Monday 'til I got a proper name). So here's a hint - the app would be a helpful tool for autodidacts (like me) who are into MOOCs. _/winks/_
 

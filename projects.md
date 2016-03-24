@@ -5,9 +5,9 @@ header : Projects
 ---
 {% include JB/setup %}
 
-#Projects
+# Projects
 
-##Web
+## Web
 <ul class="posts">
 {% for post in site.posts %}
     {% if post.categories contains 'project' and post.tags contains 'web development' %}
@@ -19,7 +19,7 @@ header : Projects
 {% endfor %}
 </ul>
 
-##Print
+## Print
 <ul class="posts">
 {% for post in site.posts %}
     {% if post.categories contains 'project' and post.tags contains 'print' %}
@@ -28,7 +28,7 @@ header : Projects
 {% endfor %}
 </ul>
 
-##Software
+## Software
 <ul class="posts">
 {% for post in site.posts %}
     {% if post.categories contains 'project' and post.tags contains 'software development' %}

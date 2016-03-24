@@ -5,7 +5,7 @@ header : Links
 ---
 {% include JB/setup %}
 
-#Links
+# Links
 
 Twitter: [@GianFaye](http://twitter.com/gianfaye)
 

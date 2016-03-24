@@ -9,7 +9,7 @@ tags : [featured,hackathon, coding, open source, software development, node.js, 
 
 In preparation to the [Openness Night Hackathon this coming weekend](/blog/openness-night-24-hour-hackathon/), today, I worked around **Node.js app deployment on Heroku**. I'll be posting the procedures, challenges, and problems I encountered along the way by which could help anyone reading this who's also venturing this topic. Please mind that this is not an actual tutorial but I will provide links.
 
-##So, why deployment first?
+## So, why deployment first?
 
 Yesterday, I gathered resources, tutorials and helpful articles and posted them on a Trello board (which I'll be sharing later on) and decided that I should first figure out how we will be deploying our app on the hackathon event.
 
@@ -17,16 +17,16 @@ If you would scale up the experiences I have with development, you would say I'm
 
 Since I can easily work around UX/UI, visual design, and CSS, I first tried to figure out how we would actually deploy our app online.
 
-##Why Heroku?
+## Why Heroku?
 
 I have frequently encountered [Heroku](https://www.heroku.com/) before and I learned it can host Node.js apps and supports [many other languages](https://devcenter.heroku.com/categories/language-support) as well. I also have learned about [Nodejitsu](https://www.nodejitsu.com/) along the way but I decided to first go with Heroku this time. Heroku also uses Git for deploying apps and I have my initial app mirrored on my GitHub account as well. 
 
-######List of related articles:
+###### List of related articles:
 - [Nodejitsu vs. Heroku for node.js Hosting](http://www.codebudo.com/2012/05/nodejitsu-vs-heroku-for-node-js-hosting/)
 - [Heroku vs Nodejitsu vs Appfog](http://adamnengland.wordpress.com/2013/07/08/heroku-vs-nodejitsu-vs-appfog/)
 
 
-##Node.js
+## Node.js
 I have installed [Node.js](http://nodejs.org/) and downloaded [npm](https://npmjs.org/) long ago but didn't actually had the right goal to use it. I started the [Node.js course on CodeSchool](https://trello.com/c/hqmSl9iK/5-real-time-web-with-node-js) last month but wasn't able to finish before my subscription expired, although I have downloaded the pdf for the whole course which pretty sums everything you need to know to start a Node.js project. I'll be providing the pdf later. Otherwise, the course familiarized me quite a bit with the syntax and code structure of Node.js.
 
 So before deploying to Heroku, I first started to run the app locally. The first, and quite embarrasing thing is - I opened the [REPL](http://nodejs.org/api/repl.html) and typed the command in there. So when I happen to check the error online, [I got this](https://github.com/joyent/node/issues/2931): <code>LOL n00b! SYNTAX ERROR! TAKE THAT! HAHA!</code>
@@ -35,7 +35,7 @@ So before deploying to Heroku, I first started to run the app locally. The first
 
 Moving on, I know you could be laughing your ass right now but let me move on plz. :)
 
-##Express, Socket.io, Ejs
+## Express, Socket.io, Ejs
 
 I followed this article: [Deploying Your First Node.js and Socket.io App to Heroku](http://robdodson.me/blog/2012/06/04/deploying-your-first-node-dot-js-and-socket-dot-io-app-to-heroku/). So moving on with the REPL mistake, I installed [Express](http://expressjs.com/) on my Git Bash. :) Express is basically a web app framework for Node.js. Then after I created my project, I installed [Socket.io](http://socket.io/) which I still have little idea of its functionality but I'm gonna go with it.
 
@@ -61,7 +61,7 @@ Contextually, <code>package.json</code> is like the <code>/_config.yml</code> on
 	  }
 	}
 
-##Conflicts with versions
+## Conflicts with versions
 
 So while following the same article above by Rob Dodson, I encountered problems with the version of Express I installed with the sample <code>app.js</code> he posted.
 
@@ -88,7 +88,7 @@ From <code>io = require('socket.io').listen(app)</code> to <code>io = require('s
 
 And so after making all the modules be friendly with each other, I got to run the app locally. Now we can move on with Heroku. **YAY!**
 
-##Heroku
+## Heroku
 
 There's not much problems I encountered with deploying the app on Heroku. [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) pretty sums up the entire thing. Although for hours I can't get the app working properly online and was always showing an Application Error page. Turns out I just need to remove <code>server.listen(3000)</code>. _/facepalm/_
 

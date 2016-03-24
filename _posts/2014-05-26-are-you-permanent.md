@@ -25,7 +25,7 @@ And so the company changed. But what if the things you liked about the company, 
 
 >Plus ca change, <br>plus c'est la meme chose. <br>The more things change, <br>the more they stay the same. <br> - [Jean-Baptiste Alphonse Karr](http://en.wiktionary.org/wiki/plus_%C3%A7a_change,_plus_c'est_la_m%C3%AAme_chose)
 
-##We Are The Company
+## We Are The Company
 
 This is one of the misconceptions of employers. Most of them think highly of themselves and assume that THEY are the company. This is wrong. And this employer mindset always became the reason *why their business fail*. 
 

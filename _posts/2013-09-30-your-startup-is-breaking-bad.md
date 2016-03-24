@@ -17,33 +17,33 @@ And so you venture to a new world, a much dangerous and risky but free world.
 
 Your new adventure awaits you.
 
-##Round 1: Starting Your Company
+## Round 1: Starting Your Company
 
 Ha. So you want this business? Why so? **"Oh well, you've never seen a high school Science teacher cooking meth, have you?"** And so you chose to do what is not done yet. And you'll be the first one to do it. Not only to show the world that you can do it, but also to experience what it's like to go out of your comfort zone. And don't forget the money business.
 
-##Round 2: Finding a Co-Founder
+## Round 2: Finding a Co-Founder
 
 You realized you cannot do this alone. You may as well look for a partner. Oh, there's someone I knew from high school... Jesse! 
 
 Things should go well from here, you wished. 
 
-##Round 3: You need a Ship
+## Round 3: You need a Ship
 
 Oh ship! You're finished with your product, what now? There goes most of the startup problems, getting you to ship your products to the right customers (or users). Think of why most of the Kickstarter campaigns fail. Most failures occur not because they fail to get funds, not because they fail to perfect the product, it is when they didn't put in mind that delivering their products to their customers is part of their business.
 
 Thank the drug deities for Tuco's gang.
 
-##Round 4: Expanding Your Business
+## Round 4: Expanding Your Business
 
 Well, the main gist here is - if your product is as genius as Walter's 99% pure blue crystal, you get to expand your business easily. Even with just the word of mouth. Your products don't have to be perfect, though. As 99% is as perfect as it may seems, at least you got way above your competitors.
 
-##Round 5: Competitors
+## Round 5: Competitors
 
 Here comes your competitors. As you expand your business, you must be aware of your competitors. Or you may end up getting hit by a 12 year old boy you wouldn't think your competitors would surprise you.
 
 Well, now you are aware of them. Like Walter, you know you have a better product - waaaaay better than theirs. Why is it? Because Walter spent most of his time actually being so nosy on everything about his product, from that one fly carrying shenanigans around the lab to the very least details about temperature and chemistry stuff. [He underdid his competition.](http://the.loading-info.net/2011/03/rework-book-you-shouldnt-not-read.html) He doesn't need competitors, least the need to compare his product with theirs.
 
-##Round 6: We Are Acquired!
+## Round 6: We Are Acquired!
 
 **"Posterous has been acquired by Twiter, all your posterous blogs will be shut down next month. Muahaha"** 
 
@@ -55,11 +55,11 @@ Oh, remember when Mr. White's business has been acquired by Gus Fring's army of 
 
 In the end, he fired his new boss. Hmmm, might end up differently had he been acquired by the Cartel, eh?
 
-##Round 7: Better Call Saul... and Friends
+## Round 7: Better Call Saul... and Friends
 
 You know you cannot do anything outstanding without any legal advice, right? Saul was supposed to be killed the first time they met but Walter realized he needs him... and his connections. Better have legal advice, buddy. Bloody network, too.
 
-##Round 8: K.O.
+## Round 8: K.O.
 
 Your startup's future is in your hands. Had it been that Walt's DEA Brother-in-Law didn't discover that book Gale gave him, it would be a happy ending for the White household. Well, to the very end he still saved his co-founder's troublesome ass who turned Judas with him. So I guess the lesson is pick the right co-founder to begin with. Ha. 
 

@@ -31,7 +31,7 @@ Related discussion: [MISSING OPTION: Use Gmail's servers to send your mail](http
 
 The most disappointing thing here is, I was in a middle of a project and already told the client that we could use Gmail for free when they are using their own domain name for their employee's email addresses. 
 
-##Workaround
+## Workaround
 
 There's a workaround here but it doesn't work as good as before. You can still use Gmail's SMTP settings but with a few security drawbacks.
 

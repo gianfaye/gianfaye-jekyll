@@ -29,7 +29,7 @@ For this research, I will make examples of banks I can think of while writing th
 
 <hr><hr>
 
-##UnionBank
+## UnionBank
 
 The main portal for personal banking is under this domain: _ebanking.unionbank.ph_
 
@@ -73,7 +73,7 @@ I planned to save negative remarks to myself but _dear lord_ -- UnionBank's serv
 
 <hr><hr>
 
-##Bank of the Philippine Islands
+## Bank of the Philippine Islands
 
 The main portal for personal banking is under this domain: _secure1.bpiexpressonline.com_
 
@@ -89,7 +89,7 @@ Again, the only secure protocol version is [TLS 1.2](https://www.entrust.com/mov
 
 <hr><hr>
 
-##Metrobank
+## Metrobank
 
 The main portal for personal banking is under this domain: _personal.metrobankdirect.com_
 
@@ -105,7 +105,7 @@ The Metrobank server supports <span style='color:orange'>Diffie-Hellman (DH) key
 
 <hr><hr>
 
-##EastWest Bank
+## EastWest Bank
 
 The main portal for personal banking is under this domain: _www.eastwestpersonal.com.ph_
 
@@ -121,7 +121,7 @@ They are also using <span style='color:red'>SHA1 signatures with plain RSA as th
 
 <hr><hr>
 
-##Banco de Oro
+## Banco de Oro
 
 The main portal for personal banking is under this domain: _online.bdo.com.ph_
 

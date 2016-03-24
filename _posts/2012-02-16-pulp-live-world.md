@@ -9,7 +9,7 @@ tags : [web development, joomla, ecommerce]
 
 **PULP Live World** produces concerts and festivals featuring international and local artists.
 
-##The Site
+## The Site
 
 The website serves as the information and promotional site to their upcoming events and as an archive of their shows since the past decade. Also built with the website is an e-commerce for their merchandise.
 
@@ -29,7 +29,7 @@ The site is built with Joomla and the online shop is created with the Virtuemart
 
 Most parts of the website are developed with custom modules.
 
-##Client
+## Client
 
 [PULP Live World Production, Inc.](/project/pulp-live-world) is a subsidiary of [PULP Magazine](/project/pulp-magazine-live), the premier music publication in the Philippines.
 

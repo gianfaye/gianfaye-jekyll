@@ -26,42 +26,42 @@ beer, cats, shiitake, and my room's light source.
 <br>
 
 ![Grolsch](http://i.imgur.com/gBs5JT8.jpg)
-######Grolsch &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/30 &bullet; ISO-1600 &bullet; 50mm
+###### Grolsch &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/30 &bullet; ISO-1600 &bullet; 50mm
 
 <br>
 
 ![BB Girl Ume](http://imgur.com/vFYgJi2.jpg)
-######Ume &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/60 &bullet; ISO-1000 &bullet; 50mm
+###### Ume &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/60 &bullet; ISO-1000 &bullet; 50mm
 
 <br>
 
 ![Guinness Draught](http://imgur.com/TMzY5ji.jpg)
-######Guinness &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/60 &bullet; ISO-1600 &bullet; 50mm
+###### Guinness &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/60 &bullet; ISO-1600 &bullet; 50mm
 
 <br>
 
 ![Hitler](http://imgur.com/DT5Eyha.jpg)
-######Hitler &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/60 &bullet; ISO-1100 &bullet; 50mm
+###### Hitler &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/60 &bullet; ISO-1100 &bullet; 50mm
 
 <br>
 
 ![Shiitake](http://imgur.com/R53dPXn.jpg)
-######Shiitake &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/30 &bullet; ISO-800 &bullet; 50mm
+###### Shiitake &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/30 &bullet; ISO-800 &bullet; 50mm
 
 <br>
 
 ![Meo](http://imgur.com/7eQD0wm.jpg)
-######Meo &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/30 &bullet; ISO-1600 &bullet; 50mm
+###### Meo &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.8 &bullet; 1/30 &bullet; ISO-1600 &bullet; 50mm
 
 <br>
 
 ![Hacker-Pschorr](http://imgur.com/uChF4fT.jpg)
-######Hacker &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2 &bullet; 1/15 &bullet; ISO-500 &bullet; 50mm
+###### Hacker &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2 &bullet; 1/15 &bullet; ISO-500 &bullet; 50mm
 
 <br>
 
 ![Fluorescent](http://imgur.com/axHeDWw.jpg)
-######Fluores &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/7.1 &bullet; 1/200 &bullet; ISO-2000 &bullet; 50mm
+###### Fluores &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/7.1 &bullet; 1/200 &bullet; ISO-2000 &bullet; 50mm
 
 <br>
 

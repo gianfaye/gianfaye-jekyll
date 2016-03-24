@@ -17,23 +17,23 @@ I then started playing the viola and violin at 19, that was almost 3 years ago. 
 
 Maybe I got so busy with college, maybe I spent most of my time on the Internet and tinkering stuff. It could be lack of practice. I have so many assumptions up to the point that I realized I was thinking too much.
 
-##Geek of All Trades, Master of None
+## Geek of All Trades, Master of None
 
 I got this from one of my favorite blogs, [MostlyMaths](http://www.mostlymaths.net), although I admit I'm not a quite a reader of his long posts. But still, when I visit that blog, I'm sure every post is worth reading.
 
 This phrase struck me as if I realized it is a perfect description of me. If he hasn't used it as his tagline for his blog, and have I thought about the compilation of those words first, that would be my current tagline.
 
-##Dreams of being a Polymath
+## Dreams of being a Polymath
 
 Before I got even familiar with the word '[polymath](http://en.wikipedia.org/wiki/Polymath)', I know that it is my lifelong goal - of being one. I got so many interests that I always lose focus which one I'll be giving my attention first. I wouldn't go with so much details but I wanted to study many things, know things, and do things. [42](http://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker's_Guide_to_the_Galaxy) isn't enough.
 
-##The MoGo-Hammer
+## The MoGo-Hammer
 
 I know I'm not alone, you may have said it to yourself at some point in your life. "I'm too old for this." It's a motivation breaker. It smashes not only your **MOtivation** but also your **GOals**.
 
 There was some months I would not play any of my instruments. There are some weeks I wouldn't code. And there are some days I wouldn't go online and just talk to my cats. Those were the worst times of my life. (Except talking to my cats, I love my cats.) I think those were the way I'm telling myself, **"I'm done with this shit."**
 
-##Mediocrity
+## Mediocrity
 
 Is it because of the lack of resources? Is it because of the improper environment that I couldn't start things?
 
@@ -41,7 +41,7 @@ No. Before, I thought I would be a very good guitar player once I got my own gui
 
 I hate being mediocre. But I still am.
 
-##Starting Point
+## Starting Point
 
 **"Stop thinking, do things."** This is a game-changer. I know, we are bombarded with a million quotes for inspiration. I was at that point I hated quotes because I think all of them are bullshit. No, not this one.
 
@@ -51,15 +51,15 @@ I then started learning from scratch. I don't care if **"I'm too old for this sh
 
 I then regain confidence, bit by bit, as I learn and do new things, bit by bit.
 
-##Be small
+## Be small
 
 Before, I always think a project as a whole. But then I learned you cannot finish a project if your goal is to finish the whole project. Dissect the project into sub-projects and slice it to little pieces if you can. Then convert those slices to goals. Cross them out as you finish them, from there you could build the jigsaw puzzle. 
 
-##What kindergarten teaches us
+## What kindergarten teaches us
 
 Goals can be best represented by points, not lines. If you are a 90's kid, you may remember those little books you have and you trace numbered points and you can form a picture. To connect your points, you must trace it from the previous number to the next number. Those points are your goals, tracing is how you finish them so you could get to your next goal - until you're done and you can see the whole picture. 
 
-##Set your goals, track your goals
+## Set your goals, track your goals
 
 I use Trello for tracking the status of my goals. It is like a [kanban board](http://en.wikipedia.org/wiki/Kanban_board) and you have lists, and you have cards on your lists. You can even have checklists inside the cards. It would be much easier to finish the goal if you have the process in record.
 

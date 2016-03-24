@@ -23,7 +23,7 @@ We then opened an existing board on both machines, created a card on the web app
 
 This is when we realized that the Trello Windows 8 app is real-time. And this is the type of application we are planning to do. I've gathered some resources that we could use to make this happen.
 
-######Here's a list of the related articles:
+###### Here's a list of the related articles:
 - [Real World Windows 8 Apps in JavaScript](http://www.slideshare.net/domenicdenicola/real-world-windows-8-apps-in-javascript)
 - [Want To Build Win8/WinJS Apps? You Need To Understand Promises.](http://lostechies.com/derickbailey/2012/07/19/want-to-build-win8winjs-apps-you-need-to-understand-promises/)
 - [Using Backbone.js in Windows 8 RT apps](https://blog.stackmob.com/2013/08/using-backbone-js-in-windows-8-rt-apps/)

@@ -15,15 +15,15 @@ She then went to bring up the topic about renewable energy and their campaign to
 
 First off, I am very familiar with this topic. I opened up my early plans to move on to harnessing solar energy and how I did my research in the past.  I also discussed with her how I find the implementation of this technology here in the Philippines far too difficult compared to the first-world countries. 
 
-###A dream for a bright future.
+### A dream for a bright future.
 
 I was imagining our house before all *paneled up* (wow, I just coined a new term) and looking *hot*. (Okay, enough puns for now.) But seriously, it was a dream. I then searched how much photovoltaic cells costs and how to install them. You just need basic carpentry skills and you can install it yourself. However, getting your hands on the actual solar panels pushed me back a bit. It was a great dream, though. Unfortunately, it was impractical at that time. I wished this technology would be put to practical use in the near future. Like how Bill Gates dreamt about putting computers on every home, forever changing the future of computing. I wish we can all have solar panels on our homes.
 
-###Think globally, start locally
+### Think globally, start locally
 
 A few hours later after that call, I was browsing my old files. (My 6-year old machine just died on me and I decided to scan and organize my old files. More on that story will be posted later.) Then, I don’t know why but I spotted an old document I wrote when I was in 4th year college for our Technical Writing subject. The paper is titled *"Solar Energy as an Alternative Source of Electricity"*, which is a proposal for our university to use solar energy as an alternative source of electricity to power its buildings to save impratical electricity bills (their bill goes up to around 1 million Pesos per month  on the date of writing) causing the consistently tuition fee increase, and also to give the environment a small favor. It is dated October 4, 2010 (almost 4 years ago). I uploaded the paper and I recommend you to [read the full document here](/assets/docs/solar-energy-as-an-alternative.pdf).
 
-####Here are some excerpts:
+#### Here are some excerpts:
 
 	"With the current industry, power generation depends on the world's natural resources. According to ecologist Joe Bidden, if we continue using these resources for the next decades, it will greatly affect the ecosystem, which might trigger a great transition on our climate, hence, the climate change. Not only does the problem fall into the resources, but also the by-products. The emissions of most machines our world uses today have negative effects on the environment. Greenhouse gases are the main cause of global warming and these machines emit large amounts of heat and are not environmental-friendly. Not to mention the large power generating industry itself, which produces not only extensive amount of heat, but also noise and waste."
 

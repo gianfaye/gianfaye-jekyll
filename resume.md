@@ -5,7 +5,7 @@ header : Resume
 ---
 {% include JB/setup %}
 
-#Hello There
+# Hello There
 
 If you are reading this, I probably gave you this link and I'm willing to work with you.<br>
 You can [take a look at my LinkedIn profile](http://ph.linkedin.com/in/gianfaye/) or you may [download my resume here](/assets/docs/gian-faye-paguirigan-resume.pdf).

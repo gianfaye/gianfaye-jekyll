@@ -9,7 +9,7 @@ tags : [web development, php, mysql, cms, map]
 
 **PULP Magazine** is the premier music publication in the Philippines since 1999. 
 
-##The Site
+## The Site
 
 The website serves as a preview portal of the latest published issue and as a wayback machine, which provides information of their back issues. We built a custom CMS and features different sections (e.g. News, Blog, Column, Reviews) to publish different types of content which is all managed through an admin panel we also developed in PHP/MySQL.
 
@@ -19,11 +19,11 @@ We also spiced it with a helpful locator widget called "Where to buy PULP?" wher
 
 ![PULP Magazine Live](/assets/images/projects/2012/where-to-buy-pulp.png)
 
-##Client
+## Client
 
 PULP Magazine is published by The Fookien Times Yearbook Publishing Co.
 
-##Credits
+## Credits
 
 Co-developed with John Louie Vera.
 Interns Jeniffer Arroyo and Carlo Villoria.
