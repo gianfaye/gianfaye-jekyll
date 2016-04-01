@@ -15,15 +15,15 @@ For example, I have this `coolwebsite.com` domain and I want an email address as
 
 When you go to Gmail's **Settings** > **Accounts and Import**, scroll down to **Send Mail As** and click **Add another email address you own** you should be able to add another email address as long as it could successfully forward emails to your Gmail address.
 
-![Send Mail As](http://i.imgur.com/TnJBK3Q.jpg)
+![Send Mail As](https://i.imgur.com/TnJBK3Q.jpg)
 
 However, Gmail recently changed its mechanics and are now asking users to input SMTP settings (which is a total bummer). Before this update, you can just add it the forwarding address and they'll send a confirmation link to verify that you own that forwarding address and that's it! But that's not the case now...
 
-![Add another email address you own](http://i.imgur.com/BVqgYpd.jpg)
+![Add another email address you own](https://i.imgur.com/BVqgYpd.jpg)
 
 After a little research, I then discovered that they recently introduced [Google Apps for Business](http://www.google.com.ph/intx/en_ph/enterprise/apps/business/) - one feature is that you can create email addresses via Gmail using your domain name. But I've been doing this for a while now using their old **Send Mail As** settings. 
 
-![Google Apps for Business](http://i.imgur.com/okTzIfo.jpg)
+![Google Apps for Business](https://i.imgur.com/okTzIfo.jpg)
 
 With the new settings, the user is now required to add SMTP settings to move on with the **Send Mail As** option, they have to get and pay for email hosting - which throws away the reason why we can use basic mail forwarding for Gmail. It followed [Yahoo!'s Small Business](https://smallbusiness.yahoo.com/email) (previously Yahoo! Mail Plus) paid plan to customize the email you'll be using to reply to a forwarded email - which is supposedly your custom email, not your Yahoo! email or Gmail. 
 
