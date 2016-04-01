@@ -15,7 +15,7 @@ I'm presently working as a Front-End Developer for a Singapore-based company.
 
 Connect with me on <a href="https://ph.linkedin.com/in/gianfaye" target="_blank">LinkedIn &rarr;</a>
 
-##Skills
+## Skills
 
 If you are interested to know more about my skills and the tools I use, contact me and I'll send you my resume. My current expertise is on front-end development doing mostly markup. If you would (and I recommend especially for HR people) read this article: [The Front End Engineering Spectrum- The Three Generic Types of Front End Engineers](http://htmlcssjavascript.com/web/the-front-end-engineering-spectrum-the-three-generic-types-of-front-end-engineers/) I'd be 70% The Creative, 30% The Coder. 
 
