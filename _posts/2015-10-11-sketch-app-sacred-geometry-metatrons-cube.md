@@ -17,4 +17,4 @@ For this example, I'll be showing you how to create the [Metatron's Cube](http:/
 
 ![Sacred Geometry: Metatron's Cube](/assets/images/posts/2015/sacred-geometry-metatrons-cube.jpg)
 
-Completed in less than 30 minutes. Still needs a little polishing but not bad for the first trial.
+Completed in less than 30 minutes. Still needs a little polishing but not bad for the first trial. 
