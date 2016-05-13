@@ -887,7 +887,7 @@ footer{
 	position: relative;
 	float: left;
 	width: 100%;
-  min-height: 250px;
+  min-height: 275px;
 	background: url(../images/footer-iceberg-shit.png);
 	background-repeat: no-repeat;
 	background-position: center bottom;
@@ -965,7 +965,7 @@ footer a{
 	background-position: bottom center;
   }
   footer p { 
-  	font-size: 0.9em; line-height: 80%; padding: 10px; 
+  	font-size: 0.9em; line-height: 80%; padding-bottom: 10px; 
   }
   footer p, footer a { 
   	font-family: 'VoyagerRegular', Monaco, monospace;
