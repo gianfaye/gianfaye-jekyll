@@ -68,7 +68,7 @@ After posting this tweet, they quickly responded on Twitter.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/GianFaye">@GianFaye</a> cont1.. send it thru DM, so that it would not be visible to the public. Thank you.</p>&mdash; talk2GLOBE (@talk2GLOBE) <a href="https://twitter.com/talk2GLOBE/status/783863558702587904">October 6, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Had a few conversations via DM but then they have to ask me to repeat my concern **TO REPEAT MY CONCERN** even if I already provided the reference ID. They stopped responding when the conversation grew longer because I'm already beyond impatient. After I've called them several times for weeks, and even asking me for my account number, don't they tell me they do not have access to the request history and ask me to re-tell them [a story](https://www.youtube.com/watch?v=zh4ERYm6Eyg). 
+Had a few conversations via DM but then they have to ask me to repeat my concern **TO REPEAT MY CONCERN** even if I already provided the request reference ID. They stopped responding when the conversation grew longer because I'm already beyond impatient. After I've called them several times for weeks, and even asking me for my account number, don't they tell me they do not have access to the request history and ask me to re-tell them [a story](https://www.youtube.com/watch?v=zh4ERYm6Eyg). 
 
     A story that will torture your thoughts by day and poison your dreams by night.
     And though I will do my best, 
