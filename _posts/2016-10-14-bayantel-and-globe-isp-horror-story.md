@@ -85,7 +85,7 @@ I've already acted on my Plan B and submitted an online application to PLDT for 
 
 Suck on this, Globe.
 
-##Flashback
+## Flashback
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I can&#39;t access support via landline, voicemail, SMS, email for 3 WEEKS PLS RESPOND <a href="https://twitter.com/AskBayan">@AskBayan</a> <a href="https://twitter.com/hashtag/Philippines?src=hash">#Philippines</a> <a href="https://twitter.com/hashtag/internet?src=hash">#internet</a> <a href="https://twitter.com/hashtag/Bayantel?src=hash">#Bayantel</a> <a href="https://twitter.com/hashtag/BayanDSL?src=hash">#BayanDSL</a> <a href="https://twitter.com/hashtag/ISP?src=hash">#ISP</a></p>&mdash; Gian Faye (@GianFaye) <a href="https://twitter.com/GianFaye/status/711759687251664896">March 21, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
