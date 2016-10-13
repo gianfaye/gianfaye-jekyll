@@ -3,7 +3,7 @@ layout: post
 title : "Everyday is a Starting Point"
 tagline : 
 category : blog
-tags : [featured,thoughts, learning, productivity, personal]
+tags : [thoughts, learning, productivity, personal]
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title : "Eliminating All The Crap"
 tagline : 
 category : blog
-tags : [featured,lifestyle, creativity, talks]
+tags : [lifestyle, creativity, talks]
 ---
 {% include JB/setup %}
 
