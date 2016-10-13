@@ -7,7 +7,7 @@ tags : [free, devtools, SSL, Github, web, tools, InfoSec, Security, Cybersecurit
 ---
 {% include JB/setup %}
 
-UPDATE: Kloudsec shut down last August 1. [Details here](https://www.reddit.com/r/webdev/comments/4s3kmf/got_an_email_saying_that_kloudsec_will_be/) Too bad the service was good, way too good to survive. :|
+UPDATE: Kloudsec shut down last August 1. [Details here](https://www.reddit.com/r/webdev/comments/4s3kmf/got_an_email_saying_that_kloudsec_will_be/) Too bad the service was good, way too good to survive.
 
 If you are using [Github Pages](https://pages.github.com/) for your site similar to what I have here at [gianfaye.com](/colophon), you may want to grab this neat tool by Kloudsec. As some of us may know, [Github does not currently support HTTPS on Github Pages with custom domains](https://gist.github.com/coolaj86/e07d42f5961c68fc1fc8). 
 <hr>
