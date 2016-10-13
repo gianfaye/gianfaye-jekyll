@@ -3,7 +3,7 @@ layout: post
 title : "Free HTTPS support for Github Pages"
 tagline : 
 category : blog
-tags : [free, devtools, SSL, Github, web, tools, InfoSec, Security, Cybersecurity]
+tags : [featured, free, devtools, SSL, Github, web, tools, InfoSec, Security, Cybersecurity]
 ---
 {% include JB/setup %}
 
