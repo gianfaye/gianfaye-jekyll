@@ -15,7 +15,7 @@ I got my [Arduino Starter Kit](https://www.arduino.cc/en/Main/ArduinoStarterKit)
 
 Here are the photos I took while unboxing. Navigate through the gallery to see what's included on the kit.
 
-<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="https://imgur.com/a/jlxHd/embed"></iframe>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jlxHd"><a href="//imgur.com/a/jlxHd">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 The last 3 photos are for the 2nd project on the book called *Spaceship Interface*.
 
