@@ -167,3 +167,7 @@ Total time spent for this project: `3 hours` (including the time spent figuring 
 
 That's it! Let me know on the comments section below if you see points of improvement on this project or if you created your own. :) Enjoy your cup of hot coffee.
 
+#### Related post:
+* [Arduino: Getting Started](/blog/arduino-getting-started/)
+
+<hr>
