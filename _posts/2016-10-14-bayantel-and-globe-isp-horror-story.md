@@ -97,4 +97,5 @@ TL;DR: If you work from home, stay away from Bayantel or Globe.
 
 **Based from a true story. Happy Halloween.** 
 
+UPDATE: Got my PLDT Home Fibr installed at the end of October. :) Also good to note that they are keen on following up and updating me of any changes I need to know. They would even call me whenever they receive payment and always ask me about my experience with their service.
 
