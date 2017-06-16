@@ -738,6 +738,30 @@ hr{
 				width: 100%;
 			}
 
+#clients{
+	bottom: 30px;
+    position: relative;
+}	
+	#clients li{
+		list-style-type: none;
+		width: 20%;
+		float: left;
+		margin: 2.5%;
+		position: relative;
+	}	
+	#clients li img{
+		width: 100%;
+		border-radius: 100px;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		transition: all 0.3s;
+	}	
+	#clients li:hover img{
+		-webkit-transform: scale(1.1);
+		-moz-transform: scale(1.1);
+		transform: scale(1.1);
+	}			
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -984,4 +1008,7 @@ footer a{
 @media (max-width: 600px) {
   .show-sm { display: block; }
   .hidden-sm { display: none; }
+  #clients li{
+		width: 95%;
+	}	
 }

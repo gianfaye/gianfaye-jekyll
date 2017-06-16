@@ -6,6 +6,7 @@ tagline:
 {% include JB/setup %}
 {% include themes/geekyll/about.html %}
 {% include themes/geekyll/projects-home.html %}
+{% include themes/geekyll/clients.html %}
 
 <ul class="posts" id="blog-home" style="clear:both;">
   {% for post in site.categories.blog %}
