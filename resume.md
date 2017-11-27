@@ -14,5 +14,5 @@ Catch up soon! <br>
 
 ![Not Enough Work](http://imgs.xkcd.com/comics/not_enough_work.png)
 
-######A webcomic by [XKCD.com](http://xkcd.com/554/) &copy; (CC BY-NC 2.5) 
+###### A webcomic by [XKCD.com](http://xkcd.com/554/) &copy; (CC BY-NC 2.5) 
 

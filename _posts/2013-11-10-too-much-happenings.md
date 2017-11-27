@@ -9,13 +9,13 @@ tags : [personal,events,hackathon,vacation,storm]
 
 I'd post all of them in a collective. When I get to have so much happenings I tend to divert myself to thinking too much. And as I suggested on [my previous post](/blog/everyday-is-a-starting-point/), thinking too much is not a good thing. On the other hand, I'm grateful that most of the things that occur in the past weeks were a blessing.
 
-##Hackathon
+## Hackathon
 
 If you read some of my previous posts, I posted about me and my partner's preparation to the Microsoft Philippines Openness Hackathon which was moved to October 26 to 27.
 
 <br>
 
-####Related Articles:
+#### Related Articles:
 - [Openness Night: 24hr Hackathon](/blog/openness-night-24-hour-hackathon/)
 - [Node.js Deployment on Heroku](/blog/hackathon-preparation-deployment/)
 - [Windows 8 App Dev Boot Camp](/blog/windows-8-app-dev-bootcamp/)
@@ -34,6 +34,6 @@ We went to the Azure Camp before the hackathon and learned to deploy apps to Win
 
 The app won't just end there (hackathon) and we have decided even before we joined the hackathon that we'll be continuing developing and improving the app to make it in use and deliver it to my fellow MOOC sages. :)
 
-##New Employment
+## New Employment
 
 I am resigning from my post as a full-time employee on PULP. I'd still be their Webmaster and I'll  be working for them part-time when they just need my help (technical support) and consultation. 

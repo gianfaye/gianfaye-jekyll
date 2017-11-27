@@ -8,7 +8,7 @@ tags : [fact,science,chemistry,Andy Warhol,photos,photography]
 {% include JB/setup %}
 
 ![Perrier mineral bottle featuring art by Andy Warhol](https://i.imgur.com/Yxc9cUT.jpg)
-######Perrier mineral bottle feat. art by Andy Warhol &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.5 &bullet; 1/25 &bullet; ISO-1000 &bullet; 50mm | Edited with Snapseed 1.6.1.0 iOS app
+###### Perrier mineral bottle feat. art by Andy Warhol &copy; Gian Faye Paguirigan | NIKON D7000 &bullet; f/2.5 &bullet; 1/25 &bullet; ISO-1000 &bullet; 50mm | Edited with Snapseed 1.6.1.0 iOS app
 
 ## Explanation
 
