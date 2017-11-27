@@ -11,7 +11,7 @@ If I have helped you in any way and you would like to give back, the best way is
 
 ## Bitcoin
 
-Address: `38KmsVccueMA6K2w2CAJgec6Gx494MyKwd`
+Address: `37mgc2RRpeNUjRgDYzbyzc9LYL9cxbJNrt`
 
 ## Paypal
 
