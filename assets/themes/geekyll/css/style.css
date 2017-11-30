@@ -532,24 +532,23 @@ hr{
       line-height: 100%;
     }
 
-    #about{ background: #FFF; }
-
-    #about p{
-      color: #B1B0B0;
-      font-size: 12px;
-      font-family: "Lucida Console", Monaco, monospace;
-      padding: 2%;
-      line-height: 170%;
-      border: 1px dotted #999;
-      margin: 0;
-      text-align: center;
+    #about{ 
+    	background: #000; 
+        color: #2fff00;
+	    font-size: 12px;
+	    font-family: "Lucida Console", Monaco, monospace;
+	    padding: 2%;
+	    line-height: 170%;
+	    border: 1px dotted #999;
+	    margin: 0;
+	    text-align: left;
     }
 
     #about a span{
-      color: #f65d2e;
-      font-size: 1.3em;
-      font-family: 'VoyagerLight', Monaco, monospace;
-      padding-bottom: 3px;
+        color: #FFF;
+	    font-size: 1.2em;
+	    font-family: 'VoyagerLight', Monaco, monospace;
+	    padding-bottom: 3px;
     }
 		
     #projects{
@@ -980,7 +979,6 @@ footer a{
   .content ul { padding: 0 10%; }
   .date { clear: both; line-height: 150%; }
   #blog-home li a:hover{ text-decoration: underline; }
-  #about { background: none; }
   footer { 
 	min-height: 175px;
 	background: url("../images/footer-iceberg-shit.png"), #000;
@@ -999,6 +997,12 @@ footer a{
   #menu-footer { line-height: 150%; }
   .pagination { overflow: overlay; }
   .pagination li { float: left; }
+}
+
+#typed{visibility: hidden;}
+.typed-cursor{display: none;}
+.arrow{
+	color: #FFF;
 }
 
 @media (max-width: 650px) {
