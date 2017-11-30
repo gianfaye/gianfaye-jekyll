@@ -655,7 +655,7 @@ hr{
 			.project-launch a{
 				display: block;
 				letter-spacing: 2px;
-				color: black;
+				/*color: black;*/
 				font-size: 12px;
 				font-family: "Lucida Console", Monaco, monospace;
 			}
