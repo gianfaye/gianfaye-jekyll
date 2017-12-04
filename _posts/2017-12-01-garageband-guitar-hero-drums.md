@@ -3,7 +3,7 @@ layout: post
 title : "Garageband with Band Hero Drums"
 tagline : 
 category : blog
-tags : [featured, audio, recording, Garageband, Guitar Hero, Band Hero, drums, music, workaround]
+tags : [audio, recording, Garageband, Guitar Hero, Band Hero, drums, music, workaround]
 ---
 {% include JB/setup %}
 
