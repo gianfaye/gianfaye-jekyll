@@ -741,21 +741,19 @@ hr{
 	bottom: 30px;
     position: relative;
 }	
-	#clients li{
-		list-style-type: none;
-		width: 20%;
-		float: left;
-		margin: 2.5%;
-		position: relative;
+	#clients div.slick-slide{
+		padding: 15px;
+		outline: none;
 	}	
-	#clients li img{
+
+	#clients img{
 		width: 100%;
 		border-radius: 100px;
 		-webkit-transition: all 0.3s;
 		-moz-transition: all 0.3s;
 		transition: all 0.3s;
 	}	
-	#clients li:hover img{
+	#clients img:hover{
 		-webkit-transform: scale(1.1);
 		-moz-transform: scale(1.1);
 		transform: scale(1.1);
