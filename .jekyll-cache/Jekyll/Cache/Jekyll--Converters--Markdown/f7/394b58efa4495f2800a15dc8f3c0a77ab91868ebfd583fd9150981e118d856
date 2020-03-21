@@ -1,4 +1,4 @@
-I"žU
+I"£V
 <!-- <div id="typed">
   <p><span class="arrow">&#62;</span> ^1000 Hi there, ^1000 I'm a <a href="https://github.com/gianfaye" target="_blank"><span id="whatami">web designer &amp; developer</span></a> based in the Philippines. 
   <br><span class="arrow">&#62;</span> ^1000 I mostly do ^1000 <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank"><span class="ifocus">front-end development</span></a> ^1000 and ^500 <span class="ifocus"><a href="https://theblog.adobe.com/what-does-a-ux-designer-actually-do/" target="_blank"><span class="ifocus">user experience design</span></a></span>.
@@ -18,10 +18,10 @@
         <h3>RCBC</h3>
       </div>
       <div class="project-subtitle">
-        <h4>OFFICIAL WEBSITE // MAY 2019</h4>
+        <h4>OFFICIAL WEBSITE // JAN 2020</h4>
       </div>
       <div class="project-description">
-        <p>The official website of Rizal Commercial Banking Corp. (RCBC), one of the largest universal banks in the Philippines.</p>
+        <p>The official website of <strong>Rizal Commercial Banking Corporation (RCBC)</strong>, one of the largest universal banks in the Philippines.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -59,7 +59,7 @@
         <h4>OFFICIAL WEBSITE // Aug 2019</h4>
       </div>
       <div class="project-description">
-        <p>The official website of SAFE STEPS KIDS, a program by Prudence Foundation to educate kids about safety instructions for disasters, first aid, and road safety.</p>
+        <p>The official website of <strong>SAFE STEPS KIDS</strong>, a program by Prudence Foundation to educate kids about safety instructions for disasters, first aid, and road safety.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -97,7 +97,7 @@
         <h4>LANDING PAGE // Apr 2019</h4>
       </div>
       <div class="project-description">
-        <p>Launched for "The Queen's Corgi" movie distrubuted by Go Asia Entertainment for Philippine cinemas on May 2019.</p>
+        <p>Launched for <strong>The Queen's Corgi</strong> movie premiere distrubuted by Go Asia Entertainment to Philippine cinemas on May 2019.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -135,7 +135,7 @@
         <h4>OFFICIAL WEBSITE // FEB 2019</h4>
       </div>
       <div class="project-description">
-        <p>The official website of Beauty Elements Ventures Inc. (BEVI) known for their Kojie-san soaps and beauty products.</p>
+        <p>The official website of <strong>Beauty Elements Ventures Inc. (BEVI)</strong> known for their Kojie-san soaps and beauty products.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -173,7 +173,7 @@
         <h4>OFFICIAL WEBSITE // SEP 2014</h4>
       </div>
       <div class="project-description">
-        <p>The official website for Field Outsource Asia, Inc., a Philippine-based fieldmarketing services company with client portfolio including Unilab, Cignal, Yellowcab, Jobstreet, among others.</p>
+        <p>The official website for <strong>Field Outsource Asia, Inc.</strong>, a Philippine-based fieldmarketing services company with client portfolio including Unilab, Cignal, Yellowcab, and JobStreet.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -213,7 +213,7 @@
         <h4>OFFICIAL WEBSITE // AUG 2014</h4>
       </div>
       <div class="project-description">
-        <p>The official website for Strawberryjam Creative Services, Inc., a Philippine-based graphic design and print company specializing in advertising and marketing collaterals.</p>
+        <p>The official website for <strong>Strawberryjam Creative Services</strong>, a Philippine-based graphic design and print company specializing in advertising and marketing collaterals.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -251,7 +251,7 @@
         <h4>OFFICIAL WEBSITE // MAY 2014</h4>
       </div>
       <div class="project-description">
-        <p>The official event website for the 3rd year of BAZOOKA ROCKS Festival powered by PULP Live World Production</p>
+        <p>The official event website for the 3rd year of <strong>BAZOOKA ROCKS Festival</strong> powered by PULP Live World Production.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -285,7 +285,7 @@
         <h4>OFFICIAL WEBSITE // MAY 2013</h4>
       </div>
       <div class="project-description">
-        <p>The official event website for the 2nd year of BAZOOKA ROCKS Festival brought to you by PULP Live World Production</p>
+        <p>The official event website for the 2nd year of <strong>BAZOOKA ROCKS Festival</strong> brought to you by PULP Live World Production.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -319,7 +319,7 @@
 				<h4>OFFICIAL WEBSITE // FEB 2012</h4>
 			</div>
 			<div class="project-description">
-				<p>The website serves as the information and promotional site of PULP Live World Production's upcoming events and past shows. Built an online shop for their merchandise. </p>
+				<p>The website served as the information and promotional site of <strong>PULP Live World Production</strong>'s upcoming events and past shows. Built with an online shop for their merchandise. </p>
 			</div>
 			<div class="project-type">
 				<div class="project-type-item">
@@ -359,7 +359,7 @@
         <h4>OFFICIAL WEBSITE // OCT 2012</h4>
       </div>
       <div class="project-description">
-        <p>The website serves as a preview portal to the latest PULP Magazine issue featuring the latest music-related news and editorial columns by PULP writers and contributors.</p>
+        <p>The website served as a preview portal to the latest <strong>PULP Magazine</strong> issue featuring the latest music-related news and editorial columns by PULP writers and contributors.</p>
       </div>
       <div class="project-type">
         <div class="project-type-item">
@@ -396,7 +396,7 @@
     <div class="client-header">
       <h2>Worked on Projects for</h2> 
     </div>
-    <div class="client-portfolio flex--fifth">
+    <div class="client-portfolio">
       <ul>
         <li>
           <img src="/assets/images/home/clients-logo-cnn-philippines.jpg" />
@@ -430,6 +430,9 @@
         </li>
         <li>
           <img src="/assets/images/home/clients-logo-go-asia-entertainment.jpg" />
+        </li>
+        <li>
+          <img src="/assets/images/home/clients-logo-prudence-foundation.jpg" />
         </li>
         <li>
           <img src="/assets/images/home/clients-logo-orkide.jpg" />
@@ -538,8 +541,6 @@
     
       <li><a href="/blog/devcon-summit-2014/" title="Best of DevCon Summit 2014">Best of DevCon Summit 2014</a>
       <span>12 Jan 2015</span></li>
-    
-  
     
   
     

@@ -1070,6 +1070,28 @@ footer a{
   font-family: "Lucida Console", Monaco, monospace;
 }
 
+
+@media (max-width: 1024px) {
+  .project-item, .project-item:hover { max-height: none; }
+  .project-item span.name-bracket{
+    display: none;
+  }
+  .project-title h3{
+    font-size: 1.5em;
+  }
+  .project-subtitle{
+    margin-bottom: 5px;
+  }
+  .project-item .launch-website{
+    background: none;
+    padding: 0;
+    border: none;
+  }
+  .project-item .launch-website a{
+    padding-top: 55px;
+  }
+}
+
 .show-xs { display: none; }
 .show-sm { display: none; }
 
@@ -1079,7 +1101,7 @@ footer a{
   #blog-home li span { font-size: 1em; text-align: left; width: 100%; padding: 0 0 35px 0; line-height: 150%; }
 }
 
-@media (max-width: 750px) {
+@media (max-width: 768px) {
     body{ 
       background-position-y: -255px;
     }
@@ -1089,14 +1111,27 @@ footer a{
   header { margin-top: 25px; margin-bottom: -25px; padding-bottom: 0;}
   header img { margin: 20px 0 0 0; }
   #about p { border: none; }
+
   .project-item, .project-item:hover { max-height: none; }
   .project-image { width: 100%; margin-top: 0; }
   .project-image img { margin-bottom: 15px; }
   .project-details { width: 95%; margin-top: 0; }
   .project-subtitle h4 { font-size: 1em; }
   .project-description p, .project-launch a { font-size: 0.7em; }
+  .project-launch { display: none;  }
   .project-launch a { font-size: 0.9em; }
   .project-launch a span { margin-left: -12px; }
+  .project-image.no-mobile img {
+    width: 100%;
+  }
+
+  .client-header h2{
+    font-size: 1em;
+  }
+  .client-portfolio li{
+    width: 33%
+  }
+
   .content h1 { line-height: 120%; }
   .page-header h1 small { line-height: 150%; }
   .content ul { padding: 0 10%; }
