@@ -61,7 +61,7 @@
 
     <!-- Le styles -->
     <link href="/assets/themes/geekyll/css/fonts.css" rel="stylesheet" type="text/css">
-    <link href="/assets/themes/geekyll/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes/geekyll/css/style.css" rel="stylesheet" type="text/css" media="all">
     <link href='https://fonts.googleapis.com/css?family=Amethysta' rel='stylesheet' type='text/css'>
 
     <!-- Le fav and touch icons -->
@@ -74,29 +74,19 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
-    <!-- Add typing animation script -->
-    <script src="/assets/themes/geekyll/scripts/typed.min.js" type="text/javascript"></script>
-    <script src="/assets/themes/geekyll/scripts/scripts.js" type="text/javascript"></script>
-
-    <!-- jQuery -->
-    <script type="text/javascript" src="//code.jquery.com/jquery-3.3.1.min.js"></script>
-
-    <!-- Slick JS Carousel -->
-    <link rel="stylesheet" type="text/css" href="/assets/themes/geekyll/slick/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="/assets/themes/geekyll/slick/slick-theme.css"/>
-    <script type="text/javascript" src="/assets/themes/geekyll/slick/slick.min.js"></script>
-
   </head>
 
   <body>
     <header>
       <img src="/assets/images/avatar.jpg" title="Gian Faye Paguirigan">
       <a class="brand" href="{{ HOME_PATH }}"><h2><span class="name-bracket">[</span> GIAN FAYE PAG<span id="ui">UI</span>RIGAN<span class="name-bracket">]</span></h2></a>
-      <h1 class="hidden-sm">web geekery &amp; autodidactism</h1>
+      <!-- <h1 class="hidden-sm">web geekery &amp; autodidactism</h1> -->
+      <h1 class="hidden-sm">geek of all trades</h1>
     </header>
       <div id="menu" class="hidden-xs">
         <nav class="menu-relative">
         <ul>
+          <li><a href="/" title="Bio"><span>&raquo;</span>  _HOME</a></li>
           <li><a href="/bio" title="Bio"><span>&raquo;</span>  _BIO</a></li>
           <li><a href="/projects" title="Projects"><span>&raquo;</span>  _PROJECTS</a></li>
           <li><a href="/posts" title="Blog"><span>&raquo;</span>  _BLOG</a></li>
@@ -105,13 +95,13 @@
         </ul>
         </nav>
       </div>
-    <div class="container-narrow">
+    <div class="container-wide">
       <div class="content">
         {{ content }}
       </div>
       <footer title="This is just the tip of the iceberg.">
         <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">&copy;</a> {{ site.time | date: '%Y' }} {{ site.author.name }}</span>
-          <span class="hidden-xs">|</span> <span class="hidden-xs">Twitter: <a href="http://www.twitter.com/GianFaye" target="_blank" title="Gian Faye's Twitter">@gianfaye</a></span> <span class="hidden-xs">|</span> <span class="show-xs"><br></span> Email: <a rel="nofollow" href="mailto:hello@gianfaye.com" target="_blank" title="Gian Faye's email"><script language="javascript"><!-- 
+          <span class="hidden-xs">|</span> <!-- <span class="hidden-xs">Twitter: <a href="http://www.twitter.com/GianFaye" target="_blank" title="Gian Faye's Twitter">@gianfaye</a></span> <span class="hidden-xs">|</span> --> <span class="show-xs"><br></span> Email: <a rel="nofollow" href="mailto:hello@gianfaye.com" target="_blank" title="Gian Faye's email"><script language="javascript"><!-- 
           document.write("hello" + "@" + "gianfaye.com"); 
           //--> 
           </script></a>
@@ -124,5 +114,17 @@
       </footer>
     </div>
     {% include JB/analytics %}
+
+    <!-- Add typing animation script -->
+    <!-- <script src="/assets/themes/geekyll/scripts/typed.min.js" type="text/javascript"></script> -->
+    <script src="/assets/themes/geekyll/scripts/scripts.js" type="text/javascript"></script>
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+
+    <!-- Slick JS Carousel -->
+    <link rel="stylesheet" type="text/css" href="/assets/themes/geekyll/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="/assets/themes/geekyll/slick/slick-theme.css"/>
+    <script type="text/javascript" src="/assets/themes/geekyll/slick/slick.min.js"></script>
   </body>
 </html>

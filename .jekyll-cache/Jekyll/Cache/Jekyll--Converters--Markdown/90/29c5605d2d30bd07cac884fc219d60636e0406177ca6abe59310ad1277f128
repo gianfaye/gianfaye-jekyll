@@ -1,0 +1,63 @@
+I"<
+<p>So we got this new DSLR, a Nikon D7000 and a 50mm AF f1.8D standard lens. I’ve been dying to have this opportunity to be able to take decent photos and this is a heaven-sent chance for me to say goodbye to poor mediocre photography. For all these years I’ve suffered enough taking horrible photos using point-and-shoot digital cameras and reminiscing good ole memories in grainy camera phone shots.</p>
+
+<p>I am now starting to learn how to shoot properly.</p>
+
+<p>Since photography is one of the most common hobbies since the boom of digital cameras, most are tempted to label themselves <strong>photographers</strong> whenever they get a chance to take photos. Or heck, the stereotypical pose-in-front-of-the-mirror-holding-a-DSLR and update their About Me with a pathetic attempt at being a <strong>photographer</strong> when they just got their new kit. I’m not heading for that. I just want to take decent photos.</p>
+
+<p>Good thing for our generation, there’s another heaven-sent gift. Obviously, Internet. Since it’s a popular hobby, the Internet is full of photography tutorials and how-tos that made everyone’s lives easier. One Google search and you’ll save yourself the shame of not knowing what ISO means. Or whatever the heck aperture is. The fuck are f-stops. And if you really need to know anything about exposure and shutter speed. But all these doesn’t make sense unless you try it out and shoot something.</p>
+
+<p>From what I read and have been advised by some friends who take photos professionally, I turned off auto focus and used manual focus. You know there’s some kind of good feeling when I turn the lenses to get a sharp focus. I sometimes do that with my eyes. Not sure if that was normal, though. Even when wearing prescription glasses, I can adjust my vision to blur then back to sharp again. Weird stuff.</p>
+
+<p>Since I’m taking the vow and am starting as a n00b, I’m making this post as an initiation on my first attempt at shooting something decent. Maybe after a few months I’ll get back to this post and spot mistakes and laugh at myself.</p>
+
+<p>My subjects for this initial photoset are some of my favorite things in life -</p>
+
+<p>beer, cats, shiitake, and my room’s light source.</p>
+
+<p><br /></p>
+
+<p><img src="https://i.imgur.com/gBs5JT8.jpg" alt="Grolsch" /></p>
+<h6 id="grolsch--gian-faye-paguirigan--nikon-d7000-bullet-f28-bullet-130-bullet-iso-1600-bullet-50mm">Grolsch © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/2.8 &amp;bullet; 1/30 &amp;bullet; ISO-1600 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p><img src="https://imgur.com/vFYgJi2.jpg" alt="BB Girl Ume" /></p>
+<h6 id="ume--gian-faye-paguirigan--nikon-d7000-bullet-f28-bullet-160-bullet-iso-1000-bullet-50mm">Ume © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/2.8 &amp;bullet; 1/60 &amp;bullet; ISO-1000 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p><img src="https://imgur.com/TMzY5ji.jpg" alt="Guinness Draught" /></p>
+<h6 id="guinness--gian-faye-paguirigan--nikon-d7000-bullet-f28-bullet-160-bullet-iso-1600-bullet-50mm">Guinness © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/2.8 &amp;bullet; 1/60 &amp;bullet; ISO-1600 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p><img src="https://imgur.com/DT5Eyha.jpg" alt="Hitler" /></p>
+<h6 id="hitler--gian-faye-paguirigan--nikon-d7000-bullet-f28-bullet-160-bullet-iso-1100-bullet-50mm">Hitler © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/2.8 &amp;bullet; 1/60 &amp;bullet; ISO-1100 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p><img src="https://imgur.com/R53dPXn.jpg" alt="Shiitake" /></p>
+<h6 id="shiitake--gian-faye-paguirigan--nikon-d7000-bullet-f28-bullet-130-bullet-iso-800-bullet-50mm">Shiitake © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/2.8 &amp;bullet; 1/30 &amp;bullet; ISO-800 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p><img src="https://imgur.com/7eQD0wm.jpg" alt="Meo" /></p>
+<h6 id="meo--gian-faye-paguirigan--nikon-d7000-bullet-f28-bullet-130-bullet-iso-1600-bullet-50mm">Meo © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/2.8 &amp;bullet; 1/30 &amp;bullet; ISO-1600 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p><img src="https://imgur.com/uChF4fT.jpg" alt="Hacker-Pschorr" /></p>
+<h6 id="hacker--gian-faye-paguirigan--nikon-d7000-bullet-f2-bullet-115-bullet-iso-500-bullet-50mm">Hacker © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/2 &amp;bullet; 1/15 &amp;bullet; ISO-500 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p><img src="https://imgur.com/axHeDWw.jpg" alt="Fluorescent" /></p>
+<h6 id="fluores--gian-faye-paguirigan--nikon-d7000-bullet-f71-bullet-1200-bullet-iso-2000-bullet-50mm">Fluores © Gian Faye Paguirigan | NIKON D7000 &amp;bullet; f/7.1 &amp;bullet; 1/200 &amp;bullet; ISO-2000 &amp;bullet; 50mm</h6>
+
+<p><br /></p>
+
+<p>Now what I’m trying to figure out is how to extract EXIF data and include them on my posts without having to manually input them. Any suggestions on any existing technologies for this? I stumbled upon this repo: <a href="https://github.com/benib/jekyll-exiftag">jekyll-exiftag</a> but <a href="/colophon">Github Pages</a> won’t allow plugins. :(</p>
+
+<p>Feel free to email me or hit the comments section below.</p>
+:ET

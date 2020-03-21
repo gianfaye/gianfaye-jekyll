@@ -1,0 +1,96 @@
+I"�
+<p>Getting to understand your visitors is one of the crucial elements in web development. Just creating and putting up a website isn’t enough to help you identify the needs of your users. Without identifying the issues, you cannot put up a proper solution.</p>
+
+<p>Analytics has been with us for a very long time. And yet, most web development projects focus on the design and the structure of the website. While these are also essential part of web dev’t, <strong>web analytics</strong> should also be in line with them in terms of importance.</p>
+
+<h2 id="background">Background</h2>
+
+<p>My first encounter with web analytics was around 2010 when I was maintaining a blog. I used Google Analytics. I’ve learned that you can actually track the number of your unique visitors, number of pageviews, their location, even the device and browser they where using while accessing your site.</p>
+
+<p>After learning about a bit of search engine optimization or commonly known as SEO (both on-site and off-site) to increase my pageviews, I’ve learned about <em>bounce rates</em> - the more time the visitor spends on your page, the lower the ‘bounce’ rate you have. ‘Bounce’ literally meant when your visitors bounce off from your site. The lower the bounce rate, the more interesting content you have.</p>
+
+<h2 id="introduction-to-digital-analytics">Introduction to Digital Analytics</h2>
+
+<p>Recently, I was tasked to do <strong>Event Tracking</strong> and manage leads using <strong>Goals</strong> and <strong>Funnels</strong> on a project with Google Analytics. I had no idea how that does work nor have I been aware that you can actually track events on your website! Cool beans. After some research I discovered that Google offers digital analytics lessons on what they call <a href="https://analyticsacademy.withgoogle.com/course">Analytics Academy</a>. Cooler beans.</p>
+
+<h2 id="google-analytics-ui">Google Analytics UI</h2>
+
+<p>I was always confused with the UI before and didn’t know which is for which. The GA UI is divided into two: the <em>Reports</em> section and the <em>Admin</em> section. Self-explanatory, the Reports section contains reports and the Admin lets you set things up on your account.</p>
+
+<p>Under the Admins section, you are then given three options, the <em>Account</em>, <em>Property</em> and <em>View</em>.</p>
+
+<h3 id="account">Account</h3>
+<p>Lets you manage the websites you have.</p>
+
+<h3 id="property">Property</h3>
+<p>If your website has different languages and you want to track them separately, you can set different properties for them. Or, if you have a mobile version of you site, you can also set them as another Property.</p>
+
+<h3 id="view">View</h3>
+<p>Views are typically set up with your enviroments. The Default View tracks everything. You can set a Master View for your live site, and a Test View for your development site.</p>
+
+<h2 id="event-tracking">Event Tracking</h2>
+
+<p>With <a href="https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide">Event Tracking</a>, you can track almost all user interactions on your page - from a button clicked, to your embedded video being played.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;a href="#" onClick="_gaq.push(['_trackEvent', 'Category', 'Action', 'Label']);"&gt;Play&lt;/a&gt;
+</code></pre></div></div>
+
+<p>This can also be used to record case studies on a call-to-action object, like a specific button where the users click and submit their information and there goes your leads. This can also be used to test if the red button attracts more clicks than a green button - the most common but the best example of <a href="http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/">A/B Testing</a>.</p>
+
+<h2 id="pageview-tracking">Pageview Tracking</h2>
+
+<p>The first time I heard <a href="https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration?csw=1#_gat.GA_Tracker_._trackPageview">Pageview Tracking</a> I was a bit confused on how it differs from
+the number of pageview reports. This is then I discovered that this is used to track <em>virtual pageviews</em> on your page. For example, you are linking to a domain outside yours or you are linking a downloadable content.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_gaq.push(['_trackPageview', 'virtual-pagename']);
+</code></pre></div></div>
+
+<p><strong>Be mindful because it is case sensitive!</strong> I’ve used <code class="highlighter-rouge">_trackPageView</code> (capital V) instead of <code class="highlighter-rouge">_trackPageview</code> and it didn’t work.</p>
+
+<p><em>Why bother with pageview tracking when you can just do event tracking on the Download button!?</em></p>
+
+<p>Good point. You can track them with event tracking but you cannot use them on your Goals which is the next topic.</p>
+
+<h2 id="goals-and-funnels">Goals and Funnels</h2>
+
+<p>Goals are your actual goals for your website. For example, you have an ebook and requires your visitor to submit their email address or subscribe to your newsletter before they can download the ebook. You can set up that as your Goal.</p>
+
+<p>Funnels are a series of pages or virtual pages which leads to your Goal.</p>
+
+<p>Home -&gt; Subscription page -&gt; Confirmation link -&gt; Ebook download page</p>
+
+<p>To further your understanding, you can check out this article: 
+<a href="http://www.seotakeaways.com/the-geek-guide-to-understanding-funnels-in-google-analytics/">The Geek Guide To Understanding Funnels in Google Analytics</a></p>
+
+<h2 id="classic-ga-vs-universal-analytics">Classic GA vs Universal Analytics</h2>
+
+<p>Another note to take, there are two types of Google Analytics tracking methods out there. I wasn’t aware of this first and it lead to nothing good so let me at least inform whoever is reading this post if you’re still not aware of it. <em>Most</em> Google Analytics tutorials in existence used the syntax for the Classic Analytics, which is the old one. And the current tracking code on your GA Admin (if you migrated to the new GA) is the new one, Universal analytics. You might not want to interchange the two because they both differ in syntax and functions.</p>
+
+<p>This is what the <strong>Classic Analytics</strong> tracking code looks like:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-XXXXXXXX-X' ]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</code></pre></div></div>
+
+<p>This is what the <strong>Universal Analytics</strong> tracking code looks like:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXXXXX-X', 'gianfaye.com');
+ 	ga('send', 'pageview');
+</code></pre></div></div>
+
+<p><strong>Be careful not to use both tracking codes!</strong></p>
+
+<p>That’s it. I think I summed up everything I need to note for anyone introducing themselves with Google Analytics. If you have additional comments or suggestions you can just hit up the comment box below.</p>
+:ET

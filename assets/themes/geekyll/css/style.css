@@ -46,6 +46,10 @@ hr{
 	margin-top: 10px;
 }
 
+a:hover{
+  cursor: pointer;
+}
+
 #sidebar{
 	width: 30%;
 	float: left;
@@ -353,7 +357,7 @@ hr{
 	
 	#menu{
 		position: relative;
-		width: 585px;
+		width: max-content;
 		height: 20px;
 		margin: 0 auto;
 		z-index: 99999;
@@ -457,8 +461,6 @@ hr{
 
   .content img{
     max-width: 715px;
-    box-shadow: 1px 1px 3px #EEE;
-    border: 1px solid #EEE;
     width: 100%;
   }
 
@@ -534,7 +536,7 @@ hr{
 
     #about{ 
     	background: #000; 
-        color: #2fff00;
+      color: #2fff00;
 	    font-size: 12px;
 	    font-family: "Lucida Console", Monaco, monospace;
 	    padding: 2%;
@@ -542,6 +544,8 @@ hr{
 	    border: 1px dotted #999;
 	    margin: 0;
 	    text-align: left;
+      max-width: 520px;
+      margin: 0 auto;
     }
 
     #about a span{
@@ -564,55 +568,128 @@ hr{
 		
 		.project-item{
 			position: relative;
-			max-height: 60px;
+			max-height: 70px;
 			overflow: hidden;
-			padding: 25px 0;
-			border-bottom: 1px dashed #000;
+			padding: 25px 0; 
+      border: 10px solid white;
+      border-bottom: 0;
 			-webkit-transition: all 0.5s ease-out;
 			-moz-transition: all 0.5s ease-out;
 			-ms-transition: all 0.5s ease-out;
 			-o-transition: all 0.5s ease-out;
-			transition: all 0.5s ease-out;
+			transition: all 0.5s ease-out;   
 		}
-		
-		.project-item:hover{
-			max-height: 600px;
-		}
-		
+
+    .project-item:first-child{
+      border-top: none;
+    }
+    
+    .project-item:hover{
+      max-height: 600px;
+    }
+
+    .project-divider{
+      box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.3);
+      border: 1px dashed #00000000;
+      margin: 0 auto;
+      display: block;
+      position: relative;
+      width: calc(100% - 20px);
+    }
+
+  		
 		.project-details{
 			position: relative;
 			float: left;
 			width: 30%;
 			padding: 0 2% 2% 2%;
 			z-index: 1000;
-			margin-top: 3%;
+
+      -webkit-transition: all 0.5s ease-out;
+      -moz-transition: all 0.5s ease-out;
+      -ms-transition: all 0.5s ease-out;
+      -o-transition: all 0.5s ease-out;
+      transition: all 0.5s ease-out;
 		}
+
+      /*.project-item:nth-child(odd) .project-details{
+        margin-left: -20px; 
+      }*/
+
+        .project-details span.name-bracket{
+          font-family: 'VoyagerLight', Monaco, monospace;
+          position: absolute;
+          font-size: 4em;
+          top: 85px;
+          -webkit-transition: all 0.5s ease-out;
+          -moz-transition: all 0.5s ease-out;
+          -ms-transition: all 0.5s ease-out;
+          -o-transition: all 0.5s ease-out;
+          transition: all 0.5s ease-out;   
+        }
+
+        .project-details span.name-bracket.left{
+          left: 10px;
+        }
+
+        .project-details span.name-bracket.right{
+          right: 21px;
+        }
+    
+      .project-item:hover .project-details{
+        margin-top: 40px; 
+      }
+      .project-item.old:hover .project-details{
+        margin-top: 90px; 
+      }
+
+      .project-item:hover span.name-bracket{
+        top: 70px;
+      }
 		
 			.project-title{
 				padding: 5px;
-				background: black;
-				color: white;
+				/*background: black;
+				color: white;*/
 			}
 			
 				.project-title h3{
 					font-family: 'VoyagerLight', Monaco, monospace;
 					text-align: center;
-					font-size: 1em;
+					font-size: 2em;
 					letter-spacing: 1px;
 					margin: 0;
 					border: none;
 					padding: 5px 0;
 					font-style: normal;
+          font-weight: bold;
+          line-height: 1;
+          display: block;
 				}
 			
-			.project-subtitle h4{
-				text-align: right;
-				font-family: 'VoyagerRegular', Monaco, monospace;
-				font-size: 0.6em;
-				margin: 5px 5px 0 0;
-				padding: 0;
-				letter-spacing: 1px;
-			}
+      .project-subtitle {
+        margin-top: -10px;
+        margin-bottom: 30px;
+
+        -webkit-transition: all 0.5s ease-out;
+        -moz-transition: all 0.5s ease-out;
+        -ms-transition: all 0.5s ease-out;
+        -o-transition: all 0.5s ease-out;
+        transition: all 0.5s ease-out;
+      }
+    
+        .project-item:hover .project-subtitle{
+          margin-bottom: 10px; 
+        }
+
+        .project-subtitle h4{
+          text-align: center;
+          font-family: 'VoyagerRegular', Monaco, monospace;
+          font-size: 0.8em;
+          margin: 5px 5px 0 0;
+          padding: 0;
+          letter-spacing: 1px;
+        }
 			
 			.project-description{
 				padding: 5px;
@@ -620,24 +697,31 @@ hr{
 			
 				.project-description p{
 					width: 100%;
-					text-align: right;
-					color: #70706F;
-					line-height: 150%;
-					font-size: 0.7em;
-					margin: 0;
-  					font-family: "Lucida Console", Monaco, monospace;
+          text-align: center;
+          color: #313131;
+          line-height: 150%;
+          font-size: 13px;
+          margin: 0;
+          font-family: 'Amethysta', serif;
+          max-width: 240px;
+          margin: 0 auto;
 				}
 			
-			.project-type-item h5{
-				color: #FFF;
-				font-family: 'VoyagerRegular', Monaco, monospace;
-				font-size: 9px;
-				padding: 5px;
-				background: #090909;
-				text-align: right;
-				margin: 5px;
-				letter-spacing: 4px;
-			}
+      .project-type{
+        margin-top: 10px; 
+      }
+
+      .project-type-item {
+        text-align: center;
+      }
+
+  			.project-type-item h5{
+  				font-family: 'VoyagerRegular', Monaco, monospace;
+          font-size: 9px;
+          padding: 5px;
+          margin: 5px;
+          letter-spacing: 4px;
+  			}
 			
 			.project-launch{
 				text-align: center;
@@ -650,6 +734,10 @@ hr{
 				-o-transition: all 0.5s ease-out;
 				transition: all 0.5s ease-out;
 			}
+
+      .project-launch.live{
+         margin-top: -45px;
+      }
 			
 			.project-launch a{
 				display: block;
@@ -737,6 +825,10 @@ hr{
 				width: 100%;
 			}
 
+      .project-image.no-mobile img{
+        width: calc(100% - 50px);
+      }
+
 #clients{
 	bottom: 30px;
     position: relative;
@@ -747,11 +839,16 @@ hr{
 	}	
 
 	#clients img{
-		width: 100%;
-		border-radius: 100px;
-		-webkit-transition: all 0.3s;
-		-moz-transition: all 0.3s;
-		transition: all 0.3s;
+    width: 85%;
+    border-radius: 100%;
+    box-shadow: 1px 1px 3px #EEE;
+    border: 1px solid #EEE;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    max-width: 200px;
+    margin: 0 auto;
+    display: block;
 	}	
 	#clients img:hover{
 		-webkit-transform: scale(1.1);
@@ -759,10 +856,38 @@ hr{
 		transform: scale(1.1);
 	}			
 
+  .client-header h2{
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 4px solid #eee;
+    display: block;
+    margin: 0 auto;
+    border-left: 0;
+    padding: 0 0 10px 0;
+    position: relative;
+    width: max-content;
+    margin-bottom: 40px;
+  }
+
+  .client-portfolio li {
+    float: left;
+    list-style: none;
+    width: 20%;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+
 /* Custom container */
+.container-wide {
+  margin: 0 auto;
+  max-width: 1366px; 
+  width: 100%;
+}
+
 .container-narrow {
   margin: 0 auto;
-  max-width: 950px; }
+  max-width: 760px; 
+}
 
 .container-narrow > hr {
   margin: 30px 0; }

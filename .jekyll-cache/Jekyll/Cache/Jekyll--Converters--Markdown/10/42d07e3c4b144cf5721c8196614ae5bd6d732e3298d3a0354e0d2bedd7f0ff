@@ -1,0 +1,52 @@
+I"n
+<p><strong>UPDATE: Kloudsec shut down last August 1. <sup><a href="https://www.reddit.com/r/webdev/comments/4s3kmf/got_an_email_saying_that_kloudsec_will_be/">[Details here]</a></sup> Too bad the service was good, way too good to survive. I’ll be checking out <a href="https://letsencrypt.org/getting-started/">Let’s Encrypt</a> in the near future. If you have some tutorials on implementing this to a Github Page, feel free to share them on the comments section below.</strong></p>
+
+<p>If you are using <a href="https://pages.github.com/">Github Pages</a> for your site similar to what I have here at <a href="/colophon">gianfaye.com</a>, you may want to grab this neat tool by Kloudsec. As some of us may know, <a href="https://gist.github.com/coolaj86/e07d42f5961c68fc1fc8">Github does not currently support HTTPS on Github Pages with custom domains</a>.</p>
+<hr />
+
+<p><small><a href="https://kloudsec.com/">Kloudsec</a>, in general, is an open Content Delivery Network (CDN) platform for programmers. They have servers at Singapore, US, and London, and are planning to expand to several locations. For the non-techies, visitors on your site will access the nearest server to them, serving your site faster as compared to just being served from one location. To know more about Kloudsec, <a href="https://docs.kloudsec.com/">visit their docs here</a>.</small></p>
+<hr />
+
+<p><a href="https://kloudsec.com/github-pages/new">Kloudsec for Github Pages</a> provides HTTPS support for your Github custom domain page with a <a href="https://letsencrypt.org/">LetsEncrypt</a> certificate over TLS 1.2, and a CDN for free. I received an email from Steven Goh, their CEO, about this tool. I’m not sure how they got my email address and knew that I have a custom domain for my Github Page but I think there are others who also got this email. I’m pretty sure they’re spreading the news out to everyone, I’m also doing my part as they religiously replied to my emails for my questions.</p>
+
+<p>The process was swift, and I got all the configuration set up in just a few minutes and the site live with HTTPS in a few days.</p>
+
+<h2 id="pics-or-it-didnt-happen">Pics or it didn’t happen</h2>
+
+<p><img src="https://i.imgur.com/QLeV8rO.png" alt="Kloudsec email" /></p>
+
+<p><img src="https://i.imgur.com/9y0miic.png" alt="Kloudsec dashboard overview" /></p>
+
+<p><img src="https://i.imgur.com/4mEmwOm.png" alt="Kloudsec dashboard reliability" /></p>
+
+<p><img src="https://i.imgur.com/eg2hw6f.png" alt="My site's certificate" /></p>
+
+<h2 id="take-note">Take Note</h2>
+
+<ol>
+  <li>You should remove your old A records.</li>
+  <li>You should wait for 48-72 hours for the propagation.</li>
+  <li>Well, if you’re using Github, I would expect most of you already know 1 &amp; 2. Just an FYI for those who don’t.</li>
+  <li>You may <a href="https://docs.kloudsec.com/v1/discuss/56e90d37dae96a0e00de0a5d">redirect all your http traffic to your new https domain</a>. How awesome is that?</li>
+  <li>If you are using Disqus (or other commenting system) for your site, make sure to update the URL with the https - both on Disqus admin and your code.</li>
+  <li>If you turned the redirect on, make sure all your resources are also loaded via https to prevent the Mixed Content warning on Google Chrome, or its counterpart on other browsers.</li>
+  <li>When your site is offline, they will serve a cached copy of your site to your visitors.</li>
+  <li>Enjoy your site being served over https.</li>
+</ol>
+
+<hr />
+
+<p>Here’s my site report from Qualys SSL Labs:</p>
+
+<p><img src="https://i.imgur.com/aYgppeW.png" alt="My site's Qualys SSL report" /></p>
+
+<p>Yay, an A+! <strong>Your turn.</strong></p>
+
+<h5 id="check-out">Check out:</h5>
+
+<ul>
+  <li><a href="https://encryptallthethings.net/">Encrypt All the Things</a> - a movement to encourage all online users: companies, organizations, individuals, to follow strict precautions and best practices for securing their data and transactions.</li>
+  <li><a href="https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure">Marking HTTP As Non-Secure</a> - a proposal by the Chrome Security to mark sites served over http as not secure</li>
+</ul>
+
+:ET

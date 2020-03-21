@@ -1,0 +1,164 @@
+@import 'base/tokens'; 
+
+
+// Custom styling for the landing page
+
+#landing{
+  .navbar{
+    //position: relative;
+    height: 100px;
+
+    .nav{
+      &__toolbar{
+        max-width: 1200px;
+        margin: 0 auto;
+        border-bottom: none;
+        background: transparent;
+
+        &--right{
+          li:last-child{
+            margin-right: -20px;
+          }
+        }
+      }
+
+      &__brand{
+        margin-left: -10px;
+
+        &-logo{
+          display: inline;
+
+          a{
+            color: $gray-07;
+          }
+
+          span{
+            letter-spacing: 1px;
+          }
+
+          picture{
+            height: 55px;
+            margin-right: 10px;
+          }
+        }
+      }
+    }
+
+    &.sticked{
+      top: 0 !important;
+      height: 60px;
+
+      .nav__toolbar li{
+        height: 40px
+      }
+
+      .nav__brand-logo img{
+        max-width: 40px;
+      }
+
+      .nav__brand-logo picture{
+        height: 43px;
+        margin-right: 0;
+      }
+    }
+  }
+
+  .section{
+    &__content{
+      max-width: 1200px;
+      margin: 0 auto;
+      border-bottom: none;
+      padding-left: 0;
+      padding-right: 0;
+
+      &:not(.sticky){
+        border-top: 60px solid transparent;
+      }
+    }
+  }
+
+  .jumbo{
+    &__header{
+
+      &.header{
+        &--1{
+          font-family: "Cabin";
+          font-size: 4rem;
+        }
+        &--2{
+          font-size: 1.25rem;
+          text-align: right;
+          margin-right: 3px;
+          margin-top: -12px;
+        }
+        &--3{
+          font-size: 1rem;
+          margin-top: 10px;
+          margin-bottom: 20px;
+          background: beige;
+
+          span{
+            font-family: "Cabin";
+            font-size: 1.5rem;
+            padding: 10px 5px;
+            display: inline-block;
+          }
+        }
+        &--4{
+          font-size: 1.25rem;
+          margin: 10px;
+          display: inline;
+          vertical-align: middle;
+
+          span{
+            font-family: "Cabin";
+            font-size: 1.25rem;
+            padding: 5px 10px;
+            display: inline-block;
+            background: #000;
+            color: #FFF;
+            margin-left: 5px;
+            margin-right: 5px;
+          }
+        }
+        &--5{
+          font-size: 1.25rem;
+        }
+        &--5{
+          font-size: 1.25rem;
+        }
+      }
+    }
+
+    &__figure{
+      width: auto;
+      position: absolute;
+      
+      img{
+        width: 100%;
+      }
+
+      &.figure{
+        &--1{
+          top: -20vh;
+          right: -10vw;
+          display: none;
+
+          figure{
+            z-index: 1;
+            width: 1000px;
+            position: relative;
+            margin: 0 auto;
+          }
+        }
+
+        &--2{
+          top: -17vh;
+          right: -60vw;
+          width: 3000px;
+          transform: scaleX(-2) rotate(30deg);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,178 @@
+I"�<
+<p>This post is a collation of articles and other references backing up a personal research about the current state of security of Philippine online banking portals. The purpose of this research is mainly educational and encouraging awareness of our online activities — one of which is online banking.</p>
+
+<hr />
+
+<p><small><em>Disclaimer: I am no expert in Information Security or Cybersecurity and I have minimal technical knowledge of the aforementioned fields as of this typing. If you are an expert on any of these fields and you have any concerns or additional input, feel free to post on the comments section below.</em></small></p>
+
+<hr />
+
+<p>The main goal for this research is to answer this question:</p>
+
+<blockquote>
+  <p>Is your online banking secure enough?</p>
+</blockquote>
+
+<p><strong>Cybersecurity</strong>, or security in general, is a <em>cat-and-mouse</em> chase. Each day, software vulnerabilities and security holes are found, reported, and patched. But sometimes, <a href="https://en.wikipedia.org/wiki/Zero-day_(computing)">a mouse can outsmart the cat</a>. Attackers can find and exploit these vulnerabilities before they could be known and fixed by a patch. The users of the system will always be the victims.</p>
+
+<p>There are techniques and technologies that help secure a system. The crucial part to keeping a system secure is to always use the latest release of these technologies as most likely the reason for the release would be a security patch to fix a recently discovered vulnerability.</p>
+
+<p>What happens when the system you are using does not follow this practice? Well, it is like sending <a href="http://www.rappler.com/life-and-style/technology/42792-anonymous-hacks-ombudsman-government-websites">an open invite to attackers</a>.</p>
+
+<p>For this research, I will make examples of banks I can think of while writing this. I will use Google Chrome for checking the details of my connection to the following online banking portals and <a href="https://www.ssllabs.com/index.html">Qualys SSL Labs</a> scanner for a deeper review. Technologies such as encryption, cryptography, and protocols will be the main basis for this research.</p>
+
+<hr />
+<hr />
+
+<h2 id="unionbank">UnionBank</h2>
+
+<p>The main portal for personal banking is under this domain: <em>ebanking.unionbank.ph</em></p>
+
+<p><img src="/assets/images/posts/2015/online-banking-unionbank.jpg" alt="UnionBank Connection Details" /></p>
+
+<p><strong>“This site uses a weak security configuration (SHA-1 signatures), so <span style="color:red">your connection may not be private</span>.”</strong></p>
+
+<p><strong>“The certificate chain for this website contains at least one certificate that was signed <span style="color:red">using a deprecated signature algorithm based on SHA-1</span>.”</strong></p>
+
+<p><span style="color:red">SHA-1</span> has been vulnerable <a href="https://www.schneier.com/blog/archives/2005/02/sha1_broken.html">since 2005</a>. More info <a href="https://en.wikipedia.org/wiki/SHA-1#Attacks">here</a> and the full report on <a href="http://eprint.iacr.org/2005/010.pdf">this document</a>. Security experts recommend <a href="https://www.schneier.com/blog/archives/2015/10/sha-1_freestart.html">SHA-2 or SHA-3</a>.</p>
+
+<hr />
+
+<p><a href="https://sites.google.com/site/itstheshappening/">“Microsoft, Google and Mozilla have all announced that their respective browsers will stop accepting SHA-1 based SSL certificates by 2017 (and that SHA-1-based certificates should not be issued after 2015). In conclusion, our estimates imply SHA-1 collisions to be now (Fall 2015) within the resources of criminal syndicates, two years earlier than previously expected and one year before SHA-1 will be marked as unsafe in modern Internet browsers. This motivates our recommendations for industry standard SHA-1 to be retracted as soon as possible.”</a></p>
+
+<hr />
+
+<p><strong>“The connection uses <span style="color:red">TLS 1.0</span>.”</strong></p>
+
+<p><span style="color:red">TLS 1.0</span>? Is there an acceptable reason why an online banking portal uses an older protocol? Funny how there’s a saying circulating the InfoSec community: <em>“You don’t have to be a bank to upgrade your TLS implementation.”</em> Perhaps, the ‘bank grade security’ IRL doesn’t apply online? Hmmm…</p>
+
+<p>TLS 1.0 has been introduced in …wait for it… 1999! <em>*badum-tss*</em> The newer protocols are TLS 1.1 (released 2003) and TLS 1.2 (released 2008). And browsers started supporting TLS 1.2 since 2013 with almost all modern browsers supporting it by 2014. Why so behind? Just why?</p>
+
+<p>UnionBank’s server also uses <span style="color:red">SSL 3</span>. If you are not yet aware why this is a red flag, I’ll save the explanation for later on another bank who also implemented SSL 3. (<a href="https://www.youtube.com/watch?v=_4IRMYuE1hI" target="_blank">Click me.</a>)</p>
+
+<p><strong>“Your connection to ebanking.unionbankph.com is <span style="color:red">encrypted using an obsolete cipher suite</span>.”</strong></p>
+
+<p>The server accepts the <span style="color:red">RC4</span> encryption algorithm by which multiple vulnerabilities are found and can be exploited by the following attacks:</p>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Fluhrer,_Mantin_and_Shamir_attack">Fluhrer, Mantin and Shamir attack</a> (2001)</li>
+  <li><a href="https://en.wikipedia.org/wiki/RC4#Klein.27s_attack">Klein’s attack</a> (2005)</li>
+  <li><a href="https://en.wikipedia.org/wiki/RC4#Royal_Holloway_attack">Royal Holloway attack</a> (2013)</li>
+  <li><a href="https://en.wikipedia.org/wiki/Bar-mitzvah_attack">Bar-mitzvah attack</a> (2015)</li>
+  <li><a href="https://www.rc4nomore.com/">NOMORE attack</a> (2015)</li>
+</ul>
+
+<p>I planned to save negative remarks to myself but <em>dear lord</em> – UnionBank’s server also supports 512-bit export suites – plain RSA. <a href="https://www.rapidssl.com/2048-bit-certificate-compliance/">Any less than 2048-bit is considered weak.</a> To put it bluntly, this is undoubtedly <span style="color:red">A VERY UNSECURED SITE</span>. This obsolete cipher suite is obsolete for many reasons: one of them is being susceptible to the <strong>FREAK attack</strong>. <a href="https://freakattack.com/">“It allows an attacker to intercept HTTPS connections between vulnerable clients and servers and force them to use weakened encryption, which the attacker can break to steal or manipulate sensitive data.”</a> Meaning, if an attacker knows you do online banking at UnionBank, they can <a href="https://en.wikipedia.org/wiki/Man-in-the-middle_attack">act as a middleman</a> between you and the website and do whatever they want with your data.</p>
+
+<p><img src="/assets/images/posts/2015/online-banking-unionbank-scan.jpg" alt="UnionBank Security Scan Results" /></p>
+
+<p><strong>UnionBank Security: <span style="color:red">DANGER ZONE</span>.</strong> <small>[<a href="/assets/docs/security-report-ebanking-unionbankph.pdf">Full Report</a> | <a href="https://www.ssllabs.com/ssltest/analyze.html?d=ebanking.unionbankph.com&amp;s=203.82.36.182">Latest Scan</a>]</small></p>
+
+<hr />
+<hr />
+
+<h2 id="bank-of-the-philippine-islands">Bank of the Philippine Islands</h2>
+
+<p>The main portal for personal banking is under this domain: <em>secure1.bpiexpressonline.com</em></p>
+
+<p><img src="/assets/images/posts/2015/online-banking-bpi.jpg" alt="BPI Connection Details" /></p>
+
+<p>BPI uses the <span style="color:red">TLS 1.0</span> protocol using <span style="color:red">cipher block chaining (CBC)</span> for encryption.</p>
+
+<p>Again, the only secure protocol version is <a href="https://www.entrust.com/moving-tls-1-2/">TLS 1.2</a>. Older protocols have known vulnerabilities. TLS 1.0 using CBC-mode for encryption is open to the <a href="http://www.isg.rhul.ac.uk/tls/Lucky13.html">Lucky 13 attack</a>. Their server also accepts the <span style="color:red">RC4</span> cipher for which, as I cited above, is vulnerable to a number of attacks since 2001.</p>
+
+<p><img src="/assets/images/posts/2015/online-banking-bpi-scan.jpg" alt="BPI Security Scan Results" /></p>
+
+<p><strong>BPI Security: <span style="color:orange">UNSECURED</span>.</strong> <small>[<a href="/assets/docs/security-report-secure1-bpiexpressonline.pdf">Full Report</a> | <a href="https://www.ssllabs.com/ssltest/analyze.html?d=secure1.bpiexpressonline.com">Latest Scan</a>]</small></p>
+
+<hr />
+<hr />
+
+<h2 id="metrobank">Metrobank</h2>
+
+<p>The main portal for personal banking is under this domain: <em>personal.metrobankdirect.com</em></p>
+
+<p><img src="/assets/images/posts/2015/online-banking-metrobank.jpg" alt="Metrobank Connection Details" /></p>
+
+<p>Good news, Metrobank users. As you can see on the screenshot, the site uses the latest protocol: <span style="color:green">TLS 1.2</span>, a modern cipher suite: <span style="color:green">DHE_RSA with AES_128_GCM</span>, and <span style="color:green">RSA 2048-bit key</span> for encryption.</p>
+
+<p>The Metrobank server supports <span style="color:orange">Diffie-Hellman (DH) key exchange parameters</span> where a weakness has been uncovered and is prone to the Logjam attack. <a href="https://weakdh.org/">“The Logjam attack allows a man-in-the-middle attacker to downgrade vulnerable TLS connections to 512-bit export-grade cryptography.”</a> And as I mentioned above, any key lower than 2048 bits is weak. However, their server also supports <span style="color:green">TLS_FALLBACK_SCSV</span> to <a href="http://www.exploresecurity.com/poodle-and-the-tls_fallback_scsv-remedy/">prevent protocol downgrade attacks</a>. Good job, Metrobank.</p>
+
+<p><img src="/assets/images/posts/2015/online-banking-metrobank-scan.jpg" alt="Metrobank Security Scan Results" /></p>
+
+<p><strong>Metrobank Security: <span style="color:green">SECURE</span>.</strong> <small>[<a href="/assets/docs/security-report-personal-metrobankdirect.pdf">Full Report</a> | <a href="https://www.ssllabs.com/ssltest/analyze.html?d=personal.metrobankdirect.com&amp;s=210.213.81.109&amp;latest">Latest Scan</a>]</small></p>
+
+<hr />
+<hr />
+
+<h2 id="eastwest-bank">EastWest Bank</h2>
+
+<p>The main portal for personal banking is under this domain: <em>www.eastwestpersonal.com.ph</em></p>
+
+<p><img src="/assets/images/posts/2015/online-banking-eastwest.jpg" alt="EastWest Bank Connection Details" /></p>
+
+<p>As you can see, EastWest Bank is using the latest protocol: <span style="color:green">TLS 1.2</span>. Disappointingly, like UnionBank, they also use <span style="color:red">SSL 3</span>, which is an 18-year-old obsolete technology. With the SSL 3 implementation, even with TLS 1.2, EastWest Bank’s banking portal is susceptible to the <a href="https://community.qualys.com/blogs/securitylabs/2014/10/15/ssl-3-is-dead-killed-by-the-poodle-attack">POODLE attack</a>. <a href="https://googleonlinesecurity.blogspot.com.au/2014/10/this-poodle-bites-exploiting-ssl-30.html">“This vulnerability allows the plaintext of secure connections to be calculated by a network attacker.”</a> Meaning, logging in on this site is unsafe. Attackers can steal your username and password and exploit your data. More info about the POODLE attack <a href="https://www.openssl.org/~bodo/ssl-poodle.pdf">here</a>. They SHOULD DISABLE SSL 3 on their servers as soon as possible. If disabling it is out of the picture for some reason, the remedy would be to implement the <span style="color:green">TLS_FALLBACK_SCSV</span> mechanism like what Metrobank did.</p>
+
+<p>They are also using <span style="color:red">SHA1 signatures with plain RSA as the encryption key in CBC-mode with RC4 cipher suite</span>. And as I mentioned on the previous reviews, all vulnerable to known attacks.</p>
+
+<p><img src="/assets/images/posts/2015/online-banking-eastwest-scan.jpg" alt="EastWest Security Scan Results" /></p>
+
+<p><strong>EastWest Bank Security: <span style="color:red">DANGER ZONE</span>.</strong> <small>[<a href="/assets/docs/security-report-eastwestpersonal-com.pdf">Full Report</a> | <a href="https://www.ssllabs.com/ssltest/analyze.html?d=eastwestpersonal.com.ph&amp;s=203.177.229.123">Latest Scan</a>]</small></p>
+
+<hr />
+<hr />
+
+<h2 id="banco-de-oro">Banco de Oro</h2>
+
+<p>The main portal for personal banking is under this domain: <em>online.bdo.com.ph</em></p>
+
+<p><img src="/assets/images/posts/2015/online-banking-bdo.jpg" alt="BDO Connection Details" /></p>
+
+<p>BDO is using the latest protocol: <span style="color:green">TLS 1.2</span> but Chrome reported that the site is <span style="color:red">encrypted using an obsolete cypher suite</span>. The main trigger for this warning is the <span style="color:red">AES_128_CBC</span> cipher.</p>
+
+<p>On <a href="https://www.chromium.org/Home/chromium-security/education/tls">Chromium Security standards</a>, ‘modern’ cryptography entails:</p>
+
+<ul>
+  <li>TLS 1.2 (protocol)</li>
+  <li>AES_128_GCM or CHACHA20_POLY1305 (cipher suites)</li>
+  <li>DHE_RSA or ECDHE_RSA or ECDHE_ECDSA (key exchange)
+<br />
+<br /></li>
+</ul>
+
+<h5 id="related-link-google-chrome-your-connection-to-website-is-encrypted-with-obsolete-cryptography-on-information-security-stackexchange">Related link: <a href="http://security.stackexchange.com/questions/83831/google-chrome-your-connection-to-website-is-encrypted-with-obsolete-cryptograph">Google Chrome “Your connection to website is encrypted with obsolete cryptography”</a> on Information Security StackExchange</h5>
+
+<p>Notice the difference on the second item: <em>CBC</em> refers to cipher block chaining and <em>GCM</em> to Galois/Counter Mode.</p>
+
+<p>GCM is another <a href="https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation">mode of operation</a> that is an <a href="https://en.wikipedia.org/wiki/Authenticated_encryption">authenticated encryption algorithm</a> while CBC is a common mode.</p>
+
+<p>And as previously mentioned, CBC-mode in TLS 1.0 is susceptible to the Lucky 13 attack. However, another variation of the POODLE bug has been uncovered late 2014 that also affected TLS implementations with CBC-mode encryption. <a href="https://community.qualys.com/blogs/securitylabs/2014/12/08/poodle-bites-tls">TLS 1.2 is reported safe</a> from this attack.</p>
+
+<p>As an additional layer of security, BDO also supports <span style="color:green">TLS_FALLBACK_SCSV</span>.</p>
+
+<p><img src="/assets/images/posts/2015/online-banking-bdo-scan.jpg" alt="BDO Security Scan Results" /></p>
+
+<p><strong>BDO Bank Security: <span style="color:green">SAFE AND SECURE</span>.</strong> <small>[<a href="/assets/docs/security-report-online-bdo-com.pdf">Full Report</a> | <a href="https://www.ssllabs.com/ssltest/analyze.html?d=online.bdo.com.ph&amp;s=203.177.92.11">Latest Scan</a>]</small></p>
+
+<hr />
+<hr />
+
+<p>In summary:</p>
+
+<ul>
+  <li>
+    <p>Two banks are graded <span style="color:green">SECURE</span>: <strong>Metrobank</strong> and <strong>Banco de Oro</strong> – Safe to use for online banking.</p>
+  </li>
+  <li>
+    <p>One bank is graded <span style="color:orange">UNSECURED</span>: <strong>Bank of the Philippine Islands</strong> – Use caution when entering sensitive data.</p>
+  </li>
+  <li>
+    <p>Two banks are graded as <span style="color:red">DANGER ZONES</span>: <strong>Unionbank</strong> and <strong>EastWest Bank</strong> – Not safe to use.</p>
+  </li>
+</ul>
+
+<p>If you have questions, objections, requests, suggestions, or concerns, feel free to start a discussion on the comments section below.</p>
+
+<p><strong>Be safe online.</strong></p>
+
+:ET

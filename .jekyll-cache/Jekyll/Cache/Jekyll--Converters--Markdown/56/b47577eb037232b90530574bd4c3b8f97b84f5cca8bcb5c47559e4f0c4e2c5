@@ -1,0 +1,26 @@
+I"(	
+<h1 id="about-this-site">About This Site</h1>
+
+<p>This site is built using <a href="http://jekyllrb.com/">Jekyll</a> and is hosted under <a href="http://pages.github.com/">GitHub Pages</a> on my <a href="https://github.com/gianfaye">GitHub</a> account.</p>
+
+<h2 id="web-standards">Web Standards</h2>
+
+<p>In accordance to <a href="http://www.w3.org/">World Wide Web Consortium</a>’s Markup Validation Service, the documents on this website have been successfully checked as <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/index.html">XHTML1.0 Strict</a> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/assets/themes/geekyll/css/style.css">CSS level 3</a>.</p>
+
+<h2 id="license">License</h2>
+
+<p>All published works under this domain is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. You are free to share and distribute as long as you credit the work to the publisher under this domain.</p>
+
+<h4 id="special-thanks">Special Thanks:</h4>
+<ul>
+  <li><a href="http://jekyllrb.com/">Jekyll</a> by <a href="http://tom.preston-werner.com/">Tom Preston-Werner</a>, <a href="http://quaran.to/">Nick Quaranto</a>, and the <a href="https://github.com/mojombo/jekyll/graphs/contributors">full list of contributors</a>.</li>
+  <li><a href="http://jekyllbootstrap.com/">Jekyll Bootstrap</a> by Jade Dominguez for the headstart.</li>
+  <li><a href="http://daringfireball.net/projects/markdown/">Markdown</a> by John Gruber for the text to HTML conversion tool used on most of the posts here.</li>
+  <li><a href="http://gimp.org">GIMP</a> - used to create and edit images for this site. And <a href="http://en.wikipedia.org/wiki/GIMP#Mascot">Wilber</a> for being my companion for 7 years now.</li>
+  <li>Typefaces: <a href="http://www.behance.net/gallery/VGER-Grotesque/6636573">V.GER (Voyager) Grotesque</a> by Mateo Rios and Tomas Saldarriaga &amp; <a href="http://www.google.com/fonts/specimen/Amethysta">Amethysta</a> by Cyreal.</li>
+  <li>And of course, I still would like to mention <a href="http://www.w3.org/People/Berners-Lee/">Sir TimBL</a> for making this web geekery <a href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html">possible</a>.</li>
+</ul>
+
+<p><br />
+<br /></p>
+:ET

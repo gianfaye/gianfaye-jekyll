@@ -1,0 +1,43 @@
+I"P
+<p>One of my interns at PULP, who is presently a Microsoft Student Partner, invited me to join <strong>“Openness Night: 24-Hour Hackathon”</strong> (<a href="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/q71/s720x720/1011712_10151891403957422_1102241871_n.jpg">view poster</a>) which will happen on October 12 to 13 at the Microsoft Philippines building. And I said YES.</p>
+
+<p><em>Whoa. Whoa. Whoa.</em> First off, I’ve never joined any hackathons ever. I’ve witnessed emerging accounts of hackathons here in the Philippines, which is impressive, but I never joined one. But why, you ask? Well, the fact that I easily engulf myself in a <em>‘I can’t do this’</em> state was a dilemma of my old self.</p>
+
+<p>But hell, I told my current self, this sounds fun (and crazy). The hell with <em>‘I can’t do this’</em> mentality. I can pretty much do anything if I wanted to. <em>/winks/</em></p>
+
+<p>And so with the challenge…</p>
+
+<h3 id="develop-an-open-source-windows-8-application-and-get-the-chance-to-win-surprise-prizes">Develop an open source Windows 8 Application and get the chance to win surprise prizes!</h3>
+
+<p>Let’s break that into pieces…</p>
+
+<p>../<strong>Windows 8</strong></p>
+
+<p>Cool. So I’ve never developed a Windows 8/Windows Phone application before although I have installed and got around Windows 8 Developer Preview that was released around early 2012. That pretty sums up my Windows 8 experience.</p>
+
+<p>../<strong>Open Source</strong></p>
+
+<p>Three cheers for the open source community! I’ve always been a fan of open source, it could be because I got to see how horrible <a href="/project/infoman-coop-system/">some proprietary software</a> could become, and because I just like innovation and tinkering stuff with all the freedom you can get. If you have read <a href="/blog/everyday-is-a-starting-point/">this post</a>, I mentioned <em>“After or while learning, and if I gain enough skill, I would like to focus on creating or contributing to open-source projects.”</em> This could be a head start!</p>
+
+<p>../<strong>Application Development</strong></p>
+
+<p>Most of my past projects are of web development. Good thing while researching about Windows 8 app development I’ve read that it is HTML/CSS/JS-friendly and certainly <a href="http://www.windowsstore.com/developers/web">web developer-friendly</a>. So the Windows 8 app me and my intern-gone-hackathon-partner will probably be web-based.</p>
+
+<p>../<strong>Chance to win surprise prizes!</strong></p>
+
+<p>Ha. I am not expecting to win but perks would be awesome. (Who wouldn’t want <em>surprise</em> prizes!?) Could it be a new phone? I’m actually planning to buy a new phone since my phone is currently indisposed (oh I meant broken) aaaand wouldn’t it be nice if I’d get my new phone from a hackathon. <em>Heehee.</em></p>
+
+<h2 id="the-exciting-part">The Exciting Part</h2>
+
+<p>And so I was invited yesterday and whilst typing this I can’t contain my excitement. The most exciting part is I already got an idea while my partner explained to me the <a href="https://skydrive.live.com/view.aspx?resid=E50580EA1EFC4C69!298&amp;cid=e50580ea1efc4c69&amp;app=WordPdf">mechanics</a>. I already sketched some drafts for the app - which will be a secret ‘til the event itself. Or would you like me to give a hint?</p>
+
+<h2 id="tech-stack">Tech Stack</h2>
+
+<p>And so today I gathered resources and planned the tech stack we’ll be using for the Windows 8 app. I also got a name for it (hell, I wouldn’t sleep last Monday ‘til I got a proper name). So here’s a hint - the app would be a helpful tool for autodidacts (like me) who are into MOOCs. <em>/winks/</em></p>
+
+<p>The proposed tech stack as of this typing would be composed of (but not limited to): Backbone, Promises, jQuery, Node.js (Express), MongoDB, and Redis. We’ll also be checking out if we could use Moodle for the application. As for the hardware and as a future feature (will not be a part of the initial release), I’m planning to use WebRTC (for video chat/calling) but I’m not sure if it could work on a Windows 8 app as its platform is the web browser. But we’ll see if we could work around with it or find some alternatives. I have stumbled upon Miracast being implemented on Windows 8.1 and it would be cool if we could integrate it with the app. (As of now I’m not sure if it is possible but we’ll see!)</p>
+
+<p>And so that pretty sums up this post, on Thursday and Friday we’ll be attending <a href="https://opennessnighthackbootcamp.eventbrite.com/">Openness Night Windows 8 App Dev Boot Camp</a> to learn more about Windows 8 app development. As of now ‘til tomorrow I’ll be depending on tutorials online and oh - they also got neat courses on <a href="http://microsoftvirtualacademy.com">Microsoft Virtual Academy</a>.</p>
+
+<p>I’ll be updating this blog as we move forward with the preparation. :)</p>
+:ET

@@ -1,0 +1,193 @@
+I"�%
+<p><strong>A summary of last year’s DevCon Summit</strong></p>
+
+<p><img src="/assets/images/posts/2015/devcon-2014-stage.jpg" alt="DevCon 2014 stage" /></p>
+
+<p>Last November 29 I participated on the <a href="http://summit.devcon.ph/2014/">DevCon Summit 2014</a> that took place at the AlphaLand Southgate. It is quite an overwhelming experience to be surrounded by fellow developers while spotting some familiar faces. I saw my college professor, a few ex-coworkers, and awesome folks I follow online.</p>
+
+<p>So let’s get through with the topics…</p>
+
+<p><img src="/assets/images/posts/2015/topics-discussed-on-devcon-2014.png" alt="A dissection of the topics discussed on DevCon 2014" /></p>
+
+<p>Most of the event was covered with companies offering opportunities for developers seeking employment or change of, I understand that part of the audience are students looking for companies for their internships as well as fresh grads looking for their first job. This is fine with me considering I’ve been there. It’s a quick overview of the things I’ve managed to walk through as well as a few things I should have known in the past.</p>
+
+<p>One company tackled the difference between working as a freelancer versus as a full-time employee, with pros and cons for each. Although a bit biased as they are hiring full-time employees ;), a talk about getting noticed on E-lance and Odesk put an equilibrium to the atmosphere.</p>
+
+<p>These are <em>nice-to-hear</em> talks if you are currently employed. Otherwise, a good reference for HR managers on how to get reach to and hire developers. (See, this event isn’t just for developers.) Hence, this section of this post:</p>
+
+<h2 id="tips-to-reach-and-hire-developers">Tips to reach and hire developers</h2>
+
+<p><strong>Participate on developer communities like DevCon.</strong> It is useful to reach developers on their nest. Most developers attend conferences like DevCon to:
+​</p>
+
+<ul>
+  <li>
+    <p>Look for opportunities</p>
+  </li>
+  <li>
+    <p>Learn from the masters</p>
+  </li>
+  <li>
+    <p>Meet fellow developers</p>
+  </li>
+  <li>
+    <p>Learn something new</p>
+  </li>
+</ul>
+
+<p><strong>Minimize self-promotion.</strong> When speaking to hundreds of developers, it is important to not only showcase who you are, what you do, but mostly how you can help them and give value to their career and learning. Some speakers obviously bored the audience due to overloaded self-promotion talks.</p>
+
+<p><strong>Prepare a mindblowing reference of your company.</strong> Your company image on print, online and personal reach should not indicate any signs of unprofessional touch. Developer conferences also reach designers. You should consider that the good and the best developers and designers have very keen eyes for details. If you want to hire the best, you should show them that you are the best. Your business cards should be mindblowing, your website should be decent, and the person appointed to reach the developers should also talk well. There’s a case on the event where the speaker can’t properly construct a sentence, doesn’t know how to use grammatically correct words, and spoke Taglish. And you can hear the audience mumbling and correcting him. Not a good face for a brand.</p>
+
+<p><strong>Show them what to expect on their work environment.</strong> Developers are not just looking for a decent salary, they prefer that they can comfortably do their job (and can be very particular about this) so they need to know what to expect on the environment they’re going into. Cubicles? Work from home? Free lunch? Name it.</p>
+
+<hr />
+
+<h2 id="technical-development-best-practices">Technical (Development, Best Practices)</h2>
+
+<p>The main course of the event for the developers are the following technical talks:</p>
+
+<ul>
+  <li>
+    <p><strong>Android</strong> by Evan Dale Aromin, Philippine Android Developers Community</p>
+  </li>
+  <li>
+    <p><strong>iOS</strong> by Allen Tan, White Widget</p>
+  </li>
+  <li>
+    <p><strong>Windows Phone</strong> by Joben Rara, Microsoft Philippines</p>
+  </li>
+  <li>
+    <p><strong>Bluemix for the Web</strong> by Alexis Pantola, IBM Philippines</p>
+  </li>
+  <li>
+    <p><strong>The “What” and “Why” of NoSQL</strong> by Matias Cascallares, MongoDB</p>
+  </li>
+  <li>
+    <p><strong>Introducing FB Mobile BUILD solutions and FbStart</strong> by Calvin Kim, Facebook</p>
+  </li>
+  <li>
+    <p><strong>Automated Testing</strong> by JV Cuevas, Deltek</p>
+  </li>
+  <li>
+    <p><strong>Git &amp; GitHub Best Practices</strong> by Sim Domingo, GitHub</p>
+  </li>
+</ul>
+
+<h3 id="on-android-ios-and-windows-phone">On Android, iOS, and Windows Phone</h3>
+<p>The audience were asked to raise their hands if they are developing for the web, and if they are developing for mobile. Almost all of the developers who raised their hands are developing for the web, and only a few raised that they are developing for mobile. The speaker was surprised to know this and disclosed that almost all countries he has spoken to are on the mobile development track. This raised a concern that the Philippine developer communities are still behind on the mobile-first movement.</p>
+
+<h3 id="on-automated-testing">On Automated Testing</h3>
+<p>The speaker shared the advantages of using automated testing on the development cycle. He also shared the best automation tools to use: MS CodeUI (Microsoft), Quick Test Professional (HP), Selenium (Open Source), JUnit / NUnit (Unit Testing), eggPlant (Test Plan), SoapUI (Web Services)</p>
+
+<h3 id="on-git-and-github-best-practices">On Git and Github Best Practices</h3>
+<p>The highlight of this talk is applicable not just for Git but also for managing source codes versions in general. Here are the tips from Sim Domingo, Github:</p>
+
+<ul>
+  <li>
+    <p><strong>Commit often.</strong></p>
+  </li>
+  <li>
+    <p><strong>Commit messages should be as specific as possible.</strong>
+Bad examples: “Final css”, “Edit layout”,  “this is a new feature”
+Good examples: “Fix defect #124”, “Adjust height of slider on home”, “Implement autofocus on contact form”</p>
+  </li>
+  <li>
+    <p><strong>Update (SVN) or Pull (Git) often.</strong> It is important to make sure that the developer’s local or individual copy/repository is updated to prevent conflicts</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="business-strategies-cross-over-technical">Business Strategies (cross-over) Technical</h2>
+
+<ul>
+  <li><strong>How Technical Debt Can Ruin A Business</strong> by Calen Legaspi, Orange and Bronze Softare Labs, Inc.</li>
+</ul>
+
+<p>This keynote is probably <strong>the best of DevCon 2014 Summit</strong>. It highlights how bad code quality and neglected unit tests can affect your business. The talk served as an eye-opener to most of the developers, including me, that code quality isn’t just so other developers can understand your code - but the costs of maintaining the code and its great impact onto saving or wasting your business resources.</p>
+
+<h3 id="how-to-not-let-technical-debt-ruin-your-business">How to not let Technical Debt ruin your business:</h3>
+
+<ul>
+  <li>
+    <p>Refactor Mercilessly</p>
+  </li>
+  <li>
+    <p>Practice Test-Driven Development</p>
+  </li>
+  <li>
+    <p>Obsess on Readability</p>
+  </li>
+  <li>
+    <p>Practice Domain-Driven Design</p>
+  </li>
+  <li>
+    <p>Be a Scholar of Coding Practices &amp; Design</p>
+  </li>
+</ul>
+
+<p>Blog post: <a href="http://calenlegaspi.blogspot.com/2014/12/my-technical-debt-presentation-at.html">http://calenlegaspi.blogspot.com/2014/12/my-technical-debt-presentation-at.html</a>
+Slides: <a href="http://techdebt.appspot.com/">http://techdebt.appspot.com/</a></p>
+
+<hr />
+
+<h2 id="community-participation">Community Participation</h2>
+
+<p>If you live under the rock, you would be surprised to know we have quite a round of active developer communities in the Philippines. The following encouraged developers to engage in community activities and hone well-rounded skills from specialized experts:</p>
+
+<ul>
+  <li>
+    <p>PHP User Group Philippines (PHPUGP)</p>
+  </li>
+  <li>
+    <p>Philippine Ruby User Group (PHRUG)</p>
+  </li>
+  <li>
+    <p>Drupal Pilipinas</p>
+  </li>
+  <li>
+    <p>PythonPH</p>
+  </li>
+  <li>
+    <p>Philippine .NET User Group (PHINUG)</p>
+  </li>
+  <li>
+    <p>International Game Developers Association (IGDA)</p>
+  </li>
+  <li>
+    <p>Philippine Web Design Organization (PWDO)</p>
+  </li>
+  <li>
+    <p>Philippine Aerospace Development Corp. (PADC)</p>
+  </li>
+  <li>
+    <p>Google Developers Group (GDG)</p>
+  </li>
+  <li>
+    <p>MozillaPH</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="trends--new-technologies">Trends / New Technologies</h2>
+
+<p>Also, one of my favorite talks is the <strong>Bluemix for the Web</strong> by Alexis Pantola, IBM Philippines where IBM Watson was introduced.</p>
+
+<p>Link: <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/">http://www.ibm.com/smarterplanet/us/en/ibmwatson/</a></p>
+
+<p>This is a very powerful tool for research and community-powered statistical knowledge-base.</p>
+
+<h3 id="internet-of-things-iot">Internet of Things (IoT)</h3>
+<p>Although already being familiar with the term, this is still a new player in the development industry.</p>
+
+<hr />
+
+<p><strong>That’s it!</strong></p>
+
+<p>The summit is a refreshing take on the current developer culture, how the industry is leading when it comes to endless opportunities, and being informed and up-to-date with development best practices and new technologies.</p>
+
+<p>I also created a slide on Slides.com for this event, <a href="http://slides.com/gianfaye/devcon-summit-2014-summary#/">check it out</a>.</p>
+
+:ET

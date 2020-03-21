@@ -1,0 +1,56 @@
+I"�
+<p>This post is about the not-so-popular yet powerful feature of Gmail’s <strong>Send Mail As</strong> option, and how it recently changed its mechanics of using it from <em>free to proprietary</em>.</p>
+
+<p>Many of you probably aren’t aware of this but <a href="http://the.loading-info.net/2011/12/gmail-free-replacement-for-paid-email.html">I’ve been using this feature for awhile</a> until recently. When you have a domain name and your domain registrar offers free mail forwarding, you can use your Gmail to send as your preferred email address using your domain name.</p>
+
+<p>For example, I have this <code class="highlighter-rouge">coolwebsite.com</code> domain and I want an email address associated with that. Let’s say <code class="highlighter-rouge">contact@coolwebsite.com</code></p>
+
+<p>When you go to Gmail’s <strong>Settings</strong> &gt; <strong>Accounts and Import</strong>, scroll down to <strong>Send Mail As</strong> and click <strong>Add another email address you own</strong> you should be able to add another email address as long as it could successfully forward emails to your Gmail address.</p>
+
+<p><img src="https://i.imgur.com/TnJBK3Q.jpg" alt="Send Mail As" /></p>
+
+<p>However, Gmail recently changed its mechanics and are now asking users to input SMTP settings (which is a total bummer). Before this update, you can just add it the forwarding address and they’ll send a confirmation link to verify that you own that forwarding address and that’s it! But that’s not the case now…</p>
+
+<p><img src="https://i.imgur.com/BVqgYpd.jpg" alt="Add another email address you own" /></p>
+
+<p>After a little research, I then discovered that they recently introduced <a href="http://www.google.com.ph/intx/en_ph/enterprise/apps/business/">Google Apps for Business</a> - one feature is that you can create email addresses via Gmail using your domain name. But I’ve been doing this for a while now using their old <strong>Send Mail As</strong> settings.</p>
+
+<p><img src="https://i.imgur.com/okTzIfo.jpg" alt="Google Apps for Business" /></p>
+
+<p>With the new settings, the user is now required to add SMTP settings to move on with the <strong>Send Mail As</strong> option, they have to get and pay for email hosting - which throws away the reason why we can use basic mail forwarding for Gmail. It followed <a href="https://smallbusiness.yahoo.com/email">Yahoo!’s Small Business</a> (previously Yahoo! Mail Plus) paid plan to customize the email you’ll be using to reply to a forwarded email - which is supposedly your custom email, not your Yahoo! email or Gmail.</p>
+
+<p>Related discussion: <a href="https://productforums.google.com/forum/#!msg/gmail/B0Lqlwmm8Bc/pgLAySuVURgJ">MISSING OPTION: Use Gmail’s servers to send your mail</a></p>
+
+<p>The most disappointing thing here is, I was in a middle of a project and already told the client that we could use Gmail for free when they are using their own domain name for their employee’s email addresses.</p>
+
+<h2 id="workaround">Workaround</h2>
+
+<p>There’s a workaround here but it doesn’t work as good as before. You can still use Gmail’s SMTP settings but with a few security drawbacks.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>SMTP Server: smtp.gmail.com
+Port: 465
+Username: yourgmail@gmail.com
+Password: yourgmailpassword
+Secured connection using SSL
+</code></pre></div></div>
+
+<p>On my initial attempt, I got an error and it links to this support page: <a href="https://support.google.com/mail/answer/78754">My client isn’t accepting my username and password</a></p>
+
+<p>So it says, first you must visit <a href="http://www.google.com/accounts/DisplayUnlockCaptcha">http://www.google.com/accounts/DisplayUnlockCaptcha</a> and click on <strong>Continue</strong>.</p>
+
+<p>Second, you must <a href="https://support.google.com/accounts/answer/6010255">allow less secure apps access</a> your account and click <strong>Enable</strong>. Meaning, you are now more risk to security vulnerabilities because enabling this will (well as it says) allow less secure apps access your account.</p>
+
+<s>Also, you cannot receive more than one email every 10 minutes or else it will block the sender.</s>
+<p>(This no longer applies and you can receive emails within seconds. Thank you, Ben Harrison for letting us know.) And if you enable the 2-Step verification process you might have to disable it.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tip: If you don't want to sacrifice the security of your account you can create/ use another Gmail account you own for this purpose. Just use that Gmail address and its password on the SMTP settings and it should work fine.
+</code></pre></div></div>
+
+<p>Google gave mercy to the email addresses you already added prior to the update so this will only affect new email addresses you’ll be sending mail as.</p>
+
+<p>It’s quite frustrating, yeah. But what can we do? Google isn’t satisfied with putting ads on your Gmail inbox, they’re now charging you for using their free(?) Gmail because you’ll make the @gmail.com less popular by using your own domain name.</p>
+
+<p>We can all see where this is going.</p>
+
+<p><strong>UPDATE:</strong> Someone from Google Enterprise called me. Here’s the backstory: So while testing the workaround I included on this post, I signed up for the 30-day trial for Google Apps For Business. Turns out, since we already have mail forwarding on the DNS, we cannot set MX records which Google is asking for the process to continue for their Google Apps for Business. So I told the representative, who seems to be calling to assist me, that I found a workaround and will not be continuing with their trial. :)</p>
+:ET

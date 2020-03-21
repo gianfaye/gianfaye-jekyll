@@ -7,7 +7,7 @@ header : About This Site
 
 # About This Site
 
-This site is built using [Jekyll](http://jekyllrb.com/) and is hosted under [GitHub Pages](http://pages.github.com/). It is available on my [GitHub](https://github.com/gianfaye) account or you could fork it directly from the [original repo](https://github.com/mojombo/jekyll).
+This site is built using [Jekyll](http://jekyllrb.com/) and is hosted under [GitHub Pages](http://pages.github.com/) on my [GitHub](https://github.com/gianfaye) account.
 
 ## Web Standards
 
