@@ -21,8 +21,11 @@
     <meta name="twitter:site" content="@GianFaye" />
     <meta name="twitter:creator" content="@GianFaye" />
     <meta name="twitter:domain" content="GianFaye.com" />
-    <title>{{ page.title }}</title>
-
+    {% if page.title %}
+    <title>{{ page.title }} &bull; Gian Faye Paguirigan</title>
+    {% else %}
+    <title>Gian Faye Paguirigan</title>
+    {% endif %}
     <!--
        _________________________________
       |:::::::::::::;;::::::::::::::::::|
@@ -89,8 +92,7 @@
           <li><a href="/" title="Bio"><span>&raquo;</span>  _HOME</a></li>
           <li><a href="/bio" title="Bio"><span>&raquo;</span>  _BIO</a></li>
           <li><a href="/projects" title="Projects"><span>&raquo;</span>  _PROJECTS</a></li>
-          <li><a href="/posts" title="Blog"><span>&raquo;</span>  _BLOG</a></li>
-          <li><a href="/archive" title="Archive"><span>&raquo;</span>  _ARCHIVE</a></li>
+          <li><a href="/blog" title="Blog"><span>&raquo;</span>  _BLOG</a></li>
           <li><a href="/colophon" title="Colophon"><span>&raquo;</span>  _COLOPHON</a></li>
         </ul>
         </nav>
@@ -108,7 +110,7 @@
           <span class="show-xs"><br></span>
           <!--span class="hidden-xs">|</span> <a href="/rss" title="RSS">RSS</a> &bullet; <a href="/atom" title="Atom">Atom</a> &bullet; <a href="/beer" title="Buy me a beer!">Buy me a beer!</a-->
           <span class="show-xs" id="menu-footer"><br>
-            <a href="/bio" title="Bio">BIO</a> &bullet; <a href="/projects" title="Projects">PROJECTS</a> &bullet; <a href="/posts" title="Blog">BLOG</a> <br> <a href="/archive" title="Archive">ARCHIVE</a> &bullet; <a href="/colophon" title="Colophon">COLOPHON</a>
+            <a href="/" title="Home">HOME</a> &bullet; <a href="/bio" title="Bio">BIO</a> &bullet; <a href="/projects" title="Projects">PROJECTS</a> <br> <a href="/blog" title="Blog">BLOG</a> &bullet; <a href="/colophon" title="Colophon">COLOPHON</a>
           </span>
         </p>
       </footer>

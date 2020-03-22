@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Gian Faye Paguirigan"
 tagline: 
 ---
 {% include JB/setup %}
