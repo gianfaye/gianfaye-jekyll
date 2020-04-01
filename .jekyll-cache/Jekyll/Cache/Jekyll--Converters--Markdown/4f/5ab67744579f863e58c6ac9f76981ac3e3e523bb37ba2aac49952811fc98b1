@@ -1,4 +1,4 @@
-I"
+I"�
 <h1 id="hello-there">Hello, there.</h1>
 
 <p>I’m <strong>Gian Faye</strong>, a web geek from the Philippines. I’ve been doing web design and development since 2010 and currently focused on <strong>front-end development</strong> and <strong>user experience design</strong>.</p>
@@ -6,6 +6,9 @@
 <h2 id="skillset">Skillset</h2>
 
 <p><img src="/assets/images/bio/gfp-skillset-2020-04.jpg" alt="2020 Featured Skillset" /></p>
+<div class="text-center">
+  <h6>Verified by: [Pluralsight Role IQ Skill Assessment](https://app.pluralsight.com/profile/gianfaye)</h6>
+</div>
 
 <p>If you are interested to know more about my skills and the tools I use, <a href="mailto:contact@gianfaye.com">contact me</a> and I will send you my CV. My current expertise is on <strong>front-end development</strong> and <strong>user experience design</strong>.</p>
 
