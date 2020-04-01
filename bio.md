@@ -11,9 +11,11 @@ I'm **Gian Faye**, a web geek from the Philippines. I've been doing web design a
 
 ## Skillset
 
-If you are interested to know more about my skills and the tools I use, [contact me](mailto:contact@gianfaye.com) and I will send you my CV. My current expertise is on front-end development and user experience. 
+![2020 Featured Skillset](/assets/images/bio/gfp-skillset-2020-04.jpg) 
 
-If you would read this article: [The Front End Engineering Spectrum- The Three Generic Types of Front End Engineers](http://htmlcssjavascript.com/web/the-front-end-engineering-spectrum-the-three-generic-types-of-front-end-engineers/) I'd be <strong>The Core</strong> -- heading towards being full-stack. (Backend devs, beware.) 
+If you are interested to know more about my skills and the tools I use, [contact me](mailto:contact@gianfaye.com) and I will send you my CV. My current expertise is on **front-end development** and **user experience design**. 
+
+If you would read this article: [The Front End Engineering Spectrum- The Three Generic Types of Front End Engineers](http://htmlcssjavascript.com/web/the-front-end-engineering-spectrum-the-three-generic-types-of-front-end-engineers/) I'd be <strong>The Core</strong> -- heading towards being full-stack. 
 
 My approach to design is mainly intuitive but I'm familiar with most of the textbook concepts such as Gestalt principles and common design patterns.
 
