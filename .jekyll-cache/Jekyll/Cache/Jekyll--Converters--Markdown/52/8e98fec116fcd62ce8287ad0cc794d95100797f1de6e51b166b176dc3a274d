@@ -1,15 +1,14 @@
-I"ÛY
-<!-- <div id="typed">
+I",R
+<div id="typed">
   <p><span class="arrow">&#62;</span> ^1000 Hi there, ^1000 I'm a <a href="https://github.com/gianfaye" target="_blank"><span id="whatami">web designer &amp; developer</span></a> based in the Philippines. 
-  <br><span class="arrow">&#62;</span> ^1000 I mostly do ^1000 <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank"><span class="ifocus">front-end development</span></a> ^1000 and ^500 <span class="ifocus"><a href="https://theblog.adobe.com/what-does-a-ux-designer-actually-do/" target="_blank"><span class="ifocus">user experience design</span></a></span>.
-  <br><span class="arrow">&#62;</span> ^1000 This site is a collective of <a href="/projects"><span class="ifocus">my works</span></a>, ^1000 <a href="/blog"><span class="ifocus">ideas</span></a> ^1000 and <a href="/bio"><span class="ifocus">autodidactism</span></a><a href="/colophon.html"><span class="ifocus">_</span></a>
+  <br /><span class="arrow">&#62;</span> ^1000 I mostly do ^1000 <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank"><span class="ifocus">front-end development</span></a> ^1000 and ^500 <span class="ifocus"><a href="https://theblog.adobe.com/what-does-a-ux-designer-actually-do/" target="_blank"><span class="ifocus">user experience design</span></a></span>.
+  <br /><span class="arrow">&#62;</span> ^1000 This site is a collective of <a href="/projects"><span class="ifocus">my works</span></a>, ^1000 <a href="/blog"><span class="ifocus">ideas</span></a> ^1000 and <a href="/bio"><span class="ifocus">autodidactism</span></a><a href="/colophon.html"><span class="ifocus">_</span></a>
   </p>
-  </div> -->
+  </div>
 
-<!-- <div id="about"></div> -->
-
+<div id="about"></div>
 <div id="projects">
-	<!-- <h2>Web Projects</h2> -->
+	<!-- <h2>Featured Projects</h2> -->
   <div class="project-item" id="rcbc">
     <div class="project-details">
         <span class="name-bracket left">[</span>
@@ -106,7 +105,7 @@
       </div>
       <div class="project-launch live">
         <div class="launch-website">
-          <a href="https://goasiaentertainment.com.ph/the-queens-corgi/" target="_blank">
+          <a href="https://goasiaentertainment.com/the-queens-corgi/" target="_blank">
             &lt; Launch Project &gt; 
             <span>www.goasiaentertainment.ph</span>
           </a>
@@ -116,7 +115,7 @@
     <div class="project-image">
       <div class="project-image-container">
         <p>
-          <a href="https://goasiaentertainment.com.ph/the-queens-corgi/">
+          <a href="https://goasiaentertainment.com/the-queens-corgi/">
             <img src="/assets/images/home/project-corgi.png" alt="The Queen's Corgi Website" />
           </a>
         </p>
@@ -144,7 +143,7 @@
       </div>
       <div class="project-launch live">
         <div class="launch-website">
-          <a href="https://www.bevi.com.ph" target="_blank">
+          <a href="https://bevi.com.ph" target="_blank">
             &lt; Launch Project &gt; 
             <span>www.bevi.com.ph</span>
           </a>
@@ -400,14 +399,14 @@
   <hr class="project-divider" />
   <div class="project-item old"></div>
 </div>
-<p><br />
-<!-- <div class="container-narrow"> --></p>
-<div id="clients">
+<p><br /></p>
+<div class="container-narrow">
+  <div id="clients">
     <div class="client-header">
       <h2>Worked on Projects for</h2> 
     </div>
-    <div class="client-portfolio">
-      <section class="responsive slider">
+    <div class="">
+      <div class="responsive slider">
         <div>
           <img src="/assets/images/home/clients-logo-cnn-philippines.jpg" alt="CNN Philippines" />
         </div>
@@ -480,48 +479,10 @@
         <div>
           <img src="/assets/images/home/clients-logo-pulp-live-world.jpg" alt="PULP Live World" />
         </div>
-      </section>
+      </div>
     </div>
-    <!-- <section class="responsive slider">
-      <div>
-          <a href="http://cnnphilippines.com/" target="_blank"><img src="/assets/images/home/clients-logo-cnn-philippines.jpg"></a>
-      </div>
-      <div>
-          <a href="http://www.knightfrank.com/" target="_blank"><img src="/assets/images/home/clients-logo-knight-frank.jpg"></a>
-      </div>
-      <div>
-          <a href="http://www.fareastsoho.com/" target="_blank"><img src="/assets/images/home/clients-logo-far-east-soho-pte-ltd.jpg"></a>
-      </div>
-      <div>
-          <a href="https://www.uol.com.sg/home" target="_blank"><img src="/assets/images/home/clients-logo-uol-group-limited.jpg"></a>
-      </div>
-      <div>
-          <a href="https://homethomsonthree.com.sg/" target="_blank"><img src="/assets/images/home/clients-logo-thomson-three.jpg"></a>
-      </div>
-      <div>
-          <a href="https://ripplebay.com.sg/" target="_blank"><img src="/assets/images/home/clients-logo-ripple-bay.jpg"></a>
-      </div>
-      <div>
-          <a href="https://70stpatricks.com.sg/" target="_blank"><img src="/assets/images/home/clients-logo-70-st-patricks.jpg"></a>
-      </div>
-      <div>
-          <a href="https://homethetembusu.com.sg/" target="_blank"><img src="/assets/images/home/clients-logo-the-tembusu.jpg"></a>
-      </div>
-      <div>
-          <a href="https://sky11.com.sg/" target="_blank"><img src="/assets/images/home/clients-logo-sky11.jpg"></a>
-      </div>
-      <div>
-          <a href="https://thesiena.com.sg/" target="_blank"><img src="/assets/images/home/clients-logo-the-siena.jpg"></a>
-      </div>
-      <div>
-          <a href="http://pulpmagazinelive.com/" target="_blank"><img src="/assets/images/home/clients-logo-pulp-magazine.jpg"></a>
-      </div>
-      <div>
-          <a href="http://pulpliveworld.com/" target="_blank"><img src="/assets/images/home/clients-logo-pulp-live-world.jpg"></a>
-      </div>
-    </section> -->
   </div>
-<!-- </div> -->
+</div>
 
 <!-- <div class="container-narrow">
   <ul class="posts" id="blog-home" style="clear:both;">
