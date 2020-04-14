@@ -1,4 +1,4 @@
-I"fV
+I"—Y
 <!-- <div id="typed">
   <p><span class="arrow">&#62;</span> ^1000 Hi there, ^1000 I'm a <a href="https://github.com/gianfaye" target="_blank"><span id="whatami">web designer &amp; developer</span></a> based in the Philippines. 
   <br><span class="arrow">&#62;</span> ^1000 I mostly do ^1000 <a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html" target="_blank"><span class="ifocus">front-end development</span></a> ^1000 and ^500 <span class="ifocus"><a href="https://theblog.adobe.com/what-does-a-ux-designer-actually-do/" target="_blank"><span class="ifocus">user experience design</span></a></span>.
@@ -30,7 +30,7 @@
       </div>
       <div class="project-launch live">
         <div class="launch-website">
-          <a href="https://www.rcbc.com" target="_blank">
+          <a href="https://www.rcbc.com">
             &lt; Launch Project &gt; 
             <span>www.rcbc.com</span>
           </a>
@@ -38,10 +38,10 @@
       </div>
     </div>
     <div class="project-image">
-      <div class="project-image-container">
+      <div class="project-image-container" target="_blank">
         <p>
           <a href="https://www.rcbc.com">
-            <img src="/assets/images/home/project-rcbc.png" target="_blank" />
+            <img src="/assets/images/home/project-rcbc.png" alt="RCBC Website" />
           </a>
         </p>
       </div>
@@ -52,7 +52,7 @@
     <div class="project-details">
       <div class="project-title">
         <span class="name-bracket left">[</span>
-        <h3>Safe Steps Kids</h3>
+        <h3>SAFE STEPS KIDS</h3>
         <span class="name-bracket right">]</span>
       </div>
       <div class="project-subtitle">
@@ -79,7 +79,7 @@
       <div class="project-image-container">
         <p>
           <a href="https://www.safestepskids.com">
-            <img src="/assets/images/home/project-safe-steps-kids.png" />
+            <img src="/assets/images/home/project-safe-steps-kids.png" alt="SAFE STEPS KIDS Website" />
           </a>
         </p>
       </div>
@@ -117,7 +117,7 @@
       <div class="project-image-container">
         <p>
           <a href="https://goasiaentertainment.com.ph/the-queens-corgi/">
-            <img src="/assets/images/home/project-corgi.png" />
+            <img src="/assets/images/home/project-corgi.png" alt="The Queen's Corgi Website" />
           </a>
         </p>
       </div>
@@ -155,7 +155,7 @@
       <div class="project-image-container">
         <p>
           <a href="https://www.bevi.com.ph">
-            <img src="/assets/images/home/project-bevi.png" />
+            <img src="/assets/images/home/project-bevi.png" alt="BEVI Website" />
           </a>
         </p>
       </div>
@@ -196,7 +196,9 @@
     <div class="project-image no-mobile">
       <div class="project-image-container">
         <p>
-          <a href="/project/fosasia" title="Field Outsource Asia, Inc."><img src="/assets/images/home/project-fosasia.png" /></a>
+          <a href="/project/fosasia" title="Field Outsource Asia, Inc.">
+            <img src="/assets/images/home/project-fosasia.png" alt="FOSASIA Website" />
+          </a>
         </p>
       </div>
     </div>
@@ -206,7 +208,7 @@
     <div class="project-details">
       <div class="project-title">
         <span class="name-bracket left">[</span>
-        <h3>StrawberryJam</h3>
+        <h3>Strawberryjam</h3>
         <span class="name-bracket right">]</span>
       </div>
       <div class="project-subtitle">
@@ -233,7 +235,7 @@
       <div class="project-image-container">
         <p>
           <a href="/project/strawberryjam">
-            <img src="/assets/images/home/project-strawberryjam.png" />
+            <img src="/assets/images/home/project-strawberryjam.png" alt="Strawberryjam Website" />
           </a>
         </p>
       </div>
@@ -269,7 +271,7 @@
       <div class="project-image-container">
         <p>
           <a href="/project/bazooka-rocks-3">
-            <img src="/assets/images/home/project-bazooka-rocks-3.png" />
+            <img src="/assets/images/home/project-bazooka-rocks-3.png" alt="BAZOOKA ROCKS 3 Website" />
           </a>
         </p>
       </div>
@@ -305,7 +307,7 @@
       <div class="project-image-container">
         <p>
           <a href="/project/bazooka-rocks-2">
-            <img src="/assets/images/home/project-bazooka-rocks-2.png" />
+            <img src="/assets/images/home/project-bazooka-rocks-2.png" alt="BAZOOKA ROCKS 2 Website" />
           </a>
         </p>
       </div>
@@ -347,7 +349,7 @@
       <div class="project-image-container">
         <p>
           <a href="/project/pulp-magazine-live">
-            <img src="/assets/images/home/project-pulp-magazine.png" />
+            <img src="/assets/images/home/project-pulp-magazine.png" alt="PULP Magazine Website" />
           </a>
         </p>
       </div>
@@ -389,7 +391,7 @@
       <div class="project-image-container">
         <p>
           <a href="/project/pulp-live-world">
-            <img src="/assets/images/home/project-pulp-live-world.png" />
+            <img src="/assets/images/home/project-pulp-live-world.png" alt="PULP Live World Website" />
           </a>
         </p>
       </div>
@@ -407,76 +409,76 @@
     <div class="client-portfolio">
       <ul>
         <li>
-          <img src="/assets/images/home/clients-logo-cnn-philippines.jpg" />
+          <img src="/assets/images/home/clients-logo-cnn-philippines.jpg" alt="CNN Philippines" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-turner.jpg" />
+          <img src="/assets/images/home/clients-logo-turner.jpg" alt="Turner Broadcasting System" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-rcbc.jpg" />
+          <img src="/assets/images/home/clients-logo-rcbc.jpg" alt="RCBC" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-department-of-tourism.jpg" />
+          <img src="/assets/images/home/clients-logo-department-of-tourism.jpg" alt="Department of Tourism" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-traveloka.jpg" />
+          <img src="/assets/images/home/clients-logo-traveloka.jpg" alt="Traveloka" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-uratex.jpg" />
+          <img src="/assets/images/home/clients-logo-uratex.jpg" alt="Uratex" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-astellas.jpg" />
+          <img src="/assets/images/home/clients-logo-astellas.jpg" alt="Astellas" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-dmci-leasing.jpg" />
+          <img src="/assets/images/home/clients-logo-dmci-leasing.jpg" alt="DMCI Leasing" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-sanicare.jpg" />
+          <img src="/assets/images/home/clients-logo-sanicare.jpg" alt="Sanicare" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-bevi.jpg" />
+          <img src="/assets/images/home/clients-logo-bevi.jpg" alt="BEVI" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-go-asia-entertainment.jpg" />
+          <img src="/assets/images/home/clients-logo-go-asia-entertainment.jpg" alt="Go Asia Entertainment" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-prudence-foundation.jpg" />
+          <img src="/assets/images/home/clients-logo-prudence-foundation.jpg" alt="Prudence Foundation" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-orkide.jpg" />
+          <img src="/assets/images/home/clients-logo-orkide.jpg" alt="Orkide Villa" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-knight-frank.jpg" />
+          <img src="/assets/images/home/clients-logo-knight-frank.jpg" alt="Knight Frank" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-far-east-soho-pte-ltd.jpg" />
+          <img src="/assets/images/home/clients-logo-far-east-soho-pte-ltd.jpg" alt="Far East Soho" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-uol-group-limited.jpg" />
+          <img src="/assets/images/home/clients-logo-uol-group-limited.jpg" alt="UOL Groups Ltd" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-70-st-patricks.jpg" />
+          <img src="/assets/images/home/clients-logo-70-st-patricks.jpg" alt="70 St. Patrick's Condominium" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-the-siena.jpg" />
+          <img src="/assets/images/home/clients-logo-the-siena.jpg" alt="The Siena Condominium" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-ripple-bay.jpg" />
+          <img src="/assets/images/home/clients-logo-ripple-bay.jpg" alt="Ripple Bay Condominium" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-the-tembusu.jpg" />
+          <img src="/assets/images/home/clients-logo-the-tembusu.jpg" alt="The Tembusu Condominium" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-thomson-three.jpg" />
+          <img src="/assets/images/home/clients-logo-thomson-three.jpg" alt="Thomson Three Condominium" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-sky11.jpg" />
+          <img src="/assets/images/home/clients-logo-sky11.jpg" alt="Sky@Eleven Condominium" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-pulp-magazine.jpg" />
+          <img src="/assets/images/home/clients-logo-pulp-magazine.jpg" alt="PULP Magazine" />
         </li>
         <li>
-          <img src="/assets/images/home/clients-logo-pulp-live-world.jpg" />
+          <img src="/assets/images/home/clients-logo-pulp-live-world.jpg" alt="PULP Live World" />
         </li>
       </ul>
     </div>

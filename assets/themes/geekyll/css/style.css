@@ -1016,7 +1016,6 @@ pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background
       font-style: italic;
       line-height: 120% !important;
       margin-top: -50px !important;
-      display inline;
     }
 
 .view-all{
@@ -1153,7 +1152,6 @@ footer a{
   	letter-spacing: 3px;
   }
   #menu-footer { line-height: 150%; }
-  .pagination { overflow: overlay; }
   .pagination li { float: left; }
 }
 
