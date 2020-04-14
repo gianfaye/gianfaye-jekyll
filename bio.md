@@ -5,7 +5,7 @@ header : Bio
 ---
 {% include JB/setup %}
 
-# Hello, there.
+# Hello there
 
 I'm **Gian Faye**, a web geek from the Philippines. I've been doing web design and development since 2010 and currently focused on **front-end development** and **user experience design**. 
 
