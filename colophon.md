@@ -11,7 +11,7 @@ This site is built using [Jekyll](http://jekyllrb.com/) and is hosted under [Git
 
 ## Web Standards
 
-In accordance to [World Wide Web Consortium](http://www.w3.org/)'s Markup Validation Service, the documents on this website have been successfully checked as [XHTML1.0 Strict](http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/index.html) and [CSS level 3](http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/assets/themes/geekyll/css/style.css).
+In accordance to [World Wide Web Consortium](http://www.w3.org/)'s Markup Validation Service, the documents on this website have been successfully checked as [XHTML1.0 Strict](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgianfaye.com%2F) and [CSS level 3](http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/assets/themes/geekyll/css/style.css).
 
 ## License
 

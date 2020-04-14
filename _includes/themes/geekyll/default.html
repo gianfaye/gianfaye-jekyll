@@ -86,7 +86,7 @@
     {% include JB/analytics %}
 
     <!-- Add typing animation script -->
-    <!-- <script src="/assets/themes/geekyll/scripts/typed.min.js"></script> -->
+    <script src="/assets/themes/geekyll/scripts/typed.min.js"></script>
     <script src="/assets/themes/geekyll/scripts/scripts.js"></script>
 
     <!-- jQuery -->
@@ -96,5 +96,48 @@
     <link rel="stylesheet" type="text/css" href="/assets/themes/geekyll/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="/assets/themes/geekyll/slick/slick-theme.css"/>
     <script src="/assets/themes/geekyll/slick/slick.min.js"></script>
+
+    <script>
+      $(document).ready(function(){
+        $('.responsive').slick({
+          dots: true,
+          infinite: true,
+          speed: 300,
+          autoplay: true,
+          slidesToShow: 5,
+          slidesToScroll: 5,
+          arrows: true,
+          responsive: [
+            {
+              breakpoint: 1024,
+              settings: {
+                slidesToShow: 4,
+                slidesToScroll: 4,
+                infinite: true,
+                dots: true
+              }
+            },
+            {
+              breakpoint: 600,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3
+              }
+            },
+            {
+              breakpoint: 480,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2,
+                dots: false
+              }
+            }
+            // You can unslick at a given breakpoint now by adding:
+            // settings: "unslick"
+            // instead of a settings object
+          ]
+        });
+      });
+    </script>
   </body>
 </html>

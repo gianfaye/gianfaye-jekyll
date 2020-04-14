@@ -1,11 +1,11 @@
-I"(	
+I"	
 <h1 id="about-this-site">About This Site</h1>
 
 <p>This site is built using <a href="http://jekyllrb.com/">Jekyll</a> and is hosted under <a href="http://pages.github.com/">GitHub Pages</a> on my <a href="https://github.com/gianfaye">GitHub</a> account.</p>
 
 <h2 id="web-standards">Web Standards</h2>
 
-<p>In accordance to <a href="http://www.w3.org/">World Wide Web Consortium</a>’s Markup Validation Service, the documents on this website have been successfully checked as <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/index.html">XHTML1.0 Strict</a> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/assets/themes/geekyll/css/style.css">CSS level 3</a>.</p>
+<p>In accordance to <a href="http://www.w3.org/">World Wide Web Consortium</a>’s Markup Validation Service, the documents on this website have been successfully checked as <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fgianfaye.com%2F">XHTML1.0 Strict</a> and <a href="http://jigsaw.w3.org/css-validator/validator?uri=http://gianfaye.com/assets/themes/geekyll/css/style.css">CSS level 3</a>.</p>
 
 <h2 id="license">License</h2>
 

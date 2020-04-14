@@ -134,7 +134,7 @@ a:hover{
 			background: rgb(194, 39, 0);
 			padding: 5px;
 			text-transform: uppercase;
-			text-shadow: 1px 1px 0 #000;
+			text-shadow: 1px 1px 0 #222;
 		}
 
 		#ui{
@@ -152,7 +152,7 @@ a:hover{
 		padding: 3% 1%;
 		margin: 3% 2%;
 		background: rgba(0,0,0,0.5);
-		border: dashed 1px #000;
+		border: dashed 1px #222;
 	}
 
 	#view-panel{
@@ -383,7 +383,7 @@ a:hover{
 		}
 	
 	nav a{
-		color: #000;
+		color: #222;
 		width: 90%;
 		font-family: 'VoyagerRegular', Monaco, monospace;
 		font-size: 12px;
@@ -535,27 +535,24 @@ a:hover{
     }
 
     #about{ 
-    	background: #000; 
+    	background: #222; 
       color: #2fff00;
 	    font-size: 12px;
 	    font-family: "Lucida Console", Monaco, monospace;
 	    padding: 2%;
 	    line-height: 170%;
 	    border: 1px dotted #999;
-	    margin: 0;
 	    text-align: left;
       max-width: 520px;
       margin: 0 auto;
+      margin-bottom: 20px;
     }
 
     #about a span{
-        color: #FFF;
+      color: #FFF;
 	    font-size: 1.2em;
 	    font-family: 'VoyagerLight', Monaco, monospace;
 	    padding-bottom: 3px;
-    }
-		
-    #projects{
     }
 
     #projects li{
@@ -748,18 +745,18 @@ a:hover{
 			}
 			
 			.project-launch a span{
-				border-bottom: 1px dotted black;
+				border-bottom: 1px dotted #222;
 				letter-spacing: 1px;
 				color: #f65d2e;
 			}
 			
 			.project-launch a span:hover{
-				border-bottom: 3px solid black;
+				border-bottom: 3px solid #222;
 			}
 
 			.launch-website{
 				width: 50px;
-				border-bottom: 1px dashed #000;
+				border-bottom: 1px dashed #222;
 				background: url('/assets/themes/geekyll/images/rocket-launcher.png');
 				background-position: top center;
 				background-repeat: no-repeat;
@@ -783,7 +780,7 @@ a:hover{
 			.launch-website a{
 				font-family: 'VoyagerRegular', Monaco, monospace;
 				display: block;
-				color: #000;
+				color: #222;
 				letter-spacing: 5px;
 				font-size: 1em;
 				padding-top: 75px;
@@ -859,7 +856,7 @@ a:hover{
   .client-header h2{
     text-align: center;
     font-weight: bold;
-    border-bottom: 4px solid #eee;
+    border-bottom: 1px solid #eee;
     display: block;
     margin: 0 auto;
     border-left: 0;
@@ -1138,7 +1135,7 @@ footer a{
   #blog-home li a:hover{ text-decoration: underline; }
   footer { 
 	min-height: 175px;
-	background: url("../images/footer-iceberg-shit.png"), #000;
+	background: url("../images/footer-iceberg-shit.png"), #222;
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: bottom center;
