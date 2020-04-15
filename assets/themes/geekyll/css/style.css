@@ -565,7 +565,7 @@ a:hover{
 		
 		.project-item{
 			position: relative;
-			max-height: 70px;
+			max-height: 65px;
 			overflow: hidden;
 			padding: 25px 0; 
       border: 10px solid white;
