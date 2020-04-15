@@ -653,7 +653,7 @@ a:hover{
 				.project-title h3{
 					font-family: 'VoyagerLight', Monaco, monospace;
 					text-align: center;
-					font-size: 2em;
+					font-size: 1.5em;
 					letter-spacing: 1px;
 					margin: 0;
 					border: none;
@@ -877,7 +877,7 @@ a:hover{
 /* Custom container */
 .container-wide {
   margin: 0 auto;
-  max-width: 1366px; 
+  max-width: 1280px; 
   width: 100%;
 }
 
