@@ -1,0 +1,34 @@
+I""
+<h1 id="about-me">About Me</h1>
+
+<p>I’m <strong>Gian Faye Paguirigan</strong>, <small> <small> [ Pronounced as <em>jee•yan fey pa•gi•ri•gan</em> ]</small></small> a web geek from the Philippines.
+<br /><br /></p>
+
+<blockquote>
+  <p><strong>UI</strong> is my game, <br />it’s embedded in my name. <small><small><small>literally</small></small></small></p>
+</blockquote>
+
+<h2 id="history">History</h2>
+
+<p>I have been working on <strong>user interfaces</strong> for the web since 2010.  I started with <small><small>[ <em>takes a deep breath</em> ]</small></small> customizing blog templates during the blogging era <small>[ remember blogspot? <small>but seriously, I started during the Friendster and Multiply era but let’s not dwell on that OKAY</small> ]</small>, then creating and setting up a website and CMS from the ground up <small><small>[ without WordPress</small> 😮 <small>]</small></small>, setting up web hosting <small><small>[ ugh, cPanel</small> 🙄 <small>]</small></small>, setting up DNS <small><small>[ A records and stuff ~ .tk, Namecheap, GoDaddy, Name.com, you name it ]</small></small>, uploading via FTP <small> 😬</small>, editing code in VIM and updating web pages via SSH <small>😖</small> — <em>aaaand</em> fast forward to using version control (Git and Subversion), creating my own design system and brand bible for companies, customizing Shopify Liquid templates, creating SVGs and Symbols in Sketch, integrating with APIs and creating single-page applications (SPA). From Notepad ++ to Sublime Text to Webstorm <em>not</em> real quick.</p>
+
+<h2 id="skillset">Skillset</h2>
+
+<p><img src="/assets/images/bio/gfp-skillset-2020-04.jpg" alt="2020 Featured Skillset" /></p>
+<h6 id="verified-by-pluralsight-role-iq-skill-assessment-as-of-april-2-2020">Verified by: <strong><a href="https://app.pluralsight.com/profile/gianfaye">Pluralsight Role IQ Skill Assessment</a></strong> (as of April 2, 2020)</h6>
+
+<p>If you are interested to know more about my skills and the tools I use, <a href="mailto:contact@gianfaye.com">contact me</a> and I will send you my CV. My current expertise is on <strong>front-end development</strong> and <strong>user experience design</strong>.</p>
+
+<p>If you would read this article: <a href="http://htmlcssjavascript.com/web/the-front-end-engineering-spectrum-the-three-generic-types-of-front-end-engineers/">The Front End Engineering Spectrum- The Three Generic Types of Front End Engineers</a> I’d be <strong>The Core</strong> – heading towards being full-stack.</p>
+
+<p>My approach to design is mainly intuitive but I’m familiar with most of the textbook concepts such as the Gestalt principles and common design patterns.</p>
+
+<p>My current snack is <strong>ReactJS</strong> messing up with components and states.</p>
+
+<p>Connect with me on <a href="https://ph.linkedin.com/in/gianfaye" target="_blank">LinkedIn →</a></p>
+
+<h2 id="interests">Interests</h2>
+
+<p>Aside from web technologies, I am very interested in <strong>forensic science</strong> specializing in <strong>computer forensics</strong>, anything about <strong>InfoSec</strong>, the <strong>maker culture</strong>, and the <strong>Internet of Things</strong>. If I’m not tinkering stuff on <a href="https://www.youtube.com/watch?v=iDbyYGrswtg">the internet</a>, I’ll probably be tinkering things IRL.</p>
+
+:ET
