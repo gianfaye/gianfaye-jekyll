@@ -7,6 +7,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:image" content="http://gianfaye.com/assets/images/thumb.jpg" />
     <meta property="og:description" content="Designing and building for the users." />
+    <meta name="robots" content="noindex">
     {% for category in page.categories %}<meta property="article:tag" content="{{ category }}" />{% endfor %}
     {% if page.description %}
     <meta name="description" content="{{ page.description | truncatewords: 50 | strip_newlines | escape_once }}" />
