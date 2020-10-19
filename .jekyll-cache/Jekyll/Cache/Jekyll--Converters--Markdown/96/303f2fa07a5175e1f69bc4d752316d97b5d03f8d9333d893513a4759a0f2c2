@@ -1,4 +1,4 @@
-I"�
+I"
 <p>Getting to understand your visitors is one of the crucial elements in web development. Just creating and putting up a website isn’t enough to help you identify the needs of your users. Without identifying the issues, you cannot put up a proper solution.</p>
 
 <p>Analytics has been with us for a very long time. And yet, most web development projects focus on the design and the structure of the website. While these are also essential part of web dev’t, <strong>web analytics</strong> should also be in line with them in terms of importance.</p>
@@ -32,7 +32,7 @@
 
 <p>With <a href="https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide">Event Tracking</a>, you can track almost all user interactions on your page - from a button clicked, to your embedded video being played.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;a href="#" onClick="_gaq.push(['_trackEvent', 'Category', 'Action', 'Label']);"&gt;Play&lt;/a&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;a href="#" onClick="_gaq.push(['_trackEvent', 'Category', 'Action', 'Label']);"&gt;Play&lt;/a&gt;
 </code></pre></div></div>
 
 <p>This can also be used to record case studies on a call-to-action object, like a specific button where the users click and submit their information and there goes your leads. This can also be used to test if the red button attracts more clicks than a green button - the most common but the best example of <a href="http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/">A/B Testing</a>.</p>
@@ -42,10 +42,10 @@
 <p>The first time I heard <a href="https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration?csw=1#_gat.GA_Tracker_._trackPageview">Pageview Tracking</a> I was a bit confused on how it differs from
 the number of pageview reports. This is then I discovered that this is used to track <em>virtual pageviews</em> on your page. For example, you are linking to a domain outside yours or you are linking a downloadable content.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_gaq.push(['_trackPageview', 'virtual-pagename']);
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>_gaq.push(['_trackPageview', 'virtual-pagename']);
 </code></pre></div></div>
 
-<p><strong>Be mindful because it is case sensitive!</strong> I’ve used <code class="highlighter-rouge">_trackPageView</code> (capital V) instead of <code class="highlighter-rouge">_trackPageview</code> and it didn’t work.</p>
+<p><strong>Be mindful because it is case sensitive!</strong> I’ve used <code class="language-plaintext highlighter-rouge">_trackPageView</code> (capital V) instead of <code class="language-plaintext highlighter-rouge">_trackPageview</code> and it didn’t work.</p>
 
 <p><em>Why bother with pageview tracking when you can just do event tracking on the Download button!?</em></p>
 
@@ -68,7 +68,7 @@ the number of pageview reports. This is then I discovered that this is used to t
 
 <p>This is what the <strong>Classic Analytics</strong> tracking code looks like:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>var _gaq = _gaq || [];
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-XXXXXXXX-X' ]);
     _gaq.push(['_trackPageview']);
 
@@ -81,7 +81,7 @@ the number of pageview reports. This is then I discovered that this is used to t
 
 <p>This is what the <strong>Universal Analytics</strong> tracking code looks like:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');

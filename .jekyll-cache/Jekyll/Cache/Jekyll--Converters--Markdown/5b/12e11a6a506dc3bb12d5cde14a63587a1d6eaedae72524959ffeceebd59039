@@ -1,9 +1,9 @@
-I"�
+I"�
 <p>This post is about the not-so-popular yet powerful feature of Gmail’s <strong>Send Mail As</strong> option, and how it recently changed its mechanics of using it from <em>free to proprietary</em>.</p>
 
 <p>Many of you probably aren’t aware of this but <a href="http://the.loading-info.net/2011/12/gmail-free-replacement-for-paid-email.html">I’ve been using this feature for awhile</a> until recently. When you have a domain name and your domain registrar offers free mail forwarding, you can use your Gmail to send as your preferred email address using your domain name.</p>
 
-<p>For example, I have this <code class="highlighter-rouge">coolwebsite.com</code> domain and I want an email address associated with that. Let’s say <code class="highlighter-rouge">contact@coolwebsite.com</code></p>
+<p>For example, I have this <code class="language-plaintext highlighter-rouge">coolwebsite.com</code> domain and I want an email address associated with that. Let’s say <code class="language-plaintext highlighter-rouge">contact@coolwebsite.com</code></p>
 
 <p>When you go to Gmail’s <strong>Settings</strong> &gt; <strong>Accounts and Import</strong>, scroll down to <strong>Send Mail As</strong> and click <strong>Add another email address you own</strong> you should be able to add another email address as long as it could successfully forward emails to your Gmail address.</p>
 
@@ -27,7 +27,7 @@
 
 <p>There’s a workaround here but it doesn’t work as good as before. You can still use Gmail’s SMTP settings but with a few security drawbacks.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>SMTP Server: smtp.gmail.com
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>SMTP Server: smtp.gmail.com
 Port: 465
 Username: yourgmail@gmail.com
 Password: yourgmailpassword
@@ -43,7 +43,7 @@ Secured connection using SSL
 <s>Also, you cannot receive more than one email every 10 minutes or else it will block the sender.</s>
 <p>(This no longer applies and you can receive emails within seconds. Thank you, Ben Harrison for letting us know.) And if you enable the 2-Step verification process you might have to disable it.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tip: If you don't want to sacrifice the security of your account you can create/ use another Gmail account you own for this purpose. Just use that Gmail address and its password on the SMTP settings and it should work fine.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tip: If you don't want to sacrifice the security of your account you can create/ use another Gmail account you own for this purpose. Just use that Gmail address and its password on the SMTP settings and it should work fine.
 </code></pre></div></div>
 
 <p>Google gave mercy to the email addresses you already added prior to the update so this will only affect new email addresses you’ll be sending mail as.</p>

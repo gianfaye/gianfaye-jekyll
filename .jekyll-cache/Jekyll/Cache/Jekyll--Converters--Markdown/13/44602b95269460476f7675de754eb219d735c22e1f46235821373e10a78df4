@@ -1,4 +1,4 @@
-I"a 
+I"� 
 <p>In preparation to the <a href="/blog/openness-night-24-hour-hackathon/">Openness Night Hackathon this coming weekend</a>, today, I worked around <strong>Node.js app deployment on Heroku</strong>. I’ll be posting the procedures, challenges, and problems I encountered along the way by which could help anyone reading this who’s also venturing this topic. Please mind that this is not an actual tutorial but I will provide links.</p>
 
 <h2 id="so-why-deployment-first">So, why deployment first?</h2>
@@ -40,7 +40,7 @@
 
 <p>Contextually, <code>package.json</code> is like the <code>/_config.yml</code> on your Jekyll site. It contains the information for your Node.js project and it is very important to know that dependencies and their proper versions should be properly encoded to avoid conflicts.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
     "name": "project-name",
     "version": "0.0.1",
     "private": true,
@@ -65,7 +65,7 @@
 
 <p>From line 2 of <code>app.js</code>:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	app = express.createServer(express.logger())
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	app = express.createServer(express.logger())
 </code></pre></div></div>
 
 <p>» <code>express.createServer()</code> should be <code>express()</code> on Express 3.</p>
@@ -88,7 +88,7 @@
 
 <p>The file structure of my project looks a bit like this:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>project
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>project
 |_ node_modules
 	|_ .bin
 	|_ ejs-locals

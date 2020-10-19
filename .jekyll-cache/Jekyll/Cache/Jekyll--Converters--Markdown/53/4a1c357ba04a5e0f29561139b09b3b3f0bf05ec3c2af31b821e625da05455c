@@ -1,4 +1,4 @@
-I"fP
+I"�P
 <p>I created an alarm device that will determine the temperature of your coffee (or tea), show you the status if it’s still HOT, WARM, or COLD with LEDs (red, yellow, and blue respectively), trigger a warning alarm if it is getting cold and will buzz continuously when it eventually gets cold.</p>
 
 <h2 id="the-working-prototype">The Working Prototype</h2>
@@ -54,14 +54,14 @@
 
 <p>I initialized 3 constants for this sketch:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const int sensorPin = A0; // connects the temperature sensor to an analog pin
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const int sensorPin = A0; // connects the temperature sensor to an analog pin
 const int buzzerPin = 8; // connects the piezo buzzer to a digital pin
 const float baselineTemp = 25.0; // the base temperature to compare with what the sensor detects
 </code></pre></div></div>
 
 <p>On the setup:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Serial.begin(9600); // opens a serial port
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Serial.begin(9600); // opens a serial port
 // sets the LEDs (connected to pins 2, 3, 4) as output
 for(int pinNumber = 2; pinNumber &lt; 5; pinNumber++){
     pinMode(pinNumber, OUTPUT);
@@ -72,7 +72,7 @@ pinMode(buzzerPin, OUTPUT); // sets the buzzer pin as an output
 
 <p>On the initial part loop:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// determines the value of the sensor, this will be used to compute the voltage output
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// determines the value of the sensor, this will be used to compute the voltage output
 int sensorVal = analogRead(sensorPin);
 
 // outputs the sensor value on the Serial Monitor for checking
@@ -98,7 +98,7 @@ String tempStatus = "";
 
 <p>Determining the temperature:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// determines if drink is COLD
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// determines if drink is COLD
 if(temperature &lt; baselineTemp) {
     // if temp is less than 25 C, turn the blue LED on
     digitalWrite(2, HIGH); // blue
@@ -160,7 +160,7 @@ delay(3000);
 
 <p><img src="http://i.imgur.com/FBR4ISP.png" alt="Your Coffee is Getting Cold alarm device schematics" /></p>
 
-<p>Total time spent for this project: <code class="highlighter-rouge">3 hours</code> (including the time spent figuring out the design with the available resources)</p>
+<p>Total time spent for this project: <code class="language-plaintext highlighter-rouge">3 hours</code> (including the time spent figuring out the design with the available resources)</p>
 
 <p>That’s it! Let me know on the comments section below if you see points of improvement on this project or if you created your own. :) Enjoy your cup of hot coffee.</p>
 
